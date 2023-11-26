@@ -17,11 +17,11 @@ Scientific Journal of Intelligent Systems Research, Vol 4 Issue 6, June 2022. [[
 
 - **Research on triangle pattern recognition based on Fuzzy Mathematics**.\
 **Haonan Wang**.Haitao Liu,Wei,Liu\
-China Science and Technology Papers Online, 202111-50, Nov 2021.[[pdf]](https://github.com/haonan-wang628/haonanwang628.github.io/blob/master/files/202111.pdf)
+China Science and Technology Papers Online, 202111-50, Nov 2021.[[pdf]](files/论文电子版.pdf)
 
 - **Research on E-commerce Customer Satisfaction Based on Two Type Fuzzy Sets.**\
 **Haonan Wang**.Mingjia Zhao, Wei Liu,Shuxian Wang,Liupeng Zhang\
-China Science and Technology Papers Online, 202204-330, August 2022. [[pdf]](https://github.com/haonan-wang628/haonanwang628.github.io/blob/master/files/202204-330.pdf)
+China Science and Technology Papers Online, 202204-330, August 2022. [[pdf]](files/202204-330.pdf)
 
 ## PRC Software Copyright Patent
 
