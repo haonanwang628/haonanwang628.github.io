@@ -56,4 +56,3 @@ No. 2022SR0935020..[[pdf]](https://github.com/haonan-wang628/haonanwang628.githu
 - **Motion detection system based on Artificial Intelligence.**\
 Ruoying, Huang, Yiqiang,Xia, Xia,Xu,**Haonan Wang**,Mingjia,Zhao,.\
 No. 2023R11L1294478.[[pdf]](https://github.com/haonan-wang628/haonanwang628.github.io/blob/master/files/8.%E8%81%8C%E5%B7%A5%E7%AD%BE%E5%88%B0%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB%E7%B3%BB%E7%BB%9F.pdf)
-![image](https://github.com/haonanwang628/haonanwang628.github.io/assets/143772438/c0a7136e-eae1-4528-8124-4b9171dae97a)
