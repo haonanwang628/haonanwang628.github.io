@@ -39,7 +39,7 @@ No. 2022SR1053901..[[pdf]](files/3.人工智能机器人编程交互控制系统
 
 - **Artificial Intelligence Community Security Equipment Monitoring System.**\
 **Haonan Wang**, Chang, Liu, Mingjia, Zhao,.\
-No. 2022SR1052492.[[pdf]](https://github.com/haonan-wang628/haonanwang628.github.io/blob/master/files/4.%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%A4%BE%E5%8C%BA%E5%AE%89%E5%85%A8%E8%A3%85%E5%A4%87%E7%9B%91%E6%8E%A7%E7%B3%BB%E7%BB%9F.pdf)
+No. 2022SR1052492.[[pdf]](files/4.人工智能社区安全装备监控系统.pdf)
 
 - **Image recognition processing operation platform.**\
 **Haonan Wang**, Chi, Li, Meng, Liu.\
