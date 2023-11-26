@@ -43,7 +43,7 @@ No. 2022SR1052492.[[pdf]](files/4.人工智能社区安全装备监控系统.pdf
 
 - **Image recognition processing operation platform.**\
 **Haonan Wang**, Chi, Li, Meng, Liu.\
-No. 2022SR1052419.[[pdf]](https://github.com/haonan-wang628/haonanwang628.github.io/blob/master/files/5.%E5%9B%BE%E5%83%8F%E8%AF%86%E5%88%AB%E5%A4%84%E7%90%86%E6%93%8D%E4%BD%9C%E5%B9%B3%E5%8F%B0.pdf)
+No. 2022SR1052419.[[pdf]](files/5.图像识别处理操作平台.pdf)
 
 - **Autonomous Driving Intelligent Dispatching Center Management System.**\
 **Haonan Wang**, Mingjia, Zhao, Chang, Liu.\
