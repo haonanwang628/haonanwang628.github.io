@@ -11,6 +11,7 @@ redirect_from:
 
 ## About me
 ======
+
 I'm a graduate student and to study at [Master of Science in Engineering in Computer Science (MSE)](https://www.cs.jhu.edu/academic-programs/graduate-studies/mse-programs/)from [Whiting School of Engineering](https://engineering.jhu.edu/), [Johns Hopkins University](https://www.jhu.edu/)， and MSE's Research Concentration: Human Language Technology!
 
  Prior to JHU, I had completed an undergraduate comprehensive program in Mathematic， information, and Computing Science at 
@@ -20,6 +21,8 @@ I'm a graduate student and to study at [Master of Science in Engineering in Comp
 
 Research interest
 ======
+
+
 My Research interest is in Multimodal models and Natural Language Processing， and their applications to Computational Medicine and Computational Sociology. I've been exploring how to accurately integrate text data with other data patterns (such as images, sounds, etc.) to build predictive models that are both robust and accurate.
 In particular:
 
@@ -37,4 +40,5 @@ Construction of medical knowledge graph: Combining natural language processing t
 
 Sitemap
 ------
+
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=SKcjgzgQyI-EES5nZZIvRwf28tW3deze8IRxPDpf-hE&cl=ffffff&w=a"></script>
