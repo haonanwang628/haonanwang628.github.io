@@ -35,7 +35,7 @@ No. 2022SR1049807.[[pdf]](files/2.基于机器学习的网络行为分析系统.
 
 - **Artificial intelligence robot programming interactive control system.**\
 **Haonan Wang**, Mingjia, Zhao, Chang, Liu.\
-No. 2022SR1053901..[[pdf]](https://github.com/haonan-wang628/haonanwang628.github.io/blob/master/files/3.%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%BC%96%E7%A8%8B%E4%BA%A4%E4%BA%92%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F.pdf)
+No. 2022SR1053901..[[pdf]](files/3.人工智能机器人编程交互控制系统.pdf)
 
 - **Artificial Intelligence Community Security Equipment Monitoring System.**\
 **Haonan Wang**, Chang, Liu, Mingjia, Zhao,.\
