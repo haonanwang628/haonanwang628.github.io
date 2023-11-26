@@ -47,7 +47,7 @@ No. 2022SR1052419.[[pdf]](files/5.图像识别处理操作平台.pdf)
 
 - **Autonomous Driving Intelligent Dispatching Center Management System.**\
 **Haonan Wang**, Mingjia, Zhao, Chang, Liu.\
-No. 2022SR1052526.[[pdf]](https://github.com/haonan-wang628/haonanwang628.github.io/blob/master/files/6.%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E6%99%BA%E8%83%BD%E8%B0%83%E5%BA%A6%E4%B8%AD%E5%BF%83%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F.pdf)
+No. 2022SR1052526.[[pdf]](files/6.自动驾驶智能调度中心管理系统.pdf)
 
 - **Unmanned shortest path planning system**, \
 **Haonan Wang**,Ruiyang, Wang, Mingjia, Zhao.\
