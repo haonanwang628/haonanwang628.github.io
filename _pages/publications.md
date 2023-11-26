@@ -27,7 +27,7 @@ China Science and Technology Papers Online, 202204-330, August 2022. [[pdf]](fil
 
 - **Data operation analysis and collection system based on machine learning.**\
 **Haonan Wang**, Mingjia, Zhao, Chang, Liu.\
-No. 2022SR1052428.[[pdf]](/files/1.%E5%9F%BA%E4%BA%8E%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%9A%84%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E8%BF%90%E8%90%A5%E9%87%87%E9%9B%86%E7%B3%BB%E7%BB%9F.pdf)
+No. 2022SR1052428.[[pdf]](files/1.基于机器学习的数据分析运营采集系统.pdf)
 
 - **A network behavior analysis system based on machine learning.**\
 **Haonan Wang**,Xin, Yu, Junfeng, Sun.\
