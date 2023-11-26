@@ -5,12 +5,55 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## Journal
 
-{% include base_path %}
+- **Research status and future prospects of machine learning algorithm in big data analysis.**\
+**Haonan Wang**.\
+Journal of Network Computing and Applications, Vol 6, Issue 1, August 2021. [[pdf]](https://www.clausiuspress.com/assets/default/article/2021/06/01/article_1622604557.pdf)
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+- **Research on geometric figure classification algorithm based on Deep Learning .**\
+Ruiyang Wang, **Haonan Wang**, Junfeng Sun, Mingjia Zhao, Meng Liu.\
+Scientific Journal of Intelligent Systems Research, Vol 4 Issue 6, June 2022. [[pdf]](http://www.sjisr.org/download/sjisr-4-6-335-340.pdf)
+
+- **Research on triangle pattern recognition based on Fuzzy Mathematics**.\
+**Haonan Wang**.Haitao Liu,Wei,Liu\
+China Science and Technology Papers Online, 202111-50, Nov 2021.[[pdf]](https://github.com/haonan-wang628/haonanwang628.github.io/blob/master/files/202111.pdf)
+
+- **Research on E-commerce Customer Satisfaction Based on Two Type Fuzzy Sets.**\
+**Haonan Wang**.Mingjia Zhao, Wei Liu,Shuxian Wang,Liupeng Zhang\
+China Science and Technology Papers Online, 202204-330, August 2022. [[pdf]](https://github.com/haonan-wang628/haonanwang628.github.io/blob/master/files/202204-330.pdf)
+
+## PRC Software Copyright Patent
+
+- **Data operation analysis and collection system based on machine learning.**\
+**Haonan Wang**, Mingjia, Zhao, Chang, Liu.\
+No. 2022SR1052428.[[pdf]](/files/1.%E5%9F%BA%E4%BA%8E%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%9A%84%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E8%BF%90%E8%90%A5%E9%87%87%E9%9B%86%E7%B3%BB%E7%BB%9F.pdf)
+
+- **A network behavior analysis system based on machine learning.**\
+**Haonan Wang**,Xin, Yu, Junfeng, Sun.\
+No. 2022SR1049807.[[pdf]](https://github.com/haonan-wang628/haonanwang628.github.io/blob/master/files/2.%E5%9F%BA%E4%BA%8E%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%9A%84%E7%BD%91%E7%BB%9C%E8%A1%8C%E4%B8%BA%E5%88%86%E6%9E%90%E7%B3%BB%E7%BB%9F.pdf)
+
+- **Artificial intelligence robot programming interactive control system.**\
+**Haonan Wang**, Mingjia, Zhao, Chang, Liu.\
+No. 2022SR1053901..[[pdf]](https://github.com/haonan-wang628/haonanwang628.github.io/blob/master/files/3.%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%BC%96%E7%A8%8B%E4%BA%A4%E4%BA%92%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F.pdf)
+
+- **Artificial Intelligence Community Security Equipment Monitoring System.**\
+**Haonan Wang**, Chang, Liu, Mingjia, Zhao,.\
+No. 2022SR1052492.[[pdf]](https://github.com/haonan-wang628/haonanwang628.github.io/blob/master/files/4.%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%A4%BE%E5%8C%BA%E5%AE%89%E5%85%A8%E8%A3%85%E5%A4%87%E7%9B%91%E6%8E%A7%E7%B3%BB%E7%BB%9F.pdf)
+
+- **Image recognition processing operation platform.**\
+**Haonan Wang**, Chi, Li, Meng, Liu.\
+No. 2022SR1052419.[[pdf]](https://github.com/haonan-wang628/haonanwang628.github.io/blob/master/files/5.%E5%9B%BE%E5%83%8F%E8%AF%86%E5%88%AB%E5%A4%84%E7%90%86%E6%93%8D%E4%BD%9C%E5%B9%B3%E5%8F%B0.pdf)
+
+- **Autonomous Driving Intelligent Dispatching Center Management System.**\
+**Haonan Wang**, Mingjia, Zhao, Chang, Liu.\
+No. 2022SR1052526.[[pdf]](https://github.com/haonan-wang628/haonanwang628.github.io/blob/master/files/6.%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E6%99%BA%E8%83%BD%E8%B0%83%E5%BA%A6%E4%B8%AD%E5%BF%83%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F.pdf)
+
+- **Unmanned shortest path planning system**, \
+**Haonan Wang**,Ruiyang, Wang, Mingjia, Zhao.\
+No. 2022SR0935020..[[pdf]](https://github.com/haonan-wang628/haonanwang628.github.io/blob/master/files/7.%E6%97%A0%E4%BA%BA%E9%A9%BE%E9%A9%B6%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E8%A7%84%E5%88%92%E7%B3%BB%E7%BB%9F.pdf)
+
+- **Motion detection system based on Artificial Intelligence.**\
+Ruoying, Huang, Yiqiang,Xia, Xia,Xu,**Haonan Wang**,Mingjia,Zhao,.\
+No. 2023R11L1294478.[[pdf]](https://github.com/haonan-wang628/haonanwang628.github.io/blob/master/files/8.%E8%81%8C%E5%B7%A5%E7%AD%BE%E5%88%B0%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB%E7%B3%BB%E7%BB%9F.pdf)
+![image](https://github.com/haonanwang628/haonanwang628.github.io/assets/143772438/c0a7136e-eae1-4528-8124-4b9171dae97a)
