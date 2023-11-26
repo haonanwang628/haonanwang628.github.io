@@ -8,43 +8,33 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
-A data-driven personal website
+## About me
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+I'm a graduate student and to study at [Master of Science in Engineering in Computer Science (MSE)](https://www.cs.jhu.edu/academic-programs/graduate-studies/mse-programs/)from [Whiting School of Engineering](https://engineering.jhu.edu/), [Johns Hopkins University](https://www.jhu.edu/)， and MSE's Research Concentration: Human Language Technology!
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+ Prior to JHU, I had completed an undergraduate comprehensive program in Mathematic， information, and Computing Science at 
+ [Liaoning Technical University](http://lxy.lntu.edu.cn/)， and graduated. I received my Bachelor's in Information and Computing Science at Liaoning Technical University in China. During my undergraduate study, I studied and worked at the Institute of Mathematics and Systems Science and the Institute of Machine Learning and Data Mining for four years, and served as the team leader of the Math819 College Student Competition， where I was jointly guided by [Wei Liu](http://lxy.lntu.edu.cn/info/1068/2235.htm)， [Fanhui Zeng](http://lxy.lntu.edu.cn/info/1068/2232.htm)and[Yu Zhang](http://lxy.lntu.edu.cn/info/1068/2242.htm)，
 
-Getting started
+
+
+Research interest
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+My Research interest is in Multimodal models and Natural Language Processing， and their applications to Computational Medicine and Computational Sociology. I've been exploring how to accurately integrate text data with other data patterns (such as images, sounds, etc.) to build predictive models that are both robust and accurate.
+In particular:
 
-Site-wide configuration
+**1. Integration of multimodal large model and natural language processing:**
+Cross-modal representation learning: I work on how to get joint representations of text and other patterns (e.g. images, sounds) through deep learning techniques such as Transformers and deep autoencoders. Multimodal sentiment analysis: Capture and understand user emotions and emotions more accurately by combining modal data such as text, voice, and facial expressions. Multimodal knowledge graph construction: Combining text description with visual, audio, and other modal information to build a more rich and robust knowledge graph.
+
+**2. Combination of computational medicine and multimodal data:**
+ My research focuses include: Natural language processing of medical records: Extract critical information to optimize the diagnosis and treatment process through in-depth analysis of medical records, doctor's notes, and patient statements. Establishment of predictive model: Using text data combined with other medical data (such as medical images, and biochemical test results), combined with patients' daily records, medical records, and other physiological data, to build an early prediction and diagnosis model, aiming to detect and manage potential health risks in advance.
+Construction of medical knowledge graph: Combining natural language processing technology to extract and integrate knowledge from medical literature and clinical data to provide doctors and patients with richer and more accurate medical information.
+
+**3. Cross-research between artificial intelligence and sociology:**
+ My research in this area focuses on Algorithmic Bias and Fairness: Through an in-depth look at algorithmic decision-making processes, I explore the biases that can arise when algorithms process sociocultural data, and how these biases can be reduced or eliminated through technical means or policy adjustments. The interaction between technology and society: AI not only affects society but society's feedback and demand for it will, in turn, affect the direction of technology development. I explore this interaction and what it means for future technological and social relationships. From city management to public policy-making, I examine how AI can aid or influence these decision-making processes, as well as the potential risks and opportunities.
+
+
+
+Sitemap
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=SKcjgzgQyI-EES5nZZIvRwf28tW3deze8IRxPDpf-hE&cl=ffffff&w=a"></script>
