@@ -51,7 +51,7 @@ No. 2022SR1052526.[[pdf]](files/6.自动驾驶智能调度中心管理系统.pdf
 
 - **Unmanned shortest path planning system**, \
 **Haonan Wang**,Ruiyang, Wang, Mingjia, Zhao.\
-No. 2022SR0935020..[[pdf]](https://github.com/haonan-wang628/haonanwang628.github.io/blob/master/files/7.%E6%97%A0%E4%BA%BA%E9%A9%BE%E9%A9%B6%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E8%A7%84%E5%88%92%E7%B3%BB%E7%BB%9F.pdf)
+No. 2022SR0935020..[[pdf]](files/7.无人驾驶最短路径规划系统.pdf)
 
 - **Motion detection system based on Artificial Intelligence.**\
 Ruoying, Huang, Yiqiang,Xia, Xia,Xu,**Haonan Wang**,Mingjia,Zhao,.\
