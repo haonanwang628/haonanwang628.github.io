@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Conference
+## 📝 Conference
 
 ### 2023
 
@@ -13,7 +13,7 @@ author_profile: true
   **Haonan Wang**,Mingjia Zhao,Huiqi Zou,Yuxin Wang,Junfeng Sun.\
 Intrernational
   
-## Journal
+## 📝 Journal
 
 ### 2022
 
