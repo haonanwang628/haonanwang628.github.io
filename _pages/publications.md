@@ -10,8 +10,8 @@ author_profile: true
 ### 2023
 
 - **Multimodal modeling in sentiment analysis based on NLP**\
-  **Haonan Wang**,Mingjia Zhao,Huiqi Zou,Yuxin Wang,Junfeng Sun\
-
+  **Haonan Wang**,Mingjia Zhao,Huiqi Zou,Yuxin Wang,Junfeng Sun.\
+Intrernational
   
 ## Journal
 
