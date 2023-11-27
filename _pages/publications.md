@@ -35,36 +35,29 @@ China Science and Technology Papers Online, 202204-330, August 2022. [[pdf]](fil
 **Haonan Wang**.\
 Journal of Network Computing and Applications, Vol 6, Issue 1, August 2021. [[pdf]](https://www.clausiuspress.com/assets/default/article/2021/06/01/article_1622604557.pdf)
 
+
 ## PRC Software Copyright Patent
 
 - **Data operation analysis and collection system based on machine learning.**\
-**Haonan Wang**, Mingjia, Zhao, Chang, Liu.\
-No. 2022SR1052428.[[pdf]](files/1.基于机器学习的数据分析运营采集系统.pdf)
+**Haonan Wang**, Mingjia, Zhao, Chang, Liu. No. 2022SR1052428.[[pdf]](files/1.基于机器学习的数据分析运营采集系统.pdf)
 
 - **A network behavior analysis system based on machine learning.**\
-**Haonan Wang**,Xin, Yu, Junfeng, Sun.\
-No. 2022SR1049807.[[pdf]](files/2.基于机器学习的网络行为分析系统.pdf)
+**Haonan Wang**,Xin, Yu, Junfeng, Sun. No. 2022SR1049807.[[pdf]](files/2.基于机器学习的网络行为分析系统.pdf)
 
 - **Artificial intelligence robot programming interactive control system.**\
-**Haonan Wang**, Mingjia, Zhao, Chang, Liu.\
-No. 2022SR1053901..[[pdf]](files/3.人工智能机器人编程交互控制系统.pdf)
+**Haonan Wang**, Mingjia, Zhao, Chang, Liu. No. 2022SR1053901..[[pdf]](files/3.人工智能机器人编程交互控制系统.pdf)
 
 - **Artificial Intelligence Community Security Equipment Monitoring System.**\
-**Haonan Wang**, Chang, Liu, Mingjia, Zhao,.\
-No. 2022SR1052492.[[pdf]](files/4.人工智能社区安全装备监控系统.pdf)
+**Haonan Wang**, Chang, Liu, Mingjia, Zhao,. No. 2022SR1052492.[[pdf]](files/4.人工智能社区安全装备监控系统.pdf)
 
 - **Image recognition processing operation platform.**\
-**Haonan Wang**, Chi, Li, Meng, Liu.\
-No. 2022SR1052419.[[pdf]](files/5.图像识别处理操作平台.pdf)
+**Haonan Wang**, Chi, Li, Meng, Liu. No. 2022SR1052419.[[pdf]](files/5.图像识别处理操作平台.pdf)
 
 - **Autonomous Driving Intelligent Dispatching Center Management System.**\
-**Haonan Wang**, Mingjia, Zhao, Chang, Liu.\
-No. 2022SR1052526.[[pdf]](files/6.自动驾驶智能调度中心管理系统.pdf)
+**Haonan Wang**, Mingjia, Zhao, Chang, Liu. No. 2022SR1052526.[[pdf]](files/6.自动驾驶智能调度中心管理系统.pdf)
 
-- **Unmanned shortest path planning system**, \
-**Haonan Wang**,Ruiyang, Wang, Mingjia, Zhao.\
-No. 2022SR0935020..[[pdf]](files/7.无人驾驶最短路径规划系统.pdf)
+- **Unmanned shortest path planning system** \
+**Haonan Wang**,Ruiyang, Wang, Mingjia, Zhao. No. 2022SR0935020..[[pdf]](files/7.无人驾驶最短路径规划系统.pdf)
 
 - **Motion detection system based on Artificial Intelligence.**\
-Ruoying, Huang, Yiqiang,Xia, Xia,Xu,**Haonan Wang**,Mingjia,Zhao,.\
-No. 2023R11L1294478.[[pdf]](files/8.职工签到人脸识别系统.pdf)
+Ruoying, Huang, Yiqiang,Xia, Xia,Xu,**Haonan Wang**,Mingjia,Zhao, No. 2023R11L1294478.[[pdf]](files/8.职工签到人脸识别系统.pdf)
