@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## 📝 Academic paper
+## 📝 Paper
 
 ### Conference
 
