@@ -23,7 +23,7 @@ I'm a graduate student and to study at [Master of Science in Engineering in Comp
 - **China National Scholarship** 
 - **Member, China Computer Federation**
 - **Member, Chinese Society of Optimization, Overall Planning, and Economic Mathematics National Honorary Certificate**
-- **Certificate, College Student Mathematical Modeling Association**
+- **Member, College Student Mathematical Modeling Association**
 
 
 Research interest
