@@ -44,4 +44,4 @@ Cross-modal representation learning: I work on how to get joint representations 
 Sitemap
 ------
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=znZM_IfF9ArJwpHn-JXjrayz7IuSfdytiAwYMc88FtI&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=znZM_IfF9ArJwpHn-JXjrayz7IuSfdytiAwYMc88FtI"></script>
