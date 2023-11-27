@@ -20,4 +20,4 @@ redirect_from:
 
 ## 🏛️Conference
 
-* ***2021***    **5th Intelligent Science and Mathematics Forum**
+* ***2021***，**The 5th Intelligent Science and Mathematics Forum**
