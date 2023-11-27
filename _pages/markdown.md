@@ -9,7 +9,7 @@ redirect_from:
 
 ## 💻 Interships
 
-* *2022.08.15-2022.09.15* **Beijing Qianfeng Internet Technology Co., Ltd. (Shenyang Branch)**
+* ***2022.08.15-2022.09.15***   **Beijing Qianfeng Internet Technology Co., Ltd. (Shenyang Branch)**
   *	As an intern in the second echelon of the technology research and development department, I was mainly responsible for programming and testing, network security programming, and routine computer maintenance.
   *	Responsible for programming the connection between the system developed by the Python programming language and the database 
   *	Performed Python command updates and server configuration.
