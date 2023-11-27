@@ -5,19 +5,18 @@ permalink: /publications/
 author_profile: true
 ---
 
-## 📝 Paper
 
-### Conference
+## 📝Conference
 
-#### 2023
+### 2023
 
 - **Multimodal modeling in sentiment analysis based on NLP**\
   **Haonan Wang**,Mingjia Zhao,Huiqi Zou,Yuxin Wang,Junfeng Sun.\
 Intrernational
   
-### Journal
+## 📝Journal
 
-#### 2022
+### 2022
 
 - **Research on geometric figure classification algorithm based on Deep Learning .**\
 Ruiyang Wang, **Haonan Wang**, Junfeng Sun, Mingjia Zhao, Meng Liu.\
@@ -31,7 +30,7 @@ China Science and Technology Papers Online, 202111-50, Nov 2021.[[pdf]](files/�
 **Haonan Wang**.Mingjia Zhao, Wei Liu,Shuxian Wang,Liupeng Zhang\
 China Science and Technology Papers Online, 202204-330, August 2022. [[pdf]](files/202204-330.pdf)
 
-#### 2021
+### 2021
 
 - **Research status and future prospects of machine learning algorithm in big data analysis.**\
 **Haonan Wang**.\
