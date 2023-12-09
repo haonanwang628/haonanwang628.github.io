@@ -13,7 +13,7 @@ About me
 
 ### 🎓 Introducation
 
-I'm a graduate student and to study at [Master of Science in Engineering in Computer Science (MSE)](https://www.cs.jhu.edu/academic-programs/graduate-studies/mse-programs/)from [Whiting School of Engineering](https://engineering.jhu.edu/), [Johns Hopkins University](https://www.jhu.edu/)， and MSE's Research Concentration: NLP!
+I'm a graduate student and to study at [Master of Science in Engineering in Computer Science (MSE)](https://www.cs.jhu.edu/academic-programs/graduate-studies/mse-programs/)from [Whiting School of Engineering](https://engineering.jhu.edu/), [Johns Hopkins University](https://www.jhu.edu/).
 
  Prior to JHU, I had completed an undergraduate comprehensive program in Mathematic， information, and Computing Science at 
  [Liaoning Technical University](http://lxy.lntu.edu.cn/)， and graduated. I received my Bachelor's in Information and Computing Science at Liaoning Technical University in China. During my undergraduate study, I studied and worked at the Institute of Mathematics and Systems Science and the Institute of Machine Learning and Data Mining for four years, and served as the team leader of the Math819 College Student Competition， where I was jointly guided by [Wei Liu](http://lxy.lntu.edu.cn/info/1068/2235.htm)， [Fanhui Zeng](http://lxy.lntu.edu.cn/info/1068/2232.htm)and[Yu Zhang](http://lxy.lntu.edu.cn/info/1068/2242.htm)，
@@ -37,9 +37,6 @@ I am broadly interested in **Natural Language Processing(NLP)**. My (current)goa
 
 * **Explore RLHF phased training strategy, use Transformer+RL to make the LLMs become the brain of the robot to perceive the world, communicate with humans in natural language,and navigate vision-language in a real 3D environment.**
 * **How can RL be introduced into LLMs to improve inference and generalization ability of the AI model.**
-
-
-
 
 
 Sitemap
