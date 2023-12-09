@@ -31,11 +31,12 @@ Research interest
 
 I am broadly interested in Natural Language Processing. My (current)goal of research is to explore the application of **Large Language Models(LLMs)** in the field of *Natural Language Understanding(NLU)* , *Natural Language Generation(NLG)* and *Reinforcement Learning*, make computers to understand Language and convert it into Machine-executable code, as well as to convert complex data into text(Human-understandable text). Under this research them, I would like to explore:
  
-**a.	Large Language for code:** How to make computers understand and interpret the meaning of human Language? How to better use the Language Model to parse natural language descriptions and understand their intent and technical requirements. Finally, it can generate corresponding code segments or programs.
+**a.	Large Language Model for code:** How to make computers understand and interpret the meaning of human Language? How to better use the Language Model to parse natural language descriptions and understand their intent and technical requirements. Finally, it can generate corresponding code segments or programs.
 
-**b.	Data-driven text generation:** I think enough data is important for the AI Model. So I try to use data to automatically create text content. So how to extract information from structured data (such as databases, tables, reports, etc.) and convert it into easy-to-understand Language text.
+**b.	Large Language Model for RLHF:** I also try to study the use of large language models(LLMs) combined Reinforcement Learning,and explore Reinforcement Learning(RL) with Human Feedback(RLHF) and their applications in the field of large language models.
 
-**c.	Multimodal Language-Driven Programming Automation:** I also try to study the use of *Large Language Model*combined with *Reinforcement Learning*, and then convert natural language into machine-executable code. It includes understanding the intent of human language and mapping it to corresponding programming commands, applying the generated code to a specific software or system. Interpret and execute natural language-based instructions to automate specific engineering operations without traditional programming intervention.
+* **Explore RLHF phased training strategy, use Transformer+RL to make the LLMs become the brain of the robot to perceive the world, communicate with humans in natural language,and navigate vision-language in a real 3D environment.**
+* **How can RL be introduced into LLMs to improve inference and generalization ability of the AI model.**
 
 
 
