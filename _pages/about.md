@@ -30,14 +30,15 @@ Research interest
 ======
 
 My Research interest is in Multimodal models and Natural Language Processing， and their applications to Computational Medicine and Computational Sociology. I've been exploring how to accurately integrate text data with other data patterns (such as images, sounds, etc.) to build predictive models that are both robust and accurate.
-In particular:
+In particular
+ 
+ I am broadly interested in Natural Language Processing. My (current)goal of research is to explore the application of Large Language Models(LLMs) in the field of Natural Language Understanding(NLU) and Natural Language Generation(NLG), make computers to understand Language and convert it into Machine-executable code, as well as to convert complex data into text(Human-understandable text). Under this research them, I would like to explore:
+ 
+**a.	Large Language for code: How to make computers understand and interpret the meaning of human Language? How to better use the Language Model to parse natural language descriptions and understand their intent and technical requirements. Finally, it can generate corresponding code segments or programs.
+**b.	Data-driven text generation: I think enough data is important for the AI Model. So I try to use data to automatically create text content. So how to extract information from structured data (such as databases, tables, reports, etc.) and convert it into easy-to-understand Language text.
+**c.	Multimodal Language-Driven Programming Automation: I also try to study the use of Large Language Model to process multimodal data, and then convert natural language into machine-executable code. It includes understanding the intent of human language and mapping it to corresponding programming commands, applying the generated code to a specific software or system. Interpret and execute natural language-based instructions to automate specific engineering operations without traditional programming intervention.
 
-**1. Integration of multimodal large model and natural language processing:**
-Cross-modal representation learning: I work on how to get joint representations of text and other patterns (e.g. images, sounds) through deep learning techniques such as Transformers and deep autoencoders. Multimodal sentiment analysis: Capture and understand user emotions and emotions more accurately by combining modal data such as text, voice, and facial expressions. Multimodal knowledge graph construction: Combining text description with visual, audio, and other modal information to build a more rich and robust knowledge graph.
 
-
-**2. Cross-research between artificial intelligence and sociology:**
- My research in this area focuses on Algorithmic Bias and Fairness: Through an in-depth look at algorithmic decision-making processes, I explore the biases that can arise when algorithms process sociocultural data, and how these biases can be reduced or eliminated through technical means or policy adjustments. The interaction between technology and society: AI not only affects society but society's feedback and demand for it will, in turn, affect the direction of technology development. I explore this interaction and what it means for future technological and social relationships. From city management to public policy-making, I examine how AI can aid or influence these decision-making processes, as well as the potential risks and opportunities.
 
 
 
