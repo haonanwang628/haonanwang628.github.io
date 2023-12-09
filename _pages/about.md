@@ -26,10 +26,10 @@ I'm a graduate student and to study at [Master of Science in Engineering in Comp
 - **Member, College Student Mathematical Modeling Association**
 
 
-Research interest
+Research Themes
 ======
 
-I am broadly interested in **Natural Language Processing**. My (current)goal of research is to explore the application of **Large Language Models(LLMs)** in the field of *Natural Language Understanding(NLU)* , *Natural Language Generation(NLG)* and *Reinforcement Learning*. Under this research them, I would like to explore:
+I am broadly interested in **Natural Language Processing(NLP)**. My (current)goal of research is to explore the application of **Large Language Models(LLMs)** in the field of *Natural Language Understanding(NLU)* , *Natural Language Generation(NLG)* and *Reinforcement Learning*. Under this research them, I would like to explore:
  
 **a.	Large Language Model for code:** How to make computers understand and interpret the meaning of human Language? How to better use the Language Model to parse natural language descriptions and understand their intent and technical requirements. Finally, it can generate corresponding code segments or programs,as well as to convert complex data into text(Human-understandable text)
 
