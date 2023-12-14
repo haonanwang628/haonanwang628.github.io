@@ -25,3 +25,7 @@ B.S. in Information and Computing Science<br>
 *Advisor1: [Prof. Wei liu](http://lxy.lntu.edu.cn/info/1068/2235.htm)*
 *Advisor2: [Prof. Fanhui Zeng](http://lxy.lntu.edu.cn/info/1068/2232.htm)*
 *Advisor3: [Prof. Yu Zhang](http://lxy.lntu.edu.cn/info/1068/2242.htm)*
+
+Awards
+======
+National Scholarship, China Ministry of Education, 2021 (top 1%)
