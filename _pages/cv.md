@@ -31,7 +31,7 @@ Awards
 <p>**National Scholarship, China Ministry of Education, 2022 (top 1%)**<br>
 <p>Outstanding Student Scholarship, Special Prize,LNTU,2023<br>
 <p>Outstanding Special Student Scholarship,First Prize,LNTU,2021<br>
-Outstanding Special Student Scholarship,First Prize,LNTU,2021
+<p>Outstanding Special Student Scholarship,First Prize,LNTU,2021<br>
 
 Outstanding Special Student Scholarship,First Prize,LNTU,2020
 
