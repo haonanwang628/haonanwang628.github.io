@@ -6,14 +6,14 @@ author_profile: true
 ---
 
 
-## 📝Conference paper
+## 📝Conference Paper
 
 
 - **Multimodal modeling in sentiment analysis based on NLP**\
   **Haonan Wang**,Mingjia Zhao,Huiqi Zou,Yuxin Wang,Junfeng Sun.\
 Intrernational
   
-## 📝Journal paper
+## 📝Journal Paper
 
 
 - **Research on geometric figure classification algorithm based on Deep Learning .**\
