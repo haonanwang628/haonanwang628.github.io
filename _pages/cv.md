@@ -32,6 +32,26 @@ Awards
 **National Scholarship, China Ministry of Education, 2022 (top 1%)**\
 ![Award](images/haonanwang_2019.png)
 
+
+<table>
+<tr>
+<td>
+
+![Award](images/haonanwang_2019.png)
+
+</td>
+<td>
+
+**National Scholarship, China Ministry of Education, 2022 (top 1%)**
+
+</td>
+</tr>
+</table>
+
+
+
+
+
 **Outstanding Student Scholarship, Special Prize,LNTU,2023(0.001%)**\
 ## Other award
 Outstanding Special Student Scholarship,First Prize,LNTU,2021\
