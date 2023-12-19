@@ -37,31 +37,24 @@ Journal of Network Computing and Applications, Vol 6, Issue 1, August.2021. [[Pa
 - **Data operation analysis and collection system based on machine learning.**\
 **Haonan Wang**, Mingjia Zhao, Chang Liu.\
   CHINA COPYRIGHT PROTECTION CENTER No. 2022SR1052428.
-
 - **A network behavior analysis system based on machine learning.**\
 **Haonan Wang**,Xin Yu,Junfeng Sun.\
   CHINA COPYRIGHT PROTECTION CENTER No. 2022SR1049807.
-
 - **Artificial intelligence robot programming interactive control system.**\
 **Haonan Wang**, Mingjia Zhao, Chang Liu.\
   CHINA COPYRIGHT PROTECTION CENTER No. 2022SR1053901.
-
 - **Artificial Intelligence Community Security Equipment Monitoring System.**\
 **Haonan Wang**, Chang Liu, Mingjia Zhao.\
   CHINA COPYRIGHT PROTECTION CENTER No. 2022SR1052492.
-
 - **Image recognition processing operation platform.**\
 **Haonan Wang**, Chi Li, Meng Liu.\
   CHINA COPYRIGHT PROTECTION CENTER No. 2022SR1052419.
-
 - **Autonomous Driving Intelligent Dispatching Center Management System.**\
 **Haonan Wang**, Mingjia Zhao, Chang Liu.\
   CHINA COPYRIGHT PROTECTION CENTER No. 2022SR1052526.
-
 - **Unmanned shortest path planning system** \
 **Haonan Wang**,Ruiyang Wang, Mingjia Zhao.\
  CHINA COPYRIGHT PROTECTION CENTER No. 2022SR0935020..
-
 - **Motion detection system based on Artificial Intelligence.**\
 Ruoying Huang, Yiqiang Xia, Xia Xu,**Haonan Wang**,Mingjia Zhao.\
   CHINA COPYRIGHT PROTECTION CENTER No. 2023R11L1294478.
