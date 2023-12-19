@@ -30,7 +30,7 @@ Awards
 ======
 ## Outstanding award
 **National Scholarship, China Ministry of Education, 2022 (top 1%)**\
-<img src="../images/haonanwang_2019.png" width="200" alt="Award"><br clear="left">
+<img src="../images/haonanwang_2019.png" width="200" alt="Award"><br clear="right">
 
 **National Scholarship, China Ministry of Education, 2022 (top 1%)**
 <div style="float: right;">
