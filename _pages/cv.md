@@ -31,31 +31,18 @@ Awards
 **National Scholarship, China Ministry of Education, 2022 (top 1%)**\
 Outstanding Student Scholarship, Special Prize,LNTU,2023\
 Outstanding Special Student Scholarship,First Prize,LNTU,2021\
-
-Outstanding Special Student Scholarship,First Prize,LNTU,2021
-
-Outstanding Special Student Scholarship,First Prize,LNTU,2020
-
-Outstanding Special Student Scholarship,Second Prize,LNTU,2019
-
-14th National Undergraduate Computer Design Competition,Third Prize,Hangzhou,China,2021/
-
-12th MathorCup College Mathematical Modeling Challenge,First Prize,Beijing,China,2022
-
-Liaoning Mathematical Modeling Contest,First Prize, Shenyang,China,2022
-
-7th Shuwei Mathematical Modeling Challenge for College Students,First Prize,Beijing,China,2022
-
-Liaoning Province "Shuo Ri Cup" College Student Computer Design,Third Prize,Shenyang,China,2022
-
-LNTU Computer Design Competition,First Prize,Fuxin,China,2022
-
-Northeast Three Provinces Mathematical Modeling Competition,Third Prize,Dalian,China,2022
-
-American Mathematical Contest in Modeling,Second Prize,USA,2021
-
-11th Mathor Cup University Mathematical Modeling Challenge,Third Prize,Beijing,China,2021
-
-National College Students "Hua Shu Cup" Mathematical Modeling,Second Prize,Beijing,China,2021
+Outstanding Special Student Scholarship,First Prize,LNTU,2021\
+Outstanding Special Student Scholarship,First Prize,LNTU,2020\
+Outstanding Special Student Scholarship,Second Prize,LNTU,2019\
+14th National Undergraduate Computer Design Competition,Third Prize,Hangzhou,China,2021\
+12th MathorCup College Mathematical Modeling Challenge,First Prize,Beijing,China,2022\
+Liaoning Mathematical Modeling Contest,First Prize, Shenyang,China,2022\
+7th Shuwei Mathematical Modeling Challenge for College Students,First Prize,Beijing,China,2022\
+Liaoning Province "Shuo Ri Cup" College Student Computer Design,Third Prize,Shenyang,China,2022\
+LNTU Computer Design Competition,First Prize,Fuxin,China,2022\
+Northeast Three Provinces Mathematical Modeling Competition,Third Prize,Dalian,China,2022\
+American Mathematical Contest in Modeling,Second Prize,USA,2021\
+11th Mathor Cup University Mathematical Modeling Challenge,Third Prize,Beijing,China,2021\
+National College Students "Hua Shu Cup" Mathematical Modeling,Second Prize,Beijing,China,2021\
 
 
