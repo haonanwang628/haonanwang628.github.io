@@ -29,7 +29,7 @@ B.S. in Information and Computing Science<br>
 Awards
 ======
 **National Scholarship, China Ministry of Education, 2022 (top 1%)**\
-<p style="padding-left:0px;"> <img align="left" src="haonanwang_2019.jpg" width="300" style="border: 0;" />
+<p style="padding-left:0px;"> <img align="left" src="haonanwang_2019.jpg" width="300" style="border: 0;" />\
 Outstanding Student Scholarship, Special Prize,LNTU,2023\
 Outstanding Special Student Scholarship,First Prize,LNTU,2021\
 Outstanding Special Student Scholarship,First Prize,LNTU,2021\
