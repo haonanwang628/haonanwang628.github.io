@@ -28,15 +28,14 @@ B.S. in Information and Computing Science<br>
 
 Awards
 ======
-**National Scholarship, China Ministry of Education, 2022 (top 1%)**\
-<img src="../images/2022年国家奖学金.jpg" width="200" alt="Award"><br clear="left">
-**Outstanding Student Scholarship, Special Prize,LNTU,2023(0.001%)**\
+**⭐️National Scholarship, China Ministry of Education, 2022 (top 1%)**\
+Outstanding Student Scholarship, Special Prize,LNTU,2023(0.001%)\
 Outstanding Special Student Scholarship,First Prize,LNTU,2021\
 Outstanding Special Student Scholarship,First Prize,LNTU,2021\
 Outstanding Special Student Scholarship,First Prize,LNTU,2020\
 Outstanding Special Student Scholarship,Second Prize,LNTU,2019\
-**14th National Undergraduate Computer Design Competition,Third Prize,Hangzhou,China,2021**\
-**12th MathorCup College Mathematical Modeling Challenge,First Prize,Beijing,China,2022**\
+14th National Undergraduate Computer Design Competition,Third Prize,Hangzhou,China,2021\
+12th MathorCup College Mathematical Modeling Challenge,First Prize,Beijing,China,2022\
 Liaoning Mathematical Modeling Contest,First Prize, Shenyang,China,2022\
 7th Shuwei Mathematical Modeling Challenge for College Students,First Prize,Beijing,China,2022\
 Liaoning Province "Shuo Ri Cup" College Student Computer Design,Third Prize,Shenyang,China,2022\
