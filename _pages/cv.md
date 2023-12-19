@@ -32,6 +32,12 @@ Awards
 **National Scholarship, China Ministry of Education, 2022 (top 1%)**\
 <img src="../images/haonanwang_2019.png"><br clear="left">
 
+**National Scholarship, China Ministry of Education, 2022 (top 1%)**
+<div style="float: right;">
+  <img src="../images/haonanwang_2019.png" alt="Award">
+</div>
+
+
 <table>
 <tr>
 <td>
