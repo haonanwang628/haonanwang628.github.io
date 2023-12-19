@@ -43,6 +43,6 @@ LNTU Computer Design Competition,First Prize,Fuxin,China,2022\
 Northeast Three Provinces Mathematical Modeling Competition,Third Prize,Dalian,China,2022\
 American Mathematical Contest in Modeling,Second Prize,USA,2021\
 11th Mathor Cup University Mathematical Modeling Challenge,Third Prize,Beijing,China,2021\
-National College Students "Hua Shu Cup" Mathematical Modeling,Second Prize,Beijing,China,2021\
+National College Students "Hua Shu Cup" Mathematical Modeling,Second Prize,Beijing,China,2021
 
 
