@@ -29,9 +29,9 @@ B.S. in Information and Computing Science<br>
 Awards
 ======
 ## Outstanding award
-**1.National Scholarship, China Ministry of Education, 2022 (top 1%)**\
+**National Scholarship, China Ministry of Education, 2022 (top 1%)**\
 <img src="../images/2022年国家奖学金.jpg" width="200" alt="Award"><br clear="left">
-**Outstanding Student Scholarship, Special Prize,LNTU,2023(0.001%)**\
+Outstanding Student Scholarship, Special Prize,LNTU,2023(0.001%)\
 Outstanding Special Student Scholarship,First Prize,LNTU,2021\
 Outstanding Special Student Scholarship,First Prize,LNTU,2021\
 Outstanding Special Student Scholarship,First Prize,LNTU,2020\
