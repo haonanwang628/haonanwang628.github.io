@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-## 📝Conference
+## 📝Conference paper
 
 ### 2023
 
@@ -14,9 +14,7 @@ author_profile: true
   **Haonan Wang**,Mingjia Zhao,Huiqi Zou,Yuxin Wang,Junfeng Sun.\
 Intrernational
   
-## 📝Journal
-
-### 2022
+## 📝Journal paper
 
 - **Research on geometric figure classification algorithm based on Deep Learning .**\
 Ruiyang Wang, **Haonan Wang**, Junfeng Sun, Mingjia Zhao, Meng Liu.\
@@ -29,8 +27,6 @@ China Science and Technology Papers Online, 202111-50, Nov 2021.[[pdf]](files/�
 - **Research on E-commerce Customer Satisfaction Based on Two Type Fuzzy Sets.**\
 **Haonan Wang**.Mingjia Zhao, Wei Liu,Shuxian Wang,Liupeng Zhang\
 China Science and Technology Papers Online, 202204-330, August 2022. [[pdf]](files/202204-330.pdf)
-
-### 2021
 
 - **Research status and future prospects of machine learning algorithm in big data analysis.**\
 **Haonan Wang**.\
