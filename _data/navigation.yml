@@ -21,5 +21,5 @@ main:
   - title: "Internships and Conference"
     url: /markdown/
     
-  - title: "Misc about Myself"
-    url: /misc/
+  #- title: "Misc about Myself"
+    #url: /misc/
