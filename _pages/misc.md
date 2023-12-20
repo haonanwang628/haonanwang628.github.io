@@ -1,11 +1,11 @@
-permalink: /misc/
-title: "Misc about myself"
-author_profile: true
-redirect_from: 
-  - /md/
-  - /markdown.html
 ---
 
+layout: archive
+title: "Misc about myself"
+permalink: /misc/
+author_profile: true
+
+---
 # More about me 
 
  * My name in Chinese is 王浩男. I grew up in <a href="https://en.wikipedia.org/wiki/Cangzhou" style="color:#9B0145;">Jingdezhen</a>, known as the Hometown of martial arts and Kongfu of China.
