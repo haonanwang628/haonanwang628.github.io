@@ -20,5 +20,6 @@ main:
     
   - title: "Internships and Conference"
     url: /markdown/
- - title: "Misc about me"
+    
+  - title: "Misc about me"
     url: /misc/
