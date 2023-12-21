@@ -23,3 +23,5 @@ main:
     
   #- title: "Misc about Myself"
     #url: /misc/
+  - title: "Misc"
+    url: /talks/  
