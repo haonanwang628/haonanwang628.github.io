@@ -19,9 +19,7 @@ main:
     #url: /year-archive/
     
   - title: "Internships and Conference"
-    url: /markdown/
-    
-  #- title: "Misc about Myself"
-    #url: /misc/
+    url: /markdown/   
+
   - title: "Misc"
     url: /talks/  
