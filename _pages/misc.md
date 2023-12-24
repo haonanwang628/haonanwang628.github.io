@@ -4,7 +4,8 @@ layout: archive
 title: "Misc about myself"
 permalink: /misc/
 author_profile: true
-
+redirect_from:
+  - /resume
 ---
 # More about me 
 
