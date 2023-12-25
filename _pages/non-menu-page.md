@@ -1,5 +1,5 @@
 ---
-permalink: /misc/
+permalink: /Misc/
 title: "Misc"
 excerpt: "This is a page not in th emain menu"
 author_profile: true
