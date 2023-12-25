@@ -1,8 +1,7 @@
 ---
-
 layout: archive
 title: "Misc about myself"
-permalink: /misc/
+permalink: /Misc1/
 author_profile: true
 redirect_from:
   - /resume
