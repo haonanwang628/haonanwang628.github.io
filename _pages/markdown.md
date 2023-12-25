@@ -6,7 +6,7 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
-# 💻 Interships
+## 💻 Interships
 
 - **2022.08.15-2022.09.15**,**Beijing Qianfeng Internet Technology Co., Ltd,Beijing,China**
   *	As an intern in the second echelon of the technology research and development department, I was mainly responsible for programming and testing, network security programming, and routine computer maintenance.
@@ -17,6 +17,6 @@ redirect_from:
 
 
 
-# 💬 Conference
+## 💬 Conference
 
 * ***2021***，**The 5th Intelligent Science and Mathematics Forum,Liaoning,China**
