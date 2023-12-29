@@ -1,6 +1,6 @@
 ---
-permalink: /Misc/
-title: "Misc"
+permalink: /Misc222/
+title: "Misc222"
 modified: 2016-06-06
 ---
 
