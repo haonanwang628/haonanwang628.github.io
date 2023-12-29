@@ -34,3 +34,18 @@ This is my first semester in JHU. I was invited to attend my good friend Jamie's
 </td>
 </tr>
 </table>
+
+<table>
+  <!-- 图片行 -->
+  <tr>
+    <td><img src="/images/birthday.png" alt="My friend's birthday" style="width: 300px; height: auto;"/></td>
+    <td><img src="/images/IMG_2829.jpg" alt="My Best Friend in the USA" style="width: 300px; height: auto;"/></td>
+    <!-- 继续添加更多的 <td> 标签来并排更多图片 -->
+  </tr>
+  <!-- 文字描述行 -->
+  <tr>
+    <td>This is my first semester in JHU. I was invited to attend my good friend Jamie's birthday party in JHU. This is my first time to attend an "American" party!</td>
+    <td>Thanksgiving Day in NewYork</td>
+    <!-- 继续添加更多的 <td> 标签来添加更多解释文字 -->
+  </tr>
+</table>
