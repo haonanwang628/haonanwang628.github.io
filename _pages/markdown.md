@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 ## Project
-* *This part is to share some good projects I have mainly participated in, so as to better show my research experience and get more criticism and correction*
+*This part is to share some good projects I have mainly participated in, so as to better show my research experience and get more criticism and correction*
 
 
 ## 💻 Interships
