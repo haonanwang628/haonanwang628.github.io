@@ -6,6 +6,10 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
+## Project
+* <small>**This part is to share some good projects I have mainly participated in, so as to better show my research experience and get more criticism and correction**
+
+
 ## 💻 Interships
 
 - **2022.08.15-2022.09.15**,**Beijing Qianfeng Internet Technology Co., Ltd,Beijing,China**
@@ -14,7 +18,6 @@ redirect_from:
   *	Performed Python command updates and server configuration.
   *	Responsible for testing the MySQL system's database update, configuration, and daily operation, using bugs to solve problems, and finding suitable machine learning algorithms to update the data analysis framework.
   * Impressed by the array of professional functions already accessible and equally intrigued by how much there was still to learn about working in a professional tech environment.  
-
 
 
 ## 💬 Conference
