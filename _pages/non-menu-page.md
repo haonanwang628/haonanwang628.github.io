@@ -27,7 +27,7 @@ More about me
 <td>
 
 <!-- 使用HTML的<p>标签来包裹文本，并通过style属性调整文字大小 -->
-<p style="font-size: 16px;">
+<p style="font-size: 10px;">
 This is my first semester in JHU. I was invited to attend my good friend Jamie's birthday party in JHU. This is my first time to attend an "American" party!
 </p>
 
