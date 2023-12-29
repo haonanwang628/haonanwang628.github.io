@@ -18,13 +18,16 @@ More about me
 <td>
 
 <!-- 在这里放置您的图片，确保提供正确的图片路径和替代文本 -->
-![My friend's birthday ](./images/birthday.png)
+![My friend's birthday](./images/birthday.png)
+
 </td>
 </tr>
 <tr>
 <td>
+  
 <!-- 在这里放置您的文本内容 -->
 This is my first semester in JHU. I was invited to attend my good friend Jamie's birthday party in JHU. This is my first time to attend an "American" party!
+
 </td>
 </tr>
 </table>
