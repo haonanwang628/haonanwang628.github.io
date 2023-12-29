@@ -1,6 +1,6 @@
 ---
 permalink: /Misc/
-title: "More about me"
+title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
