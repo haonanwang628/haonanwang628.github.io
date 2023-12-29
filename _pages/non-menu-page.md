@@ -12,17 +12,3 @@ More about me
  * I have a wide range of interests.
  * For reading, I I like to put my learning experience and ordinary essay thoughts on my own blog, my Chinese blog is mainly focused on [CSDN](https://blog.csdn.net/weixin_46401001?spm=1008.2028.3001.5343) (which is a Chinese essay exchange community) 
  * For exercise, I have a habit of getting up early at 5:30 every morning and going to the gym，I love swimming, basketball, billiards...
-#<table>
-#<tr>
-#<td>
-
-#![你的图片替代文本](./path/to/your/image.jpg)
-
-#</td>
-#<td>
-
-#你的文本内容放在这里。
-
-#</td>
-#</tr>
-#</table>
