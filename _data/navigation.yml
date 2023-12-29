@@ -19,5 +19,5 @@ main:
     url: /markdown/   
   #- title: "Teaching"
     #url: /teaching/  
-  #- title: "Misc"
-    #url: /Misc1/  
+  - title: "Misc"
+    url: /Misc/  
