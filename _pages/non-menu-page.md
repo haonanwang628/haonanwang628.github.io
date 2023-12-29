@@ -18,7 +18,7 @@ More about me
 <td>
 
 <!-- 在这里放置您的图片，确保提供正确的图片路径和替代文本 -->
-![My friend's birthday ](.images/birthday.png)
+![My friend's birthday ](./images/birthday.png)
 </td>
 </tr>
 <tr>
