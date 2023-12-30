@@ -8,7 +8,6 @@ author_profile: true
 
 ## 📝Paper
 
-
 - **1.Multimodal modeling in sentiment analysis based on NLP**\
   **Haonan Wang**,Mingjia Zhao,Huiqi Zou,Yuxin Wang,Junfeng Sun.
   
@@ -29,7 +28,6 @@ China Science and Technology Papers Online, 202204-330, August.2022. [[Paper]](f
 Journal of Network Computing and Applications, Vol 6, Issue 1, August.2021. [[Paper]](https://www.clausiuspress.com/assets/default/article/2021/06/01/article_1622604557.pdf)
 
 ## 🏭 PRC Software Copyright Patent
-
 - **Data operation analysis and collection system based on machine learning.**\
 **Haonan Wang**, Mingjia Zhao, Chang Liu.\
   CHINA COPYRIGHT PROTECTION CENTER No. 2022SR1052428.
