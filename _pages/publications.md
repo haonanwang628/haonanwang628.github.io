@@ -6,14 +6,11 @@ author_profile: true
 ---
 
 
-## 📝Conference Paper
+## 📝Paper
 
 
 - **1.Multimodal modeling in sentiment analysis based on NLP**\
   **Haonan Wang**,Mingjia Zhao,Huiqi Zou,Yuxin Wang,Junfeng Sun.
-  
-## 📝Journal Paper
-
 - **2.Research on geometric figure classification algorithm based on Deep Learning .**\
 Ruiyang Wang, **Haonan Wang**, Junfeng Sun, Mingjia Zhao, Meng Liu.\
 Scientific Journal of Intelligent Systems Research, Vol 4 Issue 6, June.2022. [[Paper]](http://www.sjisr.org/download/sjisr-4-6-335-340.pdf)
