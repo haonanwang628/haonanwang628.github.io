@@ -5,8 +5,8 @@ author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
----
-## Assiant
+
+## 👩🏻‍🏫 Assiant
 * Spring 2024, **Data Anakysis Research Assiant**, CCVL Lab, Johns Hopkins University, Baltimore, USA
 * Spring 2022, **Teaching Assiant**, Integrated Training in Information Processing course, Liaoning Technology University,Fuxin,China
 * Fall 2022, **Teaching Assiant**, Mathematical Modeling course, Liaoning Technology University,Fuxin,China
