@@ -6,8 +6,14 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
-## Project
-*This part is to share some good projects I have mainly participated in, so as to better show my research experience and get more criticism and correction*
+## Assiant
+* Spring 2024, **Data Anakysis Research Assiant**, CCVL, Johns Hopkins University, Baltimore, USA
+* Spring 2022, **Teaching Assiant**,Integrated Training in Information Processing course, Liaoning Technology University,Fuxin,China
+* Fall 2022, **Teaching Assiant**,Mathematical Modeling course, Liaoning Technology University,Fuxin,China
+* Fall 2021, **Teaching Assiant**,C++ Program Design course, Liaoning Technology University,Fuxin,China
+* Spring 2021, **Teaching Assiant**, Numerical Analysis course, Liaoning Technology University,Fuxin,China
+* Fall 2019, **Teaching Assiant**, C++ Program Design course , Liaoning Technology University,Fuxin,China
+
 
 
 ## 💻 Interships
