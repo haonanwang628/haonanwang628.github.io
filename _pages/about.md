@@ -29,8 +29,8 @@ I'm a master student and to study at [Master of Science in Engineering in Comput
 Research Themes
 ======
 
-I am broadly fascinated by the **Human-centered model evaluation** and the interaction between **Reinforcement learning** and **foundation model improvement and optimization**, especially **large language models** and **Industy models**().
-My (current) goal of research is to build intelligent systems that can communicate and collaborate with humans in dynamic environments for solving complex real-world tasks. Under this theme, I would like to explore:
+I am broadly fascinated by the **Human-centered model evaluation** and the interaction between **Reinforcement learning** and **foundation model improvement and optimization**, especially **large language models** and **Industy-oriented models**.
+My (current) goal of research is to build Artificioal intelligent systems that can communicate and collaborate with humans in dynamic environments for solving complex real-world tasks. Under this theme, I would like to explore:
 * **.Large Language Models for RLHF:** I also try to study the use of *large language models*(LLMs) combined *Reinforcement Learning*(RL),and explore Reinforcement Learning with Human Feedback(RLHF) and their applications in the field of large language models.
 
 * **Explore RLHF phased training strategy, use Transformer+RL to make the LLMs become the brain of the robot to perceive the world, communicate with humans in natural language,and navigate vision-language in a real 3D environment.**
