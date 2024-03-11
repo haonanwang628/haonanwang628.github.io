@@ -29,13 +29,9 @@ I'm a master student and to study at [Master of Science in Engineering in Comput
 Research Themes
 ======
 
-I am broadly fascinated by the **Human-centered model evaluation** and the interaction between **Reinforcement learning** and **foundation model improvement and optimization**, especially **large language models** and **Industy-oriented models**.
-My (current) goal of research is to build Artificioal intelligent systems that can communicate and collaborate with humans in dynamic environments for solving complex real-world tasks. Under this theme, I would like to explore:
-* **Large Language Models for RLHF:** I also try to study the use of *large language models*(LLMs) combined *Reinforcement Learning*(RL),and explore Reinforcement Learning with Human Feedback(RLHF) and their applications in the field of large language models.
-* **Explore RLHF phased training strategy, use Transformer+RL to make the LLMs become the brain of the robot to perceive the world, communicate with humans in natural language,and navigate vision-language in a real 3D environment.**
-* **How can RL be introduced into LLMs to improve inference and generalization ability of the AI model.**
-
-
+I am broadly fascinated by  at the intersection of **Human computer interaction** and **Machine Learning/ Natural Language Processing**, espically **Large Language models,etc.**. I would like to focus my research on **Human-center evaluation** in building interactive system models for different application fields(Healthcare,education,industry,etc.) and how to build **Agent interactive systems** that communicate and collaborate with humans in dynamic environments,such as Reinforcement Learning and optimization of Model.Under this theme, I would like to explore:
+* **Human-center evaluation**: I see model evaluation is very important for the application of every model training. So to understand what makes an evaluation method (e.g., benchmark, metrics, etc.) effective and an evaluation method is effective. Another focus is to develop contextualized and robust evaluation methods that are grounded on an individual’s real needs in every field(Healthcare,education,etc.)
+* **Agent interactive systems**: I also try to study the use of Agent Interactive systems and *large language models*(LLMs) combined *Reinforcement Learning*(RL) and explore their applications in the field.I want to explore RLHF phased training strategy, use Transformer+RL to make the LLMs become the brain of the robot to perceive the world, communicate with humans in natural language,and navigate vision-language in a real 3D environment and how can RL be introduced into LLMs to improve inference and generalization ability of the AI model.
 Sitemap
 ======
 
