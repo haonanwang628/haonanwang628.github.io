@@ -32,8 +32,10 @@ Research Themes
 I am broadly fascinated by  at the intersection of **Human computer interaction** and **Machine Learning/ Natural Language Processing**, espically **Large Language models,etc.**. I would like to focus my research on **Human-center evaluation** in building interactive system models for different application fields(Healthcare,education,industry,etc.) and how to build **Agent interactive systems** that communicate and collaborate with humans in dynamic environments,such as Reinforcement Learning and optimization of Model.Under this theme, I would like to explore:
 * **Human-center evaluation**: I see model evaluation is very important for the application of every model training. So to understand what makes an evaluation method (e.g., benchmark, metrics, etc.) effective and an evaluation method is effective. Another focus is to develop contextualized and robust evaluation methods that are grounded on an individual’s real needs in every field(Healthcare,education,etc.)
 * **Agent interactive systems**: I also try to study the use of Agent Interactive systems and *large language models*(LLMs) combined *Reinforcement Learning*(RL) and explore their applications in the field.I want to explore RLHF phased training strategy, use Transformer+RL to make the LLMs become the brain of the robot to perceive the world, communicate with humans in natural language,and navigate vision-language in a real 3D environment and how can RL be introduced into LLMs to improve inference and generalization ability of the AI model.
+
+
+
 Sitemap
 ======
-
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=znZM_IfF9ArJwpHn-JXjrayz7IuSfdytiAwYMc88FtI"></script>
