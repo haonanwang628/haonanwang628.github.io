@@ -8,9 +8,9 @@ author_profile: true
 
 ## 📝Paper
 
-### 2023
+### 🕰🔍❗️❗️❗️News and Under review
 - **Multimodal modeling in sentiment analysis based on NLP**\
-  **Haonan Wang**,Mingjia Zhao,Huiqi Zou,Yuxin Wang,Junfeng Sun.**Under review**[[Paper]]()
+  **Haonan Wang**,Mingjia Zhao,Huiqi Zou,Yuxin Wang,Junfeng Sun.*Under review**[[Paper]]()
   
 ### 2022 
 - **Research on geometric figure classification algorithm based on Deep Learning .**\
