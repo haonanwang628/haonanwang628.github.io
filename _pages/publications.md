@@ -8,7 +8,7 @@ author_profile: true
 
 ## 📝Paper
 
-### 🕰🔍❗️❗️❗️News and Under review
+### 🕰 News and 🔍Under review❗️❗️❗️
 - **Multimodal modeling in sentiment analysis based on NLP**\
   **Haonan Wang**,Mingjia Zhao,Huiqi Zou,Yuxin Wang,Junfeng Sun.*Under review**[[Paper]]()
   
