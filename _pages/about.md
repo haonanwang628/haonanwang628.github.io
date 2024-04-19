@@ -11,7 +11,7 @@ redirect_from:
 About me
 ======
 
-### 🎓 Introducation
+### 🎓 Introduction
 
 I'm a master student and to study at [Master of Science in Engineering in Computer Science (MSE)](https://www.cs.jhu.edu/academic-programs/graduate-studies/mse-programs/)from [Johns Hopkins University](https://www.jhu.edu/), working with [Ziang Xiao](https://www.ziangxiao.com/)
 
