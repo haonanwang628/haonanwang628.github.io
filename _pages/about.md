@@ -20,13 +20,14 @@ I'm a master student and to study at [Master of Science in Engineering in Comput
 
 ## What's New
 
-<div style="overflow-y: auto; height: 200px; border: 1px solid #ccc; padding: 20px; margin-bottom: 20px;">
-  
-- [Apr 2024]: I will start my PhD journey at the University of Notre Dame ✨!
-- [Feb 2024]: RORA: Robust Free-Text Rationale Evaluation is released on arXiv!
-- [Feb 2024]: ANALOGBENCH: Benchmarking the Identification of Abstract and Long-context Analogies is released on arXiv!
+---
+layout: default
+---
 
-</div>
+  
+- [Apr 2024]: I will start my PhD journey at the  ✨!
+
+
 
 
 
