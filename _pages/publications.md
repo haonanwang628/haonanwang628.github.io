@@ -9,6 +9,9 @@ author_profile: true
 ## 📝Paper
 
 ### 🕰 News and 🔍Under review❗️❗️❗️
+- **IM3HRL: Model-assisted Intrinsically Motivated Modular Hierarchical Reinforcement Learning**\
+  Wei Liu,Jiaxiang Wang, Weiguang Liu,**Haonan Wang**.*Under review**[[Paper]]()
+
 - **Multimodal modeling in sentiment analysis based on NLP**\
   **Haonan Wang**,Mingjia Zhao,Huiqi Zou,Yuxin Wang,Junfeng Sun.*Under review**[[Paper]]()
   
