@@ -11,7 +11,10 @@ author_profile: true
 ### 🕰 News and 🔍Under review❗️❗️❗️
 - **IM3HRL: Model-assisted Intrinsically Motivated Modular Hierarchical Reinforcement Learning**\
   Wei Liu,Jiaxiang Wang, Weiguang Liu,**Haonan Wang**.[[Paper]]() ***Under review now***
-
+  
+- **Adaptive Path-Planning for Autonomous Robots: A UCH-Enhanced Q-Learning Approach**\
+  Wei Liu,Ruiyang Wang, **Haonan Wang**.[[Paper]]() ***Under review now***
+  
 - **Multimodal modeling in sentiment analysis based on NLP**\
   **Haonan Wang**,Mingjia Zhao,Huiqi Zou,Yuxin Wang,Junfeng Sun.[[Paper]]()***Under review now***
   
