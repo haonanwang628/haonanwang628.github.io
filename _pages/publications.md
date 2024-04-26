@@ -21,7 +21,7 @@ author_profile: true
 ### 2022 
 - **Research on geometric figure classification algorithm based on Deep Learning .**\
 Ruiyang Wang, **Haonan Wang**, Junfeng Sun, Mingjia Zhao, Meng Liu.\
-Scientific Journal of Intelligent Systems Research, Vol 4 Issue 6, June.2022. [[Paper]](http://www.sjisr.org/download/sjisr-4-6-335-340.pdf)
+Scientific Journal of Intelligent Systems Research, Vol 4 Issue 6, June.2022. [[Paper]](https://arxiv.org/abs/2404.16561)
 
 - **Research on E-commerce Customer Satisfaction Based on Two Type Fuzzy Sets.**\
 **Haonan Wang**,Mingjia Zhao, Wei Liu,Shuxian Wang,Liupeng Zhang\
