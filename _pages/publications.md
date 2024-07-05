@@ -13,10 +13,7 @@ author_profile: true
   Wei Liu,Jiaxiang Wang, Weiguang Liu,**Haonan Wang**.[[Paper]]() ***Under review now***
   
 - **Adaptive Path-Planning for Autonomous Robots: A UCH-Enhanced Q-Learning Approach**\
-  Wei Liu,Ruiyang Wang, **Haonan Wang**.[[Paper]]() ***Under review now***
-  
-- **Multimodal modeling in sentiment analysis based on NLP**\
-  **Haonan Wang**,Mingjia Zhao,Huiqi Zou,Yuxin Wang,Junfeng Sun.[[Paper]]()***Under review now***
+  Wei Liu,Ruiyang Wang, **Haonan Wang**,Guangwei Liu.[[Paper]]() ***Under review now***
   
 ### 2022 
 - **Research on geometric figure classification algorithm based on Deep Learning .**\
