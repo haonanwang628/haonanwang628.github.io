@@ -20,7 +20,7 @@ I'm a master student and to study at [Master of Science in Engineering in Comput
 
 ### 😄😄😄😄What 's New?
 <div style="width: 500px; height: 200px; overflow: auto; border: 1px solid #ccc; padding: 10px;">
-  <p> *·*[May 2024]</p>
+  <p> · [May 2024]</p>
 </div>
 
 
