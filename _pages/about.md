@@ -19,7 +19,7 @@ I'm a master student and to study at [Master of Science in Engineering in Comput
  [Liaoning Technical University](http://lxy.lntu.edu.cn/)and graduated.I received my Bachelor's in Information and Computing Science at Liaoning Technical University in China.During my undergraduate study,I studied and worked at the Institute of Mathematics and Systems Science and the Institute of Machine Learning and Data Mining for four years,and served as the team leader of the Math819 College Student Competition,where I was jointly guided by [Wei Liu](https://www.researchgate.net/profile/Wei-Liu-523)and[Yu Zhang](https://www.researchgate.net/profile/Yu-Zhang-264)，
 
 ### News
-<div style="width: 300px; height: 200px; overflow: auto; border: 1px solid #ccc; padding: 10px;">
+<div style="width: 800px; height: 500px; overflow: auto; border: 1px solid #ccc; padding: 10px;">
   <p>Our paper is working in the CHI confrence。</p>
   <p>更多内容...</p>
   <p>更多内容...</p>
