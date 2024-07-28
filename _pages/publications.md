@@ -10,11 +10,11 @@ author_profile: true
 
 ### 🕰 News and 🔍Under review❗️❗️❗️
 - **DEMS-GlF: Detail-Enhanced Medical Image Segmentation Network Focusing on Global and Intermediate Features**\
-  Wei Liu,Miao Zhong, Weiguang Liu,**Haonan Wang**, Qian ning.[[Paper]]() ***Under review now***
+  Wei Liu,Miao Zhong, Weiguang Liu,**Haonan Wang**, Qian ning.[[Paper]]() ***Under review now***\
   IEEE Transactions on Instrumentation and Measurement,July.2024
     
 - **Adaptive Path-Planning for Autonomous Robots: A UCH-Enhanced Q-Learning Approach**\
-  Wei Liu,Ruiyang Wang, **Haonan Wang**,Guangwei Liu.[[Paper]]() ***Under review now***
+  Wei Liu,Ruiyang Wang, **Haonan Wang**,Guangwei Liu.[[Paper]]() ***Under review now***\
   IEEE Transactions on Intelligent Vehicles, June.2024
 - **IM3HRL: Model-assisted Intrinsically Motivated Modular Hierarchical Reinforcement Learning**\
   Wei Liu,Jiaxiang Wang, Weiguang Liu,**Haonan Wang**.[[Paper]]() ***Under review now***
