@@ -9,6 +9,9 @@ author_profile: true
 ## 📝Paper
 
 ### 🕰 News and 🔍Under review❗️❗️❗️
+- **DEMS-GlF: Detail-Enhanced Medical Image Segmentation Network Focusing on Global and Intermediate Features**\
+  Wei Liu,Miao Zhong, Weiguang Liu,**Haonan Wang**, Qian ning.[[Paper]]() ***Under review now***
+
 - **IM3HRL: Model-assisted Intrinsically Motivated Modular Hierarchical Reinforcement Learning**\
   Wei Liu,Jiaxiang Wang, Weiguang Liu,**Haonan Wang**.[[Paper]]() ***Under review now***
   
