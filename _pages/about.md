@@ -20,7 +20,7 @@ I'm a master student and to study at [Master of Science in Engineering in Comput
 
 ### News
 <div style="width: 300px; height: 200px; overflow: auto; border: 1px solid #ccc; padding: 10px;">
-  <p>这是一个带有滚动条的文本块。你可以在这里添加很多内容，以便查看滚动效果。</p>
+  <p>Our paper is working in the CHI confrence。</p>
   <p>更多内容...</p>
   <p>更多内容...</p>
   <p>更多内容...</p>
