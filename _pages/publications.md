@@ -14,7 +14,7 @@ author_profile: true
   IEEE Transactions on Instrumentation and Measurement,July.2024
     
 - **Adaptive Path-Planning for Autonomous Robots: A UCH-Enhanced Q-Learning Approach**\
-  Wei Liu,Ruiyang Wang, **Haonan Wang**,Guangwei Liu.[[Paper]]() ***Under review now***\
+  Wei Liu,Ruiyang Wang, **Haonan Wang**,Guangwei Liu.[[Paper]](_publications/EEE.pdf) ***Under review now***\
   IEEE Transactions on Intelligent Vehicles, June.2024
 - **IM3HRL: Model-assisted Intrinsically Motivated Modular Hierarchical Reinforcement Learning**\
   Wei Liu,Jiaxiang Wang, Weiguang Liu,**Haonan Wang**.[[Paper]]() ***Under review now***
