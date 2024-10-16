@@ -8,16 +8,16 @@ author_profile: true
 
 ## 📝Paper
 
-### 🕰 News and 🔍Under review❗️❗️❗️
+### 2023
 - **DEMS-GlF: Detail-Enhanced Medical Image Segmentation Network Focusing on Global and Intermediate Features**\
-  Wei Liu,Miao Zhong, Weiguang Liu,**Haonan Wang**, Qian ning.[[Paper]]() ***Under review now***\
+  Wei Liu,Miao Zhong, Weiguang Liu,**Haonan Wang**, Qian ning.[[Paper]]() ***Under review***\
   IEEE Transactions on Instrumentation and Measurement,July.2024
     
 - **Adaptive Path-Planning for Autonomous Robots: A UCH-Enhanced Q-Learning Approach**\
-  Wei Liu,Ruiyang Wang, **Haonan Wang**,Guangwei Liu.[[Paper]](_publications/EEE.pdf) ***Under review now***\
+  Wei Liu,Ruiyang Wang, **Haonan Wang**,Guangwei Liu.[[Paper]](_publications/EEE.pdf) ***Under review***\
   IEEE Transactions on Intelligent Vehicles, June.2024
 - **IM3HRL: Model-assisted Intrinsically Motivated Modular Hierarchical Reinforcement Learning**\
-  Wei Liu,Jiaxiang Wang, Weiguang Liu,**Haonan Wang**.[[Paper]]() ***Under review now***
+  Wei Liu,Jiaxiang Wang, Weiguang Liu,**Haonan Wang**.[[Paper]]() ***Under review***
   
 ### 2022 
 - **Research on geometric figure classification algorithm based on Deep Learning .**\
