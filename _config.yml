@@ -21,14 +21,14 @@ baidu_site_verification  : code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "Yi Ren (任意)"
-  avatar           : "images/ry_profile.jpeg"
-  bio              : "TikTok"
-  location         : "Singapore"
+  name             : "Haonan Wang"
+  avatar           : ""
+  bio              : "Johns Hopkins University"
+  location         : "USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=DBxarZYAAAAJ&hl=en"
-  email            : "rayeren613@gmail.com"
+  email            : "hwang298@alumni.jh.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,15 +37,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "RayeRen"
+  github           : "haonanwang628"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "rayeren"
-  dblp             : "https://dblp.org/pid/75/6568-6.html"
-  orcid            : "https://orcid.org/0000-0002-9160-3848"
+  linkedin         : "haonanwang628"
+  dblp             : #"https://dblp.org/pid/75/6568-6.html"
+  orcid            : "https://orcid.org/0009-0004-5615-7055"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
