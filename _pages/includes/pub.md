@@ -8,7 +8,6 @@
 <span style="color:darkblue">**Haonan Wang**</span>,  Mingjia Zhao，Junfeng Sun,Wei Liu.\
 International Journal of Computer Science and Information Technology, 2025. [[pdf]](https://wepub.org/index.php/IJCSIT/article/view/5152),
 
-
 - <span style="color:green; font-weight:bold;">[Journal]</span> 
 -- ``Computer Science and AI`` **"Research on the Integration of Embodied Intelligence and Reinforcement Learning in Textual Domains"**  
 <span style="color:darkblue">**Haonan Wang**</span>, Junfeng Sun, Mingjia Zhao, Wei Liu.\
@@ -31,9 +30,7 @@ Scientific Journal of Intelligent Systems Research,2022. [[pdf]](https://www.cla
   Ruiyang Wang,<span style="color:darkblue">**Haonan Wang**</span>, Junfeng Sun, Mingjia Zhao, Meng Liu.</span>.\
 Advances in Artificial Intelligence and Machine Learning, 2022. [[pdf]](https://arxiv.org/abs/2404.16561),
 
-
-
-## 📚 Reinforcement Learning
+## 📚 Other Field
 
 - **Adaptive Path-Planning for Autonomous Robots: A UCH-Enhanced Q-Learning Approach.**\
 Wei Liu, Ruiyang Wang,<span style="color:darkblue">**Haonan Wang**</span>, Guangwei Liu.\
@@ -56,14 +53,3 @@ Scientific Reports, 2024. [[pdf]](https://www.researchsquare.com/article/rs-4299
 
 
 
-
-
-- <span style="color:red; font-weight:bold;">[Journal]</span> 
-  **"Design and Optimization of Reinforcement Learning-Based Agents in Text-Based Games"**  
-  *Haonan Wang*, Mingjia Zhao, Junfeng Sun, Wei Liu.  
-  _International Journal of Computer Science and Information Technology, 2025._ [pdf]
-
-- <span style="color:blue; font-weight:bold;">[Conference]</span> 
-  **"Research on the Integration of Embodied Intelligence and Reinforcement Learning in Textual Domains"**  
-  Junfeng Sun, Mingjia Zhao, *Haonan Wang*, Wei Liu.  
-  _Conference of Computer Science and Artificial Intelligence, 2025._ [pdf]
