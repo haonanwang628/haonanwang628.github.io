@@ -2,7 +2,7 @@
 # 📝 Publications 
 
 ## 📚 Interactive language learning
-- **Design and Optimization of Reinforcement Learning-Based Agents in Text-Based Games.**\
+-- ``IEEE TMM``  **Design and Optimization of Reinforcement Learning-Based Agents in Text-Based Games.**\
 <span style="color:darkblue">**Haonan Wang**</span>,  Mingjia Zhao，Junfeng Sun,Wei Liu.\
 International Journal of Computer Science and Information Technology, 2025. [[pdf]](),
 
