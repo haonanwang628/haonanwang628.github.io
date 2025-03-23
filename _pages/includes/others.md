@@ -5,9 +5,10 @@
 
 
 # 💻 Internships
-- *Mar 2024 - present*, Research Assistant, ISLE lab, Johns Hopkins University.
-- *Jul 2024 - Aug 2024*, Research Intern, EACON, Beijing Easy control Intelligent Driving Technology Co., LTD
-- *Mar 2024 - Apr 2024*, Research Assistant, Computational Cognition, Vision, and Learning Lab, Johns Hopkins University
-- *Sep 2021 - Sep 2023*, Research Intern, Computational Cognition, Vision, and Learning Lab, Johns Hopkins University
-- *Aug 2022 - Oct 2022*,Research Intern,Beijing Qianfeng Internet Technology Co., LTD
+- *2024.06 - present*, Research Assistant, ISLE lab, Johns Hopkins University.
+- *2024.07 - 2024.08*, Research Intern, EACON, Beijing Easy control Intelligent Driving Technology Co., LTD
+- *2024.03 - 2024.04*, Research Assistant, Computational Cognition, Vision, and Learning Lab, Johns Hopkins University
+- *2022.08 - 2022.10*, Research Intern, Beijing Qianfeng Internet Technology Co., LTD
+- *2021.09 - 2023.09*, Research Assistant, Institute of Mathematics and Systems Science
+- *2021.09 - 2023.09*, Teaching AssistantLiaoning Technology University
   
