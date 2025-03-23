@@ -1,2 +1,2 @@
 # 🔥 News
-- *2024.03*: 🎉 Two papers are accepted by ICLR 2024
+- *2024.12*: 🎉 Graduate with my Master in Computer Science degree at Johns Hopkins University and looking for a good Ph.D opportunity in 2026.
