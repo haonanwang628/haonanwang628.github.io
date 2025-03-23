@@ -2,7 +2,7 @@
 # 📝 Publications 
 
 ## 📚 Interactive language learning
--- ``IEEE TMM``  **Design and Optimization of Reinforcement Learning-Based Agents in Text-Based Games.**\
+ **Design and Optimization of Reinforcement Learning-Based Agents in Text-Based Games.**\
 <span style="color:darkblue">**Haonan Wang**</span>,  Mingjia Zhao，Junfeng Sun,Wei Liu.\
 International Journal of Computer Science and Information Technology, 2025. [[pdf]](),
 
@@ -11,19 +11,18 @@ International Journal of Computer Science and Information Technology, 2025. [[pd
 Journal of Computer Science and Artificial Intelligence, 2025. [[pdf]](),
 ## 📚 Machine learning
 
-- **Adaptive Path-Planning for Autonomous Robots: A UCH-Enhanced Q-Learning Approach.**\
-Wei Liu, Ruiyang Wang,<span style="color:darkblue">**Haonan Wang**</span>, Guangwei Liu.\
-Advances in Artificial Intelligence and Machine Learning, 2025. [[pdf]](https://arxiv.org/abs/2501.05411),
-
 - <span style="color:red; font-weight:bold;">[Journal]</span> 
 -- ``Plos one`` **"Unsupervised Feature Selection Algorithm Based on L2,p-norm Feature Reconstruction"**  
   Wei Liu, Qian Ning, Guangwei Liu,<span style="color:darkblue">**Haonan Wang**</span> ,Yixin Zhu, Miao Zhong.\
 Plos one, 2025. [[pdf]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318431)
 
 
-- **Unsupervised Feature Selection Algorithm Based on L2,p-norm Feature Reconstruction.**\
-Wei Liu, Qian Ning, Guangwei Liu,<span style="color:darkblue">**Haonan Wang**</span> ,Yixin Zhu, Miao Zhong.\
-Plos one, 2025. [[pdf]](),
+
+- **Adaptive Path-Planning for Autonomous Robots: A UCH-Enhanced Q-Learning Approach.**\
+Wei Liu, Ruiyang Wang,<span style="color:darkblue">**Haonan Wang**</span>, Guangwei Liu.\
+Advances in Artificial Intelligence and Machine Learning, 2025. [[pdf]](https://arxiv.org/abs/2501.05411),
+
+
 
 - **IM3HRL: Model-assisted Intrinsically Motivated Modular Hierarchical Reinforcement Learning.**\
 Wei Liu, Jiaxiang Wang, Guangwei Liu, <span style="color:darkblue">**Haonan Wang**</span>.\
