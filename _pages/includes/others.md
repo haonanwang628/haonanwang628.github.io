@@ -6,3 +6,7 @@
 
 # 💻 Internships
 - *2024.06 - 2026.04*, Research Assistant, ISLE lab, Johns Hopkins University.
+- *2024.06 - 2026.04*, Research Intern, EACON, Beijing Easy control Intelligent driving technology Co., LTD
+- *2024.06 - 2026.04*, Research Assistant, Computational Cognition, Vision, and Learning Lab, Johns Hopkins University
+- *2024.06 - 2026.04*, Research Intern, Computational Cognition, Vision, and Learning Lab, Johns Hopkins University
+  
