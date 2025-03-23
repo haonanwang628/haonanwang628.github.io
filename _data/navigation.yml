@@ -6,7 +6,7 @@ main:
   - title: "News"
     url: "/#-news"
     
-   - title: "CV"
+  - title: "CV"
     url: "/#cv"
 
   - title: "Publications"
@@ -19,6 +19,5 @@ main:
     url: "/#-educations"
 
  
-
   - title: "Internships"
     url: "/#-internships"
