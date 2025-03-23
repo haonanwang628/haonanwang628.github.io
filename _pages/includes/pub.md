@@ -38,7 +38,7 @@ Scientific Journal of Intelligent Systems Research,2022. [[pdf]](https://www.cla
 
 - <span style="color:green; font-weight:bold;">[Journal]</span> 
 -- ``Advances in AI and ML`` **"Research on geometric figure classification algorithm based on Deep Learning"**  
-  Ruiyang Wang,<span style="color:darkblue">**Haonan Wang**</span>, Junfeng Sun, Mingjia Zhao, Meng Liu.</span>.\
+  Ruiyang Wang,<span style="color:darkblue">**Haonan Wang**</span>, Junfeng Sun, Mingjia Zhao, Meng Liu.\
 Advances in Artificial Intelligence and Machine Learning, 2022. [[pdf]](https://arxiv.org/abs/2404.16561),
 
 ## 📗 Other Field
