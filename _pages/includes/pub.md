@@ -16,7 +16,7 @@ Wei Liu, Ruiyang Wang,<span style="color:darkblue">**Haonan Wang**</span>, Guang
 Advances in Artificial Intelligence and Machine Learning, 2025. [[pdf]](https://arxiv.org/abs/2501.05411),
 
 - <span style="color:red; font-weight:bold;">[Journal]</span> 
-  **"Unsupervised Feature Selection Algorithm Based on L2,p-norm Feature Reconstruction"**  
+-- ``Plos one`` **"Unsupervised Feature Selection Algorithm Based on L2,p-norm Feature Reconstruction"**  
   Wei Liu, Qian Ning, Guangwei Liu,<span style="color:darkblue">**Haonan Wang**</span> ,Yixin Zhu, Miao Zhong.\
 Plos one, 2025. [[pdf]]()
 
