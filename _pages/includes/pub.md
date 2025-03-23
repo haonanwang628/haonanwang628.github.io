@@ -1,7 +1,7 @@
 
 # 📝 Publications 
 
-## 📚 Interactive language learning(Text-based world)
+## 📚 Interactive language learning
 
 ## 📚 Machine learning
 
