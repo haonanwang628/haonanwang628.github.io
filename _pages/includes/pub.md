@@ -30,3 +30,13 @@ Advances in Artificial Intelligence and Machine Learning, 2022. [[pdf]](https://
 - **Research status and future prospects of machine learning algorithm in big data analysis.**\
 <span style="color:darkblue">**Haonan Wang**</span>,.\
 Scientific Journal of Intelligent Systems Research,2022. [[pdf]](https://www.clausiuspress.com/article/1212.html),
+
+- <span style="color:blue; font-weight:bold;">[Journal]</span> 
+  **"Design and Optimization of Reinforcement Learning-Based Agents in Text-Based Games"**  
+  *Haonan Wang*, Mingjia Zhao, Junfeng Sun, Wei Liu.  
+  _International Journal of Computer Science and Information Technology, 2025._ [pdf]
+
+- <span style="color:green; font-weight:bold;">[Conference]</span> 
+  **"Research on the Integration of Embodied Intelligence and Reinforcement Learning in Textual Domains"**  
+  Junfeng Sun, Mingjia Zhao, *Haonan Wang*, Wei Liu.  
+  _Conference of Computer Science and Artificial Intelligence, 2025._ [pdf]
