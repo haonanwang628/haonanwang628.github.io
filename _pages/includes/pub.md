@@ -17,6 +17,7 @@ Journal of Computer Science and Artificial Intelligence, 2025. [[pdf]](),
 Plos one, 2025. [[pdf]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318431)
 
 
+## 📚 Reinforcement Learning
 
 - **Adaptive Path-Planning for Autonomous Robots: A UCH-Enhanced Q-Learning Approach.**\
 Wei Liu, Ruiyang Wang,<span style="color:darkblue">**Haonan Wang**</span>, Guangwei Liu.\
