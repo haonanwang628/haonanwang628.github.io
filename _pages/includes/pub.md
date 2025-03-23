@@ -16,6 +16,15 @@ Journal of Computer Science and Artificial Intelligence, 2025. [[pdf]](),
   Wei Liu, Qian Ning, Guangwei Liu,<span style="color:darkblue">**Haonan Wang**</span> ,Yixin Zhu, Miao Zhong.\
 Plos one, 2025. [[pdf]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318431)
 
+- <span style="color:red; font-weight:bold;">[Journal]</span> 
+-- ``Plos one`` **"Research status and future prospects of machine learning algorithm in big data analysis"**  
+  <span style="color:darkblue">**Haonan Wang**</span>.\
+Plos one, 2025. [[pdf]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318431)
+
+- <span style="color:red; font-weight:bold;">[Journal]</span> 
+-- ``Scientific Journal`` **"Unsupervised Feature Selection Algorithm Based on L2,p-norm Feature Reconstruction"**  
+  Wei Liu, Qian Ning, Guangwei Liu,<span style="color:darkblue">**Haonan Wang**</span> ,Yixin Zhu, Miao Zhong.\
+Scientific Journal of Intelligent Systems Research,2022. [[pdf]](https://www.clausiuspress.com/article/1212.html),
 
 ## 📚 Reinforcement Learning
 
@@ -36,6 +45,16 @@ Advances in Artificial Intelligence and Machine Learning, 2022. [[pdf]](https://
 - **Research status and future prospects of machine learning algorithm in big data analysis.**\
 <span style="color:darkblue">**Haonan Wang**</span>,.\
 Scientific Journal of Intelligent Systems Research,2022. [[pdf]](https://www.clausiuspress.com/article/1212.html),
+
+
+
+
+
+
+
+
+
+
 
 - <span style="color:red; font-weight:bold;">[Journal]</span> 
   **"Design and Optimization of Reinforcement Learning-Based Agents in Text-Based Games"**  
