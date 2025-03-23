@@ -1,7 +1,9 @@
 
 # 📝 Publications 
 
-## 📚 Interactive language and Reinforcement learning
+## Preprints
+
+## 📕 Interactive language and Reinforcement learning
 
 - <span style="color:green; font-weight:bold;">[Journal]</span> 
 -- ``Computer Science and Information Technology`` **"Design and Optimization of Reinforcement Learning-Based Agents in Text-Based Games"**  
@@ -13,7 +15,7 @@ International Journal of Computer Science and Information Technology, 2025. [[pd
 <span style="color:darkblue">**Haonan Wang**</span>, Junfeng Sun, Mingjia Zhao, Wei Liu.\
 Journal of Computer Science and Artificial Intelligence, 2025. [[pdf]](),
 
-## 📚 Machine learning
+## 📙 Machine learning
 
 - <span style="color:green; font-weight:bold;">[Journal]</span> 
 -- ``Plos one`` **"Unsupervised Feature Selection Algorithm Based on L2,p-norm Feature Reconstruction"**  
@@ -30,7 +32,7 @@ Scientific Journal of Intelligent Systems Research,2022. [[pdf]](https://www.cla
   Ruiyang Wang,<span style="color:darkblue">**Haonan Wang**</span>, Junfeng Sun, Mingjia Zhao, Meng Liu.</span>.\
 Advances in Artificial Intelligence and Machine Learning, 2022. [[pdf]](https://arxiv.org/abs/2404.16561),
 
-## 📚 Other Field
+## 📗 Other Field
 
 - **Adaptive Path-Planning for Autonomous Robots: A UCH-Enhanced Q-Learning Approach.**\
 Wei Liu, Ruiyang Wang,<span style="color:darkblue">**Haonan Wang**</span>, Guangwei Liu.\
