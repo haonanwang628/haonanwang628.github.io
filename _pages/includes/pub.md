@@ -92,7 +92,7 @@ School-level award in China\
 • Academic Achievement Award of the School of Science, LNTU 2021\
 School-level award in China\
 • 2nd Place, Liaoning Mathematical Modeling Contest 2021\
-Provincial-level award for China\
+Provincial-level award for China
 
 
 
