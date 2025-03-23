@@ -15,6 +15,12 @@ Journal of Computer Science and Artificial Intelligence, 2025. [[pdf]](),
 Wei Liu, Ruiyang Wang,<span style="color:darkblue">**Haonan Wang**</span>, Guangwei Liu.\
 Advances in Artificial Intelligence and Machine Learning, 2025. [[pdf]](https://arxiv.org/abs/2501.05411),
 
+- <span style="color:red; font-weight:bold;">[Journal]</span> 
+  **"Unsupervised Feature Selection Algorithm Based on L2,p-norm Feature Reconstruction"**  
+  Wei Liu, Qian Ning, Guangwei Liu,<span style="color:darkblue">**Haonan Wang**</span> ,Yixin Zhu, Miao Zhong.\
+Plos one, 2025. [[pdf]]()
+
+
 - **Unsupervised Feature Selection Algorithm Based on L2,p-norm Feature Reconstruction.**\
 Wei Liu, Qian Ning, Guangwei Liu,<span style="color:darkblue">**Haonan Wang**</span> ,Yixin Zhu, Miao Zhong.\
 Plos one, 2025. [[pdf]](),
@@ -31,12 +37,12 @@ Advances in Artificial Intelligence and Machine Learning, 2022. [[pdf]](https://
 <span style="color:darkblue">**Haonan Wang**</span>,.\
 Scientific Journal of Intelligent Systems Research,2022. [[pdf]](https://www.clausiuspress.com/article/1212.html),
 
-- <span style="color:blue; font-weight:bold;">[Journal]</span> 
+- <span style="color:red; font-weight:bold;">[Journal]</span> 
   **"Design and Optimization of Reinforcement Learning-Based Agents in Text-Based Games"**  
   *Haonan Wang*, Mingjia Zhao, Junfeng Sun, Wei Liu.  
   _International Journal of Computer Science and Information Technology, 2025._ [pdf]
 
-- <span style="color:green; font-weight:bold;">[Conference]</span> 
+- <span style="color:blue; font-weight:bold;">[Conference]</span> 
   **"Research on the Integration of Embodied Intelligence and Reinforcement Learning in Textual Domains"**  
   Junfeng Sun, Mingjia Zhao, *Haonan Wang*, Wei Liu.  
   _Conference of Computer Science and Artificial Intelligence, 2025._ [pdf]
