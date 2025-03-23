@@ -1,4 +1,8 @@
 
 # 📝 Publications 
-## 🎙 Machine learning
+
+## 📚 Interaction Function game and Reinforcement Learning
+
+## 📚 Machine learning 
+
 
