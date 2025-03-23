@@ -3,30 +3,30 @@
 
 ## 📚 Interactive language and Reinforcement learning
 
-- <span style="color:red; font-weight:bold;">[Journal]</span> 
+- <span style="color:green; font-weight:bold;">[Journal]</span> 
 -- ``Computer Science and Information Technology`` **"Design and Optimization of Reinforcement Learning-Based Agents in Text-Based Games"**  
 <span style="color:darkblue">**Haonan Wang**</span>,  Mingjia Zhao，Junfeng Sun,Wei Liu.\
 International Journal of Computer Science and Information Technology, 2025. [[pdf]](https://wepub.org/index.php/IJCSIT/article/view/5152),
 
 
-- <span style="color:red; font-weight:bold;">[Journal]</span> 
+- <span style="color:green; font-weight:bold;">[Journal]</span> 
 -- ``Computer Science and AI`` **"Research on the Integration of Embodied Intelligence and Reinforcement Learning in Textual Domains"**  
 <span style="color:darkblue">**Haonan Wang**</span>, Junfeng Sun, Mingjia Zhao, Wei Liu.\
 Journal of Computer Science and Artificial Intelligence, 2025. [[pdf]](),
 
 ## 📚 Machine learning
 
-- <span style="color:red; font-weight:bold;">[Journal]</span> 
+- <span style="color:green; font-weight:bold;">[Journal]</span> 
 -- ``Plos one`` **"Unsupervised Feature Selection Algorithm Based on L2,p-norm Feature Reconstruction"**  
   Wei Liu, Qian Ning, Guangwei Liu,<span style="color:darkblue">**Haonan Wang**</span> ,Yixin Zhu, Miao Zhong.\
 Plos one, 2025. [[pdf]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318431)
 
-- <span style="color:red; font-weight:bold;">[Journal]</span> 
+- <span style="color:green; font-weight:bold;">[Journal]</span> 
 -- ``Scientific Journal`` **"Research status and future prospects of machine learning algorithm in big data analysis"**  
   <span style="color:darkblue">**Haonan Wang**</span>.\
 Scientific Journal of Intelligent Systems Research,2022. [[pdf]](https://www.clausiuspress.com/article/1212.html),
 
-- <span style="color:red; font-weight:bold;">[Journal]</span> 
+- <span style="color:green; font-weight:bold;">[Journal]</span> 
 -- ``Advances in AI and ML`` **"Research on geometric figure classification algorithm based on Deep Learning"**  
   Ruiyang Wang,<span style="color:darkblue">**Haonan Wang**</span>, Junfeng Sun, Mingjia Zhao, Meng Liu.</span>.\
 Advances in Artificial Intelligence and Machine Learning, 2022. [[pdf]](https://arxiv.org/abs/2404.16561),
