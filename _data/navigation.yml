@@ -7,7 +7,7 @@ main:
     url: "/#-news"
     
   - title: "CV"
-    url: "/#cv"
+    url: "/assets/cv.pdf"
 
   - title: "Publications"
     url: "/#-publications"
