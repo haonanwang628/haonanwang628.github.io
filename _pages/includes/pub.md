@@ -1,8 +1,8 @@
 
 # 📝 Publications 
 
-## 📚 Interaction Function game and Reinforcement Learning
+## 📚 Interactive language learning(Text-based world)
 
-## 📚 Machine learning 
+## 📚 Machine learning
 
 
