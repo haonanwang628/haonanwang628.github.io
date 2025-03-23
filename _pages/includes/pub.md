@@ -17,9 +17,15 @@ Journal of Computer Science and Artificial Intelligence, 2025. [[pdf]](),
 Plos one, 2025. [[pdf]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318431)
 
 - <span style="color:red; font-weight:bold;">[Journal]</span> 
--- ``Plos one`` **"Research status and future prospects of machine learning algorithm in big data analysis"**  
+-- ``Scientific Journal`` **"Research status and future prospects of machine learning algorithm in big data analysis"**  
   <span style="color:darkblue">**Haonan Wang**</span>.\
-Plos one, 2025. [[pdf]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318431)
+Scientific Journal of Intelligent Systems Research,2022. [[pdf]](https://www.clausiuspress.com/article/1212.html),
+
+
+
+
+
+
 
 - <span style="color:red; font-weight:bold;">[Journal]</span> 
 -- ``Scientific Journal`` **"Unsupervised Feature Selection Algorithm Based on L2,p-norm Feature Reconstruction"**  
