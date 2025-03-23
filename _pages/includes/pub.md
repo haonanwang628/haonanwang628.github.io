@@ -36,8 +36,8 @@ Advances in Artificial Intelligence and Machine Learning, 2022. [[pdf]](https://
 Wei Liu, Ruiyang Wang,<span style="color:darkblue">**Haonan Wang**</span>, Guangwei Liu.\
 Advances in Artificial Intelligence and Machine Learning, 2025. [[pdf]](https://arxiv.org/abs/2501.05411),
 
-
-- **IM3HRL: Model-assisted Intrinsically Motivated Modular Hierarchical Reinforcement Learning.**\
+- <span style="color:green; font-weight:bold;">[Journal]</span> 
+-- ``Scientific Reports`` **"IM3HRL: Model-assisted Intrinsically Motivated Modular Hierarchical Reinforcement Learning"**  
 Wei Liu, Jiaxiang Wang, Guangwei Liu, <span style="color:darkblue">**Haonan Wang**</span>.\
 Scientific Reports, 2024. [[pdf]](https://www.researchsquare.com/article/rs-4299675/v1),
 
