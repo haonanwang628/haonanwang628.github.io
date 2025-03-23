@@ -19,6 +19,11 @@ International Journal of Computer Science and Information Technology, 2025. [[pd
 <span style="color:darkblue">**Haonan Wang**</span>, Junfeng Sun, Mingjia Zhao, Wei Liu.\
 Journal of Computer Science and Artificial Intelligence, 2025. [[pdf]](),
 
+- <span style="color:green; font-weight:bold;">[Journal]</span> 
+-- ``Scientific Reports`` **"IM3HRL: Model-assisted Intrinsically Motivated Modular Hierarchical Reinforcement Learning"**  
+Wei Liu, Jiaxiang Wang, Guangwei Liu, <span style="color:darkblue">**Haonan Wang**</span>.\
+Scientific Reports, 2024. [[pdf]](https://www.researchsquare.com/article/rs-4299675/v1),
+
 ## 📙 Machine learning
 
 - <span style="color:green; font-weight:bold;">[Journal]</span> 
@@ -39,10 +44,7 @@ Advances in Artificial Intelligence and Machine Learning, 2022. [[pdf]](https://
 ## 📗 Other Field
 
 
-- <span style="color:green; font-weight:bold;">[Journal]</span> 
--- ``Scientific Reports`` **"IM3HRL: Model-assisted Intrinsically Motivated Modular Hierarchical Reinforcement Learning"**  
-Wei Liu, Jiaxiang Wang, Guangwei Liu, <span style="color:darkblue">**Haonan Wang**</span>.\
-Scientific Reports, 2024. [[pdf]](https://www.researchsquare.com/article/rs-4299675/v1),
+
 
 
 
