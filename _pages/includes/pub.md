@@ -21,7 +21,10 @@ Plos one, 2025. [[pdf]](https://journals.plos.org/plosone/article?id=10.1371/jou
   <span style="color:darkblue">**Haonan Wang**</span>.\
 Scientific Journal of Intelligent Systems Research,2022. [[pdf]](https://www.clausiuspress.com/article/1212.html),
 
-
+- <span style="color:red; font-weight:bold;">[Journal]</span> 
+-- ``Advances in AI and ML`` **"Research on geometric figure classification algorithm based on Deep Learning"**  
+  Ruiyang Wang,<span style="color:darkblue">**Haonan Wang**</span>, Junfeng Sun, Mingjia Zhao, Meng Liu.</span>.\
+Advances in Artificial Intelligence and Machine Learning, 2022. [[pdf]](https://arxiv.org/abs/2404.16561),
 
 
 
@@ -47,6 +50,10 @@ Scientific Reports, 2024. [[pdf]](https://www.researchsquare.com/article/rs-4299
 - **Research on geometric figure classification algorithm based on Deep Learning.**\
 Ruiyang Wang,<span style="color:darkblue">**Haonan Wang**</span>, Junfeng Sun, Mingjia Zhao, Meng Liu.\
 Advances in Artificial Intelligence and Machine Learning, 2022. [[pdf]](https://arxiv.org/abs/2404.16561),
+
+
+
+
 
 - **Research status and future prospects of machine learning algorithm in big data analysis.**\
 <span style="color:darkblue">**Haonan Wang**</span>,.\
