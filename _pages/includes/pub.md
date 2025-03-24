@@ -8,25 +8,19 @@ Wei Liu,Ruiyang Wang,<span style="color:darkblue">**Haonan Wang**</span>, Guangw
 Advances in Artificial Intelligence and Machine Learning, 2025. [[pdf]](https://arxiv.org/abs/2501.05411),
 ## 📘 Human-center interaction 
 
-## 📕 Interactive language and Reinforcement learning
+## 📕 Interactive language environment learning
 
 - <span style="color:green; font-weight:bold;">[Journal]</span> 
 -- ``Computer Science and Information Technology`` **"Design and Optimization of Reinforcement Learning-Based Agents in Text-Based Games"**  
 <span style="color:darkblue">**Haonan Wang**</span>, Mingjia Zhao，Junfeng Sun,Wei Liu.\
 International Journal of Computer Science and Information Technology, 2025. [[pdf]](https://wepub.org/index.php/IJCSIT/article/view/5152),
 <span style="background-color:orange; color:white; padding:4px 6px; border-radius:4px; font-size:90%;">
-  Interactive language learning
- </span>
-<span style="background-color:Maroon; color:white; padding:4px 6px; border-radius:4px; font-size:90%;">
-  Text-based world
-</span>
+    Text-based games
 
 - <span style="color:green; font-weight:bold;">[Journal]</span> 
 -- ``Computer Science and AI`` **"Research on the Integration of Embodied Intelligence and Reinforcement Learning in Textual Domains"**  
 <span style="color:darkblue">**Haonan Wang**</span>,Junfeng Sun,Mingjia Zhao, Wei Liu.\
 Journal of Computer Science and Artificial Intelligence, 2025. [[pdf]](),
-<span style="background-color:orange; color:white; padding:4px 6px; border-radius:4px; font-size:90%;">
-  Interactive language learning
 <span style="background-color:Maroon; color:white; padding:4px 6px; border-radius:4px; font-size:90%;">
   Text-based world
   
