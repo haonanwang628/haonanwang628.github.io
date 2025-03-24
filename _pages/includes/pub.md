@@ -1,15 +1,17 @@
 
 # 📝 Publications 
 
-## Preprints 
+## Preprints all field
 - <span style="color:red; font-weight:bold;">[Preprint]</span> 
 --  **"Adaptive Path-Planning for Autonomous Robots: A UCH-Enhanced Q-Learning Approach"**  
 Wei Liu,Ruiyang Wang,<span style="color:darkblue">**Haonan Wang**</span>, Guangwei Liu.\
 Advances in Artificial Intelligence and Machine Learning, 2025. [[pdf]](https://arxiv.org/abs/2501.05411),
 
-## 📘 Human-center AI 
+## 📘+💡Human-center AI  
 
-## 📕 Interactive language environment learning
+
+
+## 📕+💎Interactive language environment learning
 
 - <span style="color:green; font-weight:bold;">[Journal]</span> 
 -- ``Computer Science and Information Technology`` **"Design and Optimization of Reinforcement Learning-Based Agents in Text-Based Games"**  
@@ -17,12 +19,10 @@ Advances in Artificial Intelligence and Machine Learning, 2025. [[pdf]](https://
 International Journal of Computer Science and Information Technology, 2025. [[pdf]](https://wepub.org/index.php/IJCSIT/article/view/5152),
 <span style="background-color:orange; color:white; padding:4px 6px; border-radius:4px; font-size:90%;">
     Text-based games
-
-
-  
+ 
 
   
-## 📙 Machine learning
+## 📙+⏳Machine learning
 
 - <span style="color:green; font-weight:bold;">[Journal]</span> 
 -- ``Plos one`` **"Unsupervised Feature Selection Algorithm Based on L2,p-norm Feature Reconstruction"**  
@@ -63,8 +63,8 @@ Advances in Artificial Intelligence and Machine Learning, 2022. [[pdf]](https://
 <span style="background-color:Purple; color:white; padding:4px 6px; border-radius:4px; font-size:90%;">
   Machine Learning Model
   
-## 📗 Other Field
-### Software Patents:
+## 📗+🔍Other Field
+### 🖥Software Patents:
 [P.1] <span style="color:darkblue">**Haonan Wang**</span>, Mingjia, Zhao, et al. (2022). **Artificial intelligence robot programming interactive control
 system**. PRC Software Copyright Patent, Patent No. 2022SR1053901.\
 [P.2] <span style="color:darkblue">**Haonan Wang**</span>, Junfeng, Sun, et al. (2022). **Image recognition processing operation platform**. PRC Software
@@ -82,7 +82,7 @@ learning**. PRC Software Copyright Patent, Patent No. 2022SR1052428.\
 [P.8] Jiawei, Zhang, Pengyu, Cai, <span style="color:darkblue">**Haonan Wang**</span>, et al. (2021). **Staff check-in face recognition system**.PRC Software
 Copyright. PRC Software Copyright Patent, Patent No. 2021SR0699354.
 
-### Competition Awards:
+### 📊Competition Awards:
 • 1st Place, 12th MathorCup College Mathematical Modeling Challenge 2022\
 National-level award in China\
 • 1st Place, Liaoning Mathematical Modeling Contest 2022\
