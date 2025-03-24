@@ -55,7 +55,7 @@ Scientific Journal of Intelligent Systems Research,2022. [[pdf]](https://www.cla
 <span style="background-color:MidnightBlue; color:white; padding:4px 6px; border-radius:4px; font-size:90%;">
   Machine Learning Model
   </span>
-<span style="background-color:moccasin; color:white; padding:4px 6px; border-radius:4px; font-size:90%;">
+<span style="background-color:DarkGreen; color:white; padding:4px 6px; border-radius:4px; font-size:90%;">
   Data mining
 
 
