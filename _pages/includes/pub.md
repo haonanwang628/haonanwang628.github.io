@@ -30,12 +30,7 @@ Journal of Computer Science and Artificial Intelligence, 2025. [[pdf]](),
 <span style="background-color:indigo; color:white; padding:4px 6px; border-radius:4px; font-size:90%;">
   Text-based world
   
-- <span style="color:green; font-weight:bold;">[Journal]</span> 
--- ``Scientific Reports`` **"IM3HRL: Model-assisted Intrinsically Motivated Modular Hierarchical Reinforcement Learning"**  
-Wei Liu,Jiaxiang Wang,Guangwei Liu, <span style="color:darkblue">**Haonan Wang**</span>.\
-Scientific Reports, 2024. [[pdf]](https://www.researchsquare.com/article/rs-4299675/v1),
-<span style="background-color:darkgreen; color:white; padding:4px 6px; border-radius:4px; font-size:90%;">
-  Reinforcement learning 
+
   
 ## 📙 Machine learning
 
@@ -45,11 +40,24 @@ Scientific Reports, 2024. [[pdf]](https://www.researchsquare.com/article/rs-4299
 Plos one, 2025. [[pdf]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318431)
 <span style="background-color:mintcream; color:black; padding:4px 6px; border-radius:4px; font-size:90%;">
   Unsupervised learning
+
+- <span style="color:green; font-weight:bold;">[Journal]</span> 
+-- ``Scientific Reports`` **"IM3HRL: Model-assisted Intrinsically Motivated Modular Hierarchical Reinforcement Learning"**  
+Wei Liu,Jiaxiang Wang,Guangwei Liu, <span style="color:darkblue">**Haonan Wang**</span>.\
+Scientific Reports, 2024. [[pdf]](https://www.researchsquare.com/article/rs-4299675/v1),
+<span style="background-color:darkslategray; color:white; padding:4px 6px; border-radius:4px; font-size:90%;">
+  Reinforcement learning 
   
 - <span style="color:green; font-weight:bold;">[Journal]</span> 
 -- ``Scientific Journal`` **"Research status and future prospects of machine learning algorithm in big data analysis"**  
   <span style="color:darkblue">**Haonan Wang**</span>.\
 Scientific Journal of Intelligent Systems Research,2022. [[pdf]](https://www.clausiuspress.com/article/1212.html),
+<span style="background-color:lightcyan; color:white; padding:4px 6px; border-radius:4px; font-size:90%;">
+  Machine Learning Model
+  </span>
+<span style="background-color:moccasin; color:white; padding:4px 6px; border-radius:4px; font-size:90%;">
+  Data mining
+
 
 - <span style="color:green; font-weight:bold;">[Journal]</span> 
 -- ``Advances in AI and ML`` **"Research on geometric figure classification algorithm based on Deep Learning"**  
