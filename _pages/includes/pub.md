@@ -17,7 +17,7 @@ International Journal of Computer Science and Information Technology, 2025. [[pd
 <span style="background-color:orange; color:white; padding:4px 6px; border-radius:4px; font-size:90%;">
   Interactive language learning
  </span>
-<span style="background-color:; color:white; padding:4px 6px; border-radius:4px; font-size:90%;">
+<span style="background-color:Maroon; color:white; padding:4px 6px; border-radius:4px; font-size:90%;">
   Text-based world
 </span>
 
@@ -27,7 +27,7 @@ International Journal of Computer Science and Information Technology, 2025. [[pd
 Journal of Computer Science and Artificial Intelligence, 2025. [[pdf]](),
 <span style="background-color:orange; color:white; padding:4px 6px; border-radius:4px; font-size:90%;">
   Interactive language learning
-<span style="background-color:royalblue; color:white; padding:4px 6px; border-radius:4px; font-size:90%;">
+<span style="background-color:Maroon; color:white; padding:4px 6px; border-radius:4px; font-size:90%;">
   Text-based world
   
 
