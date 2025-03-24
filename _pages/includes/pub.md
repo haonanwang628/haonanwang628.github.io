@@ -6,7 +6,7 @@
 --  **"Adaptive Path-Planning for Autonomous Robots: A UCH-Enhanced Q-Learning Approach"**  
 Wei Liu,Ruiyang Wang,<span style="color:darkblue">**Haonan Wang**</span>, Guangwei Liu.\
 Advances in Artificial Intelligence and Machine Learning, 2025. [[pdf]](https://arxiv.org/abs/2501.05411),
-## 📕 Human-center interaction 
+## 📘 Human-center interaction 
 
 ## 📕 Interactive language and Reinforcement learning
 
