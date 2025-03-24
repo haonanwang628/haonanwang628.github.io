@@ -15,7 +15,7 @@ Advances in Artificial Intelligence and Machine Learning, 2025. [[pdf]](https://
 <span style="color:darkblue">**Haonan Wang**</span>, Mingjia Zhao，Junfeng Sun,Wei Liu.\
 International Journal of Computer Science and Information Technology, 2025. [[pdf]](https://wepub.org/index.php/IJCSIT/article/view/5152),
 <span style="background-color:orange; color:white; padding:4px 6px; border-radius:4px; font-size:90%;">
-  Interactive language learning \
+  Interactive language learning 
   
 - <span style="color:green; font-weight:bold;">[Journal]</span> 
 -- ``Computer Science and AI`` **"Research on the Integration of Embodied Intelligence and Reinforcement Learning in Textual Domains"**  
@@ -27,9 +27,9 @@ Journal of Computer Science and Artificial Intelligence, 2025. [[pdf]](),
 Wei Liu,Jiaxiang Wang,Guangwei Liu, <span style="color:darkblue">**Haonan Wang**</span>.\
 Scientific Reports, 2024. [[pdf]](https://www.researchsquare.com/article/rs-4299675/v1),
 <span style="background-color:orange; color:white; padding:4px 6px; border-radius:4px; font-size:90%;">
-  Reinforcement learning \
+  Reinforcement learning 
 <span style="background-color:yellow; color:white; padding:4px 6px; border-radius:4px; font-size:90%;">
-  Reinforcement learning \
+  Reinforcement learning 
   
 ## 📙 Machine learning
 
