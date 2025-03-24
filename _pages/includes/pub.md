@@ -27,7 +27,7 @@ International Journal of Computer Science and Information Technology, 2025. [[pd
 -- ``Plos one`` **"Unsupervised Feature Selection Algorithm Based on L2,p-norm Feature Reconstruction"**  
   Wei Liu,Qian Ning,Guangwei Liu,<span style="color:darkblue">**Haonan Wang**</span> ,Yixin Zhu,Miao Zhong.\
 Plos one, 2025. [[pdf]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318431)
-<span style="background-color:mintcream; color:black; padding:4px 6px; border-radius:4px; font-size:90%;">
+<span style="background-color:ForestGreen; color:black; padding:4px 6px; border-radius:4px; font-size:90%;">
   Unsupervised learning
 
 - <span style="color:green; font-weight:bold;">[Journal]</span> 
