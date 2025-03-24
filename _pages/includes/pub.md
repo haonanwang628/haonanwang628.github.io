@@ -17,7 +17,7 @@ International Journal of Computer Science and Information Technology, 2025. [[pd
 <span style="background-color:orange; color:white; padding:4px 6px; border-radius:4px; font-size:90%;">
   Interactive language learning
  </span>
-<span style="background-color:red; color:white; padding:4px 6px; border-radius:4px; font-size:90%;">
+<span style="background-color:indigo; color:white; padding:4px 6px; border-radius:4px; font-size:90%;">
   Text-based world
 </span>
 
@@ -34,7 +34,7 @@ Journal of Computer Science and Artificial Intelligence, 2025. [[pdf]](),
 -- ``Scientific Reports`` **"IM3HRL: Model-assisted Intrinsically Motivated Modular Hierarchical Reinforcement Learning"**  
 Wei Liu,Jiaxiang Wang,Guangwei Liu, <span style="color:darkblue">**Haonan Wang**</span>.\
 Scientific Reports, 2024. [[pdf]](https://www.researchsquare.com/article/rs-4299675/v1),
-<span style="background-color:red; color:white; padding:4px 6px; border-radius:4px; font-size:90%;">
+<span style="background-color:darkgreen; color:white; padding:4px 6px; border-radius:4px; font-size:90%;">
   Reinforcement learning 
   
 ## 📙 Machine learning
