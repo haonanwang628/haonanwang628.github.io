@@ -26,8 +26,6 @@ Journal of Computer Science and Artificial Intelligence, 2025. [[pdf]](),
 -- ``Scientific Reports`` **"IM3HRL: Model-assisted Intrinsically Motivated Modular Hierarchical Reinforcement Learning"**  
 Wei Liu,Jiaxiang Wang,Guangwei Liu, <span style="color:darkblue">**Haonan Wang**</span>.\
 Scientific Reports, 2024. [[pdf]](https://www.researchsquare.com/article/rs-4299675/v1),
-<span style="background-color:orange; color:white; padding:4px 6px; border-radius:4px; font-size:90%;">
-  Reinforcement learning 
 <span style="background-color:yellow; color:white; padding:4px 6px; border-radius:4px; font-size:90%;">
   Reinforcement learning 
   
