@@ -48,7 +48,7 @@ Journal of Computer Science and Artificial Intelligence, 2025. [[pdf]](),
 -- ``Scientific Journal`` **"Research status and future prospects of machine learning algorithm in big data analysis"**  
   <span style="color:darkblue">**Haonan Wang**</span>.\
 Scientific Journal of Intelligent Systems Research,2022. [[pdf]](https://www.clausiuspress.com/article/1212.html),
-<span style="background-color:Navy; color:white; padding:4px 6px; border-radius:4px; font-size:90%;">
+<span style="background-color:Purple; color:white; padding:4px 6px; border-radius:4px; font-size:90%;">
   Machine Learning Model
   </span>
 <span style="background-color:DarkGreen; color:white; padding:4px 6px; border-radius:4px; font-size:90%;">
@@ -59,7 +59,7 @@ Scientific Journal of Intelligent Systems Research,2022. [[pdf]](https://www.cla
 -- ``Advances in AI and ML`` **"Research on geometric figure classification algorithm based on Deep Learning"**  
   Ruiyang Wang,<span style="color:darkblue">**Haonan Wang**</span>,Junfeng Sun,Mingjia Zhao,Meng Liu.\
 Advances in Artificial Intelligence and Machine Learning, 2022. [[pdf]](https://arxiv.org/abs/2404.16561),
-<span style="background-color:Navy; color:white; padding:4px 6px; border-radius:4px; font-size:90%;">
+<span style="background-color:Purple; color:white; padding:4px 6px; border-radius:4px; font-size:90%;">
   Machine Learning Model
   
 ## 📗 Other Field
