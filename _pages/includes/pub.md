@@ -20,6 +20,7 @@ International Journal of Computer Science and Information Technology, 2025. [[pd
 <span style="background-color:red; color:white; padding:4px 6px; border-radius:4px; font-size:90%;">
   Text-based world
 </span>
+
 - <span style="color:green; font-weight:bold;">[Journal]</span> 
 -- ``Computer Science and AI`` **"Research on the Integration of Embodied Intelligence and Reinforcement Learning in Textual Domains"**  
 <span style="color:darkblue">**Haonan Wang**</span>,Junfeng Sun,Mingjia Zhao, Wei Liu.\
