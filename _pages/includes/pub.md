@@ -83,7 +83,7 @@ learning**. PRC Software Copyright Patent, Patent No. 2022SR1052428.\
 [P.8] Jiawei, Zhang, Pengyu, Cai, <span style="color:darkblue">**Haonan Wang**</span>, et al. (2021). **Staff check-in face recognition system**.PRC Software
 Copyright. PRC Software Copyright Patent, Patent No. 2021SR0699354.
 
-### 📊Competition Awards:
+### 📊Competition Awards(Mathematical Modeling and Computer Science Design):
 • 1st Place, 12th MathorCup College Mathematical Modeling Challenge 2022\
 National-level award in China\
 • 1st Place, Liaoning Mathematical Modeling Contest 2022\
