@@ -7,9 +7,6 @@
 Wei Liu,Ruiyang Wang,<span style="color:darkblue">**Haonan Wang**</span>, Guangwei Liu.\
 Advances in Artificial Intelligence and Machine Learning, 2025. [[pdf]](https://arxiv.org/abs/2501.05411),
 
-## 📘+💎Human-center AI  
-
-
 
 ## 📕+🔮Interactive language environment learning
 💡[Text Games](https://www.textgames.org/learn-more/) (or, Interactive Fiction, or Text-based Virtual Environments) are interactive virtual worlds that users observe and act upon using words instead of pixels.
