@@ -1,5 +1,5 @@
 
-- <span style="color:#FF8C00; font-weight: bold;"> Currently:</span>\
+- <span style="color:#FF8C00; font-weight: bold;"> Currently Now:</span>\
   I am currently a student research assistant at the ISLE lab working with [Prof. Ziang Xiao](https://www.ziangxiao.com/) and [Prof. Jie Gao](https://gaojie058.github.io/) and I have also actively engaged in NLP discussions with [Prof. Jason Eisner(Faculty advisor)](https://www.cs.jhu.edu/~jason/), [Prof. Anjalie Field](https://anjalief.github.io/index.html) at the[ Center for Language and Speech Processing (CLSP)](https://www.clsp.jhu.edu/). At the same time, I received ***my Master's degree in Computer Science Engineering*** at [Johns Hopkins University](https://www.jhu.edu/) in the 2024 Fall.
 
 - <span style=" color:#6A5ACD; font-weight: bold;"> In my Undergraduate: </span>\
