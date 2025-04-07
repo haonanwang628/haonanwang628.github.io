@@ -4,7 +4,7 @@ title: "Haonan's Blog"
 permalink: /blog/
 ---
 
-<h1 style="color: purple; text-align: center;">Tianjian's Blog</h1>
+<h1 style="color: purple; text-align: center;">Haonan's Blog</h1>
 
 {% for post in site.posts %}
   <div style="margin-bottom: 2em;">
