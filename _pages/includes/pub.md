@@ -9,7 +9,7 @@ Advances in Artificial Intelligence and Machine Learning, 2025. [[pdf]](https://
 
 
 ## 📕+🔮Interactive language environment learning
-💡[Text Games](https://www.textgames.org/learn-more/) (or, Interactive Fiction, or Text-based Virtual Environments) are interactive virtual worlds that users observe and act upon using words instead of pixels.
+💡[Text Games](https://www.textgames.org/learn-more/) (or, Interactive Fiction, or [Text-based Virtual Environments](assets/blog/groupmeeting.pdf) are interactive virtual worlds that users observe and act upon using words instead of pixels.
 
 - <span style="color: #9C27B0; font-weight:bold;">[Conference]</span> 
 -- ``Computer Science and Information Technology`` **"Design and Optimization of Reinforcement Learning-Based Agents in Text-Based Games"**  
