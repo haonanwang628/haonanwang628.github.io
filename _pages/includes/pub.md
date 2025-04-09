@@ -2,7 +2,7 @@
 # 📝 Publications 
 
 ## Preprints all field
-- <span style="color:red; font-weight:bold;">[Preprint]</span> 
+- <span style="color: #FF9800; font-weight:bold;">[Preprint]</span> 
 --  **"Adaptive Path-Planning for Autonomous Robots: A UCH-Enhanced Q-Learning Approach"**  
 Wei Liu,Ruiyang Wang,<span style="color:darkblue">**Haonan Wang**</span>, Guangwei Liu.\
 Advances in Artificial Intelligence and Machine Learning, 2025. [[pdf]](https://arxiv.org/abs/2501.05411),
