@@ -16,11 +16,9 @@ Wei Liu,Ruiyang Wang,<span style="color:darkblue">**Haonan Wang**</span>, Guangw
 International Journal of Computer Science and Information Technology, 2025. [[Abstract]](<details>
   <summary>Abstract</summary>
   In this paper, we propose a novel design and optimization approach for reinforcement learning-based agents operating in text-based games. By leveraging advanced policy optimization techniques and a human-centered interaction framework, our agents achieve superior performance in complex narrative environments. We evaluate our approach across multiple benchmark text games, demonstrating significant improvements in both success rate and learning efficiency compared to baseline models.
-  </details>) [[pdf]](https://wepub.org/index.php/IJCSIT/article/view/5152),
-<details>
-  <summary>Abstract</summary>
-  In this paper, we propose a novel design and optimization approach for reinforcement learning-based agents operating in text-based games. By leveraging advanced policy optimization techniques and a human-centered interaction framework, our agents achieve superior performance in complex narrative environments. We evaluate our approach across multiple benchmark text games, demonstrating significant improvements in both success rate and learning efficiency compared to baseline models.
-  </details>
+  </details>) 
+  [[pdf]](https://wepub.org/index.php/IJCSIT/article/view/5152),
+
   
  - <span style="color:green; font-weight:bold;">[Journal]</span>
 -- ``Computer Science and AI`` **"Research on the Integration of Embodied Intelligence and Reinforcement Learning in Textual Domains"**  
