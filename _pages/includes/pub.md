@@ -14,15 +14,13 @@ Wei Liu,Ruiyang Wang,<span style="color:darkblue">**Haonan Wang**</span>, Guangw
 -- ``Computer Science and Information Technology`` **"Design and Optimization of Reinforcement Learning-Based Agents in Text-Based Games"**  
 <span style="color:darkblue">**Haonan Wang**</span>, Mingjia Zhao，Junfeng Sun,Wei Liu.\
 International Journal of Computer Science and Information Technology, 2025. [[pdf]](https://wepub.org/index.php/IJCSIT/article/view/5152),
-<span style="background-color:orange; color:white; padding:4px 6px; border-radius:4px; font-size:90%;">
-    Text-based games
+
   
  - <span style="color:green; font-weight:bold;">[Journal]</span>
 -- ``Computer Science and AI`` **"Research on the Integration of Embodied Intelligence and Reinforcement Learning in Textual Domains"**  
 <span style="color:darkblue">**Haonan Wang**</span>,Junfeng Sun,Mingjia Zhao, Wei Liu.\
 Journal of Computer Science and Artificial Intelligence, 2025. [[pdf]](),
-<span style="background-color:darkslategray; color:white; padding:4px 6px; border-radius:4px; font-size:90%;">
-  Reinforcement learning 
+
   
 ## 📙+⏳Machine learning and Reinforcement learning
 
