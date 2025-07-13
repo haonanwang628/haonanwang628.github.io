@@ -20,7 +20,16 @@ International Journal of Computer Science and Information Technology, 2025.
   In this paper, we propose a novel design and optimization approach for reinforcement learning-based agents operating in text-based games. By leveraging advanced policy optimization techniques and a human-centered interaction framework, our agents achieve superior performance in complex narrative environments. We evaluate our approach across multiple benchmark text games, demonstrating significant improvements in both success rate and learning efficiency compared to baseline models.
   </details>
   
-
+- <span style="color: #9C27B0; font-weight:bold;">[Conference]</span> 
+  <span style="color:darkblue;">Computer Science and Information Technology</span> 
+  "**Design and Optimization of Reinforcement Learning-Based Agents in Text-Based Games**"  
+  **Haonan Wang**, Mingjia Zhao, Junfeng Sun, Wei Liu.  
+  International Journal of Computer Science and Information Technology, 2025. 
+  [pdf](https://example.com/pdf)
+  <details style="display:inline;">
+  <summary style="display:inline; cursor:pointer; color:blue;">Abstract</summary>
+  In this paper, we propose a novel design and optimization approach for reinforcement learning-based agents operating in text-based games. By leveraging advanced policy optimization techniques and a human-centered interaction framework, our agents achieve superior performance in complex narrative environments. We evaluate our approach across multiple benchmark text games, demonstrating significant improvements in both success rate and learning efficiency compared to baseline models.
+  </details>
   
  - <span style="color:green; font-weight:bold;">[Journal]</span>
 -- ``Computer Science and AI`` **"Research on the Integration of Embodied Intelligence and Reinforcement Learning in Textual Domains"**  
