@@ -6,7 +6,6 @@
 
 
 ## 📕+🔮Human-Centered AI and Natural Language Processing
-💡[Text Games](https://www.textgames.org/learn-more/) (or, Interactive Fiction, or [Text-based Virtual Environments](assets/blog/groupmeeting.pdf) are interactive virtual worlds that users observe and act upon using words instead of pixels.
 
 - <span style="color: #9C27B0; font-weight:bold;">[Conference]</span> 
 -- ``Computer Science and Information Technology`` **"Design and Optimization of Reinforcement Learning-Based Agents in Text-Based Games"**  
