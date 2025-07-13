@@ -15,7 +15,7 @@ International Journal of Computer Science and Information Technology, 2025.[[pdf
 Journal of Computer Science and Artificial Intelligence, 2025. [[pdf]](),
 
   
-## 📙+⏳Machine learning and Reinforcement learning
+## 📙+⏳Machine learning and Data Science 
 
 - <span style="color:green; font-weight:bold;">[Journal]</span> 
 -- ``Plos one`` **"Unsupervised Feature Selection Algorithm Based on L2,p-norm Feature Reconstruction"**  
@@ -26,8 +26,6 @@ Plos one, 2025.
 -- ``Scientific Reports`` **"IM3HRL: Model-assisted Intrinsically Motivated Modular Hierarchical Reinforcement Learning"**  
 Wei Liu,Jiaxiang Wang,Guangwei Liu, <span style="color:darkblue">**Haonan Wang**</span>.\
 Scientific Reports, 2024. [[pdf]](https://www.researchsquare.com/article/rs-4299675/v1),
-
-
 
 - <span style="color:green; font-weight:bold;">[Journal]</span> 
 -- ``Scientific Journal`` **"Research status and future prospects of machine learning algorithm in big data analysis"**  
