@@ -9,9 +9,7 @@
 My research interests include **Human-Centered AI and Large Language Models(LLMs) for application and evaluation**.
 <!-- 这里是注释内容，不会在页面上显示 
 Specifically, my research consists of two main areas :
-
 - 1️⃣ My first area focuses on **Large Language Models(LLMs) for reasoning in interaction language environments**, particularly interested in building new that automatically build virtual worlds and virtual agents, I explore how **[Text-based Virtual Environments](https://www.textgames.org/)** can be used as a modern framework for evaluating and benchmarking LLM/LLM for Agent reasoning, code generation, and decision-making abilities through multiple text game task-oriented interaction.
-
 - 2️⃣ My second area focuses on **human-centered and LLMs Collaboration to support data annotation and Analysis**. I explore combining qualitative and quantitative methods to design better data curation processes. In my view, this work is very important for current data and future synthetic data input for LLMs pretraining and fine-tuning process, that work can be worthwhile for the rise of more and more domain-specific LLMs in the future and support the before-pretraining data become a key factor in ensuring model reliability and alignment with human needs.
 -->
 Beyond that, I also have research interests and experience in **Machine learning, data mining, and Reinforcement learning policy algorithm optimization**, especially in the context of improving multiple Agent training efficiency and neural network and Deep learning computational resource management, specifically driverless scheduling algorithms engineering applications.
