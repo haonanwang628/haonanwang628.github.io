@@ -26,10 +26,6 @@ Journal of Computer Science and Artificial Intelligence, 2025. [[pdf]](),
   Wei Liu, Miao Zhong, Guangwei Liu,<span style="color:darkblue">**Haonan Wang**</span> , Ning Qian.\
 Plos one, 2025. 
 
---  **"Adaptive Path-Planning for Autonomous Robots: A UCH-Enhanced Q-Learning Approach"**  
-Wei Liu,Ruiyang Wang,<span style="color:darkblue">**Haonan Wang**</span>, Guangwei Liu.\
-[***under review***]Advances in Artificial Intelligence and Machine Learning, 2025. [[pdf]](https://arxiv.org/abs/2501.05411),
-
 - <span style="color:green; font-weight:bold;">[Journal]</span> 
 -- ``Scientific Reports`` **"IM3HRL: Model-assisted Intrinsically Motivated Modular Hierarchical Reinforcement Learning"**  
 Wei Liu,Jiaxiang Wang,Guangwei Liu, <span style="color:darkblue">**Haonan Wang**</span>.\
