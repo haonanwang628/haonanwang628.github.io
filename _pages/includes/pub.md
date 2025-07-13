@@ -29,6 +29,10 @@ Journal of Computer Science and Artificial Intelligence, 2025. [[pdf]](),
   Wei Liu,Qian Ning,Guangwei Liu,<span style="color:darkblue">**Haonan Wang**</span> ,Yixin Zhu,Miao Zhong.\
 Plos one, 2025. [[pdf]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318431)
 
+- <span style="color:green; font-weight:bold;">[Journal]</span> 
+-- ``Chinese Journal of Image and Graphics()`` **"Detail-enhanced medical image segmentation focusing on global and intermediate features"**  
+  Ruiyang Wang,<span style="color:darkblue">**Haonan Wang**</span>,Junfeng Sun,Mingjia Zhao,Meng Liu.\
+Advances in Artificial Intelligence and Machine Learning, 2022. [[pdf]](https://arxiv.org/abs/2404.16561),
 
 - <span style="color:green; font-weight:bold;">[Journal]</span> 
 -- ``Scientific Reports`` **"IM3HRL: Model-assisted Intrinsically Motivated Modular Hierarchical Reinforcement Learning"**  
@@ -48,6 +52,10 @@ Scientific Journal of Intelligent Systems Research,2022. [[pdf]](https://www.cla
   Ruiyang Wang,<span style="color:darkblue">**Haonan Wang**</span>,Junfeng Sun,Mingjia Zhao,Meng Liu.\
 Advances in Artificial Intelligence and Machine Learning, 2022. [[pdf]](https://arxiv.org/abs/2404.16561),
 
+- <span style="color:green; font-weight:bold;">[Journal]</span> 
+-- ``Advances in AI and ML`` **"Research on geometric figure classification algorithm based on Deep Learning"**  
+  Ruiyang Wang,<span style="color:darkblue">**Haonan Wang**</span>,Junfeng Sun,Mingjia Zhao,Meng Liu.\
+Advances in Artificial Intelligence and Machine Learning, 2022. [[pdf]](https://arxiv.org/abs/2404.16561),
 
 ## 📗+🔍Other Field
 ### 🖥Software Patents:
