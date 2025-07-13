@@ -17,9 +17,8 @@ International Journal of Computer Science and Information Technology, 2025. [[pd
 <span style="background-color:orange; color:white; padding:4px 6px; border-radius:4px; font-size:90%;">
     Text-based games
  
-
   
-## 📙+⏳Machine learning
+## 📙+⏳Machine learning and Reinforcement learning
 
 - <span style="color:green; font-weight:bold;">[Journal]</span> 
 -- ``Plos one`` **"Unsupervised Feature Selection Algorithm Based on L2,p-norm Feature Reconstruction"**  
