@@ -6,10 +6,12 @@
   Before joining JHU, I received  ***my B.S. degree in Information and Computer Science, and Mathematics*** from [Liaoning Technology University](https://en.lntu.edu.cn/).
   <!-- During my undergrad study, I spent time at the Institute of Mathematics and Systems Science and the Institute of Machine Learning and Data Mining, where I was advised by [Prof. Wei Liu](https://www.researchgate.net/profile/Wei-Liu-523) and [Prof.Yu Zhang (https://www.researchgate.net/profile/Yu-Zhang-264) working in Multivariate Statistical Analysis, Machine Learning, Reinforcement Learning, Informatics Theory, Numerical Analysis, and Math Modeling and Optimization Algorithms field.-->
 # 🤔 Research interest
-My research interests include **Human-AI collaboration and Natural Language Processing, Mult-Agent learning, and Large Language Models(LLMs) for reasoning, evaluation, and application**, and **Human-LLMs Collaboration Data Annotation/Analysis**. Specifically, my research consists of two main areas :
+My research interests include **Human-Centered AI and Large Language Models(LLMs)**.
+<!-- 这里是注释内容，不会在页面上显示 
+Specifically, my research consists of two main areas :
 
 - 1️⃣ My first area focuses on **Large Language Models(LLMs) for reasoning in interaction language environments**, particularly interested in building new that automatically build virtual worlds and virtual agents, I explore how **[Text-based Virtual Environments](https://www.textgames.org/)** can be used as a modern framework for evaluating and benchmarking LLM/LLM for Agent reasoning, code generation, and decision-making abilities through multiple text game task-oriented interaction.
 
 - 2️⃣ My second area focuses on **human-centered and LLMs Collaboration to support data annotation and Analysis**. I explore combining qualitative and quantitative methods to design better data curation processes. In my view, this work is very important for current data and future synthetic data input for LLMs pretraining and fine-tuning process, that work can be worthwhile for the rise of more and more domain-specific LLMs in the future and support the before-pretraining data become a key factor in ensuring model reliability and alignment with human needs.
-
+-->
 Beyond that, I also have research interests and experience in **Machine learning, data mining, and Reinforcement learning policy algorithm optimization**, especially in the context of improving multiple Agent training efficiency and neural network and Deep learning computational resource management, specifically driverless scheduling algorithms engineering applications.
