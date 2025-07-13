@@ -32,7 +32,10 @@ Plos one, 2025.
 - <span style="color:green; font-weight:bold;">[Journal]</span> 
 -- ``Chinese Journal of Image and Graphics(Chinese language)`` **"Detail-enhanced medical image segmentation focusing on global and intermediate features"**  
   Ruiyang Wang,<span style="color:darkblue">**Haonan Wang**</span>,Junfeng Sun,Mingjia Zhao,Meng Liu.\
-Advances in Artificial Intelligence and Machine Learning, 2022. [[pdf]](https://arxiv.org/abs/2404.16561),
+Advances in Artificial Intelligence and Machine Learning, 2025.  <details style="display:inline;">
+  <summary style="display:inline; cursor:pointer; color:blue; text-decoration:underline;">Abstract</summary>
+  In this paper, we propose a novel design and optimization approach for reinforcement learning-based agents operating in text-based games. By leveraging advanced policy optimization techniques and a human-centered interaction framework, our agents achieve superior performance in complex narrative environments. We evaluate our approach across multiple benchmark text games, demonstrating significant improvements in both success rate and learning efficiency compared to baseline models.
+  </details>
 
 - <span style="color:green; font-weight:bold;">[Journal]</span> 
 -- ``Scientific Reports`` **"IM3HRL: Model-assisted Intrinsically Motivated Modular Hierarchical Reinforcement Learning"**  
