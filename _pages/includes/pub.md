@@ -2,7 +2,7 @@
 # 📝 Publications 
 
 
-## 📕+🔮Human-Centered AI and Natural Language Processing
+## 📕Human-Centered AI and Natural Language Processing
 
 - <span style="color: #9C27B0; font-weight:bold;">[Conference]</span> 
 -- ``Computer Science and Information Technology`` **"Design and Optimization of Reinforcement Learning-Based Agents in Text-Based Games"**  
@@ -15,7 +15,7 @@ International Journal of Computer Science and Information Technology, 2025.[[pdf
 Journal of Computer Science and Artificial Intelligence, 2025. [[pdf]](),
 
   
-## 📙+⏳Machine learning and Data Science 
+## 📙 Machine learning and Data Science 
 
 - <span style="color:green; font-weight:bold;">[Journal]</span> 
 -- ``Plos one`` **"Unsupervised Feature Selection Algorithm Based on L2,p-norm Feature Reconstruction"**  
