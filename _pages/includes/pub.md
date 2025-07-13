@@ -13,7 +13,7 @@ Wei Liu,Ruiyang Wang,<span style="color:darkblue">**Haonan Wang**</span>, Guangw
 - <span style="color: #9C27B0; font-weight:bold;">[Conference]</span> 
 -- ``Computer Science and Information Technology`` **"Design and Optimization of Reinforcement Learning-Based Agents in Text-Based Games"**  
 <span style="color:darkblue">**Haonan Wang**</span>, Mingjia Zhao，Junfeng Sun,Wei Liu.\
-International Journal of Computer Science and Information Technology, 2025. [[pdf]](https://wepub.org/index.php/IJCSIT/article/view/5152),
+International Journal of Computer Science and Information Technology, 2025. [Abstract][[pdf]](https://wepub.org/index.php/IJCSIT/article/view/5152),
 
   
  - <span style="color:green; font-weight:bold;">[Journal]</span>
