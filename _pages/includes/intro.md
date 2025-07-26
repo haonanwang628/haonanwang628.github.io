@@ -8,8 +8,8 @@
 # 🤔 Research interest
 My research interests include **Human-Centered Artificial Intelligence (HCI-AI)**, **Natural Language Processing(NLP)**, and **Machine learning (ML)**. My research work is motivated by the fundamental question of **understanding human-centered Data Annotation/Optimization/Selection at scale**. Specifically, I am currently interested in the following research directions :
 
-**1. Social NLP:** How to evaluate and improve LLMs' capabilities to understand and interact with humans in social contexts.
+**1. Human-AI Interaction**: How to evaluate and improve LLMs' capabilities to understand and interact with humans in social contexts.
 
-**2. Human-AI Interaction:** How to design and evaluate AI systems for different social scenarios.
+**2. Human-Centered Data Science:** How to design and evaluate AI systems for different social scenarios.
 
-**3. Computational Social Science:** How to understand human behaviors and social dynamics using large-scale data and computational methods.
+**3. Machine learning (ML):** How to understand human behaviors and social dynamics using large-scale data and computational methods.
