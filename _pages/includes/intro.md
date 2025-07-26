@@ -7,6 +7,7 @@
   <!-- During my undergrad study, I spent time at the Institute of Mathematics and Systems Science and the Institute of Machine Learning and Data Mining, where I was advised by [Prof. Wei Liu](https://www.researchgate.net/profile/Wei-Liu-523) and [Prof.Yu Zhang (https://www.researchgate.net/profile/Yu-Zhang-264) works in Multivariate Statistical Analysis, Machine Learning, Reinforcement Learning, Informatics Theory, Numerical Analysis, and Math Modeling and Optimization Algorithms.-->
 # 🤔 Research interest
 My research interests include **Human-Centered Artificial Intelligence (HCI-AI)**, **Natural Language Processing(NLP)**, and **Machine learning (ML)**. My research work is motivated by the fundamental question of **understanding human-centered Data Annotation/Optimization/Selection at scale**. Specifically, I am currently interested in the following research directions :
+
 **1. Social NLP:** How to evaluate and improve LLMs' capabilities to understand and interact with humans in social contexts.
 
 **2. Human-AI Interaction:** How to design and evaluate AI systems for different social scenarios.
