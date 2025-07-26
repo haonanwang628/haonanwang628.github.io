@@ -10,7 +10,7 @@
     <span style="color:darkblue">**Haonan Wang**</span>,Jie Gao,Ziang Xiao.\
 ***(preprint)***,2025.[[pdf]](),
   
-## 📙 Machine learning and Data Science 
+## 📙 Machine learning and Data Mining 
 
 - <span style="color:green; font-weight:bold;">[Journal]</span> 
 -- ``Plos one`` **"Unsupervised Feature Selection Algorithm Based on L2,p-norm Feature Reconstruction"**  
@@ -18,14 +18,15 @@
 PLOS ONE, 2025. [[pdf]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318431),
 
 - <span style="color:green; font-weight:bold;">[Journal]</span> 
--- ``Scientific Journal`` **"Research status and future prospects of machine learning algorithm in big data analysis"**  
-  <span style="color:darkblue">**Haonan Wang**</span>.\
-Scientific Journal of Intelligent Systems Research,2022. [[pdf]](https://www.clausiuspress.com/article/1212.html),
-
-- <span style="color:green; font-weight:bold;">[Journal]</span> 
 -- ``Advances in AI and ML`` **"Research on geometric figure classification algorithm based on Deep Learning"**  
   Ruiyang Wang,<span style="color:darkblue">**Haonan Wang**</span>,Junfeng Sun,Mingjia Zhao,Meng Liu.\
 Advances in Artificial Intelligence and Machine Learning, 2022. [[pdf]](https://arxiv.org/abs/2404.16561),
+
+- <span style="color:green; font-weight:bold;">[Journal]</span> 
+-- ``Scientific Journal`` **"Research status and future prospects of machine learning algorithm in big data analysis"**  
+  <span style="color:darkblue">**Haonan Wang**</span>.\
+Scientific Journal of Intelligent Systems Research,2021. [[pdf]](https://www.clausiuspress.com/article/1212.html),
+
 
 ## 📗+🔍 Notes for interesting preliminary academic exploration 
 - <span style="color:green; font-weight:bold;">[Journal]</span> 
