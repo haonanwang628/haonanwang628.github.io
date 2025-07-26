@@ -32,8 +32,8 @@ Advances in Artificial Intelligence and Machine Learning, 2022. [[pdf]](https://
 Wei Liu,Jiaxiang Wang,Guangwei Liu, <span style="color:darkblue">**Haonan Wang**</span>.\
 Scientific Reports, 2024. [[pdf]](https://www.researchsquare.com/article/rs-4299675/v1),
 
-
-# 🖥Software Patents:
+# 🖥 Software 
+## Software Patents:
 [P.1] <span style="color:darkblue">**Haonan Wang**</span>, Mingjia, Zhao, et al. (2022). **Artificial intelligence robot programming interactive control
 system**. PRC Software Copyright Patent, Patent No. 2022SR1053901.\
 [P.2] <span style="color:darkblue">**Haonan Wang**</span>, Junfeng, Sun, et al. (2022). **Image recognition processing operation platform**. PRC Software
@@ -51,7 +51,7 @@ learning**. PRC Software Copyright Patent, Patent No. 2022SR1052428.\
 [P.8] Jiawei, Zhang, Pengyu, Cai, <span style="color:darkblue">**Haonan Wang**</span>, et al. (2021). **Staff check-in face recognition system**.PRC Software
 Copyright. PRC Software Copyright Patent, Patent No. 2021SR0699354.
 
-# 📊Competition Awards(Mathematical Modeling and Computer Science Design):
+## Competition Awards(Mathematical Modeling and Computer Science Design):
 • 1st Place, 12th MathorCup College Mathematical Modeling Challenge 2022\
 National-level award in China\
 • 1st Place, Liaoning Mathematical Modeling Contest 2022\
