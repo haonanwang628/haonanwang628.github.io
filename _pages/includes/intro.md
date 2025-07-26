@@ -13,7 +13,6 @@ My research interests include **Human-Centered Artificial Intelligence (HCI-AI)*
 **2. Human-Centered Data Science:** How to design and evaluate AI systems for different social scenarios.
 
 **3. Machine learning (ML):** How to understand human behaviors and social dynamics using large-scale data and computational methods.
-- <span style="color:#FF8C00; font-weight: bold;"> **1. Human-AI Interaction**:</span>\
-  How to evaluate and improve LLMs' capabilities to understand and interact with humans in social contexts.
+- <span style="color:#FF8C00; font-weight: bold;"> **1. Human-AI Interaction**:</span>How to evaluate and improve LLMs' capabilities to understand and interact with humans in social contexts.
 - <span style="color:#FF8C00; font-weight: bold;"> **2. Machine learning**:</span>\
   How to understand human behaviors and social dynamics using large-scale data and computational methods.
