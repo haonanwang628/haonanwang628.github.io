@@ -40,7 +40,7 @@ International Journal of Computer Science and Information Technology, 2025.[[pdf
 
 - <span style="color: green; font-weight:bold;">[Journal]</span> 
 -- ``Computer Science and AI`` **"Research on the Integration of Embodied Intelligence and Reinforcement Learning in Textual Domains"**  
-<span style="color:darkblue">**Haonan Wang**</span>, Mingjia Zhao,Junfeng Sun,Wei Liu.\
+<span style="color:darkblue">**Haonan Wang**</span>, Junfeng Sun,Mingjia Zhao,Wei Liu.\
 Journal of Computer Science and Artificial Intelligence, 2025.[[pdf]](https://www.researchgate.net/publication/390331777_Research_on_the_Integration_of_Embodied_Intelligence_and_Reinforcement_Learning_in_Textual_Domains),
 
 
