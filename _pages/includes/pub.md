@@ -34,12 +34,12 @@ Scientific Reports, 2024. [[pdf]](https://www.researchsquare.com/article/rs-4299
 
 - <span style="color: #9C27B0; font-weight:bold;">[Conference]</span> 
 -- ``Computer Science and Information Technology`` **"Design and Optimization of Reinforcement Learning-Based Agents in Text-Based Games"**  
-<span style="color:darkblue">**Haonan Wang**</span>, Mingjia Zhao，Junfeng Sun,Wei Liu.\
+<span style="color:darkblue">**Haonan Wang**</span>, Mingjia Zhao,Junfeng Sun,Wei Liu.\
 International Journal of Computer Science and Information Technology, 2025.[[pdf]](),
 
 - <span style="color: #9C27B0; font-weight:bold;">[Conference]</span> 
 -- ``Computer Science and AI`` **"Research on the Integration of Embodied Intelligence and Reinforcement Learning in Textual Domains"**  
-<span style="color:darkblue">**Haonan Wang**</span>, Mingjia Zhao，Junfeng Sun,Wei Liu.\
+<span style="color:darkblue">**Haonan Wang**</span>, Mingjia Zhao,Junfeng Sun,Wei Liu.\
 Journal of Computer Science and Artificial Intelligence, 2025.[[pdf]](),
 
 
