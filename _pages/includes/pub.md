@@ -7,7 +7,7 @@
 - <span style="color: #9C27B0; font-weight:bold;">[Conference]</span> 
 -- ``Computer Science and Information Technology`` **"Design and Optimization of Reinforcement Learning-Based Agents in Text-Based Games"**  
 <span style="color:darkblue">**Haonan Wang**</span>, Mingjia Zhao，Junfeng Sun,Wei Liu.\
-International Journal of Computer Science and Information Technology, 2025.[[pdf]](https://wepub.org/index.php/IJCSIT/article/view/5152),
+International Journal of Computer Science and Information Technology, 2025.[[pdf]](),
   
  - <span style="color:green; font-weight:bold;">[Journal]</span>
 -- ``Computer Science and AI`` **"Research on the Integration of Embodied Intelligence and Reinforcement Learning in Textual Domains"**  
@@ -38,10 +38,6 @@ Scientific Journal of Intelligent Systems Research,2022. [[pdf]](https://www.cla
   Ruiyang Wang,<span style="color:darkblue">**Haonan Wang**</span>,Junfeng Sun,Mingjia Zhao,Meng Liu.\
 Advances in Artificial Intelligence and Machine Learning, 2022. [[pdf]](https://arxiv.org/abs/2404.16561),
 
-- <span style="color:green; font-weight:bold;">[Journal]</span> 
--- ``Advances in AI and ML`` **"Research on geometric figure classification algorithm based on Deep Learning"**  
-  Ruiyang Wang,<span style="color:darkblue">**Haonan Wang**</span>,Junfeng Sun,Mingjia Zhao,Meng Liu.\
-Advances in Artificial Intelligence and Machine Learning, 2022. [[pdf]](https://arxiv.org/abs/2404.16561),
 
 ## 📗+🔍Other Field
 ### 🖥Software Patents:
