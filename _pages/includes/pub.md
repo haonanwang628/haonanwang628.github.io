@@ -6,9 +6,8 @@
 
 
 - <span style="color: #9C27B0; font-weight:bold;">[Conference]</span> 
--- ``Computer Science and Information Technology`` **"Multi-Agent data annotation ***(preprint)***"**  
-<span style="color:darkblue">**Haonan Wang**</span>, Jie Gao，Ziang Xiao.\
-CHI, 2025.[[pdf]](),
+-- ``CHI`` **"Multi-Agent data annotation ***(preprint)***"**  
+<span style="color:darkblue">**Haonan Wang**</span>, Jie Gao，Ziang Xiao.\ 2025.[[pdf]](),
   
 ## 📙 Machine learning and Data Science 
 
