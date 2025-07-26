@@ -4,11 +4,11 @@
 
 ## 📕Human-Centered AI and Natural Language Processing
 
-- <span style="color: #9C27B0; font-weight:bold;">[Conference]</span> 
--- ``Computer Science and Information Technology`` **"Design and Optimization of Reinforcement Learning-Based Agents in Text-Based Games"**  
-<span style="color:darkblue">**Haonan Wang**</span>, Mingjia Zhao，Junfeng Sun,Wei Liu.\
-International Journal of Computer Science and Information Technology, 2025.[[pdf]](),
 
+- <span style="color: #9C27B0; font-weight:bold;">[Conference]</span> 
+-- ``Computer Science and Information Technology`` **"Multi-Agent data annotation ***(preprint)***"**  
+<span style="color:darkblue">**Haonan Wang**</span>, Jie Gao，Ziang Xiao.\
+CHI, 2025.[[pdf]](),
   
 ## 📙 Machine learning and Data Science 
 
@@ -26,11 +26,17 @@ Scientific Journal of Intelligent Systems Research,2022. [[pdf]](https://www.cla
 -- ``Advances in AI and ML`` **"Research on geometric figure classification algorithm based on Deep Learning"**  
   Ruiyang Wang,<span style="color:darkblue">**Haonan Wang**</span>,Junfeng Sun,Mingjia Zhao,Meng Liu.\
 Advances in Artificial Intelligence and Machine Learning, 2022. [[pdf]](https://arxiv.org/abs/2404.16561),
-## 📗+🔍 Other Field 
+
+## 📗+🔍 Collaboration in Other Interesting Fields 
 - <span style="color:green; font-weight:bold;">[Journal]</span> 
 -- ``Scientific Reports`` **"IM3HRL: Model-assisted Intrinsically Motivated Modular Hierarchical Reinforcement Learning"**  
 Wei Liu,Jiaxiang Wang,Guangwei Liu, <span style="color:darkblue">**Haonan Wang**</span>.\
 Scientific Reports, 2024. [[pdf]](https://www.researchsquare.com/article/rs-4299675/v1),
+
+- <span style="color: #9C27B0; font-weight:bold;">[Conference]</span> 
+-- ``Computer Science and Information Technology`` **"Design and Optimization of Reinforcement Learning-Based Agents in Text-Based Games"**  
+<span style="color:darkblue">**Haonan Wang**</span>, Mingjia Zhao，Junfeng Sun,Wei Liu.\
+International Journal of Computer Science and Information Technology, 2025.[[pdf]](),
 
 # 🖥 Software 
 ## Software Patents:
