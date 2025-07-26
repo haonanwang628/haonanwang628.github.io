@@ -37,6 +37,12 @@ Scientific Reports, 2024. [[pdf]](https://www.researchsquare.com/article/rs-4299
 <span style="color:darkblue">**Haonan Wang**</span>, Mingjia Zhao，Junfeng Sun,Wei Liu.\
 International Journal of Computer Science and Information Technology, 2025.[[pdf]](),
 
+- <span style="color: #9C27B0; font-weight:bold;">[Conference]</span> 
+-- ``Computer Science and AI`` **"Research on the Integration of Embodied Intelligence and Reinforcement Learning in Textual Domains"**  
+<span style="color:darkblue">**Haonan Wang**</span>, Mingjia Zhao，Junfeng Sun,Wei Liu.\
+Journal of Computer Science and Artificial Intelligence, 2025.[[pdf]](),
+
+
 # 🖥 Software 
 ## Software Patents:
 [P.1] <span style="color:darkblue">**Haonan Wang**</span>, Mingjia, Zhao, et al. (2022). **Artificial intelligence robot programming interactive control
