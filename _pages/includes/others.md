@@ -51,10 +51,10 @@
 
   <!-- 右边：公司图片（多个） -->
   <div style="flex: 1;">
-    <img src="images/jhu_logo.png" alt="JHU logo" style="width: 100px; margin-bottom: 10px;"><br>
-    <img src="images/eacon_logo.png" alt="EACON logo" style="width: 100px; margin-bottom: 10px;"><br>
-    <img src="images/ccvl_logo.png" alt="CCVL logo" style="width: 100px; margin-bottom: 10px;"><br>
-    <img src="images/ltu_logo.png" alt="LTU logo" style="width: 100px; margin-bottom: 10px;"><br>
+    <img src="images/mega.png" alt="JHU logo" style="width: 100px; margin-bottom: 10px;"><br>
+    <img src="images/mega.png" alt="EACON logo" style="width: 100px; margin-bottom: 10px;"><br>
+    <img src="images/mega.png" alt="CCVL logo" style="width: 100px; margin-bottom: 10px;"><br>
+    <img src="images/mega.png" alt="LTU logo" style="width: 100px; margin-bottom: 10px;"><br>
   </div>
 
 </div>
