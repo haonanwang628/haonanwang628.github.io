@@ -29,7 +29,7 @@
 <div style="display: flex; align-items: flex-start; gap: 30px;">
 
   <!-- 左边：经历列表 -->
-  <div style="flex: 2;">
+  <div style="margin-bottom: 20px;">
     <ul>
       <li><strong>[2024.06 - present]</strong> - Research Assistant  
         <br><a href="https://www.jhu.edu/">ISLE Lab, Johns Hopkins University</a>
@@ -50,7 +50,7 @@
   </div>
 
   <!-- 右边：公司图片（多个） -->
-  <div style="flex: 1;">
+  <div style="text-align: center;">
     <img src="images/mega.png" alt="JHU logo" style="width: 100px; margin-bottom: 10px;"><br>
     <img src="images/mega.png" alt="EACON logo" style="width: 100px; margin-bottom: 10px;"><br>
     <img src="images/mega.png" alt="CCVL logo" style="width: 100px; margin-bottom: 10px;"><br>
