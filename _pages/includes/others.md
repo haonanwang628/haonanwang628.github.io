@@ -4,6 +4,8 @@
 - *2019.09 - 2023.07*, **B.S. degree**, Information and Computer Science, and Mathematics, Liaoning Technical University, Fuxin, Liaoning, China.
 
 # 💻 Internships
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2019</div><img src='images/mega.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 - [2024.06 - present]--**Research Assistant**
   - [ISLE lab, Johns Hopkins University](https://www.jhu.edu/).
   
@@ -22,3 +24,5 @@
 - [2021.09 - 2023.09]--**Teaching Assistant**
   - [College of Science, Liaoning Technology University](https://en.lntu.edu.cn/)
  
+</div>
+</div>
