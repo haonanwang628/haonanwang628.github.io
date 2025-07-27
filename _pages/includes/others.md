@@ -15,15 +15,10 @@
 - [2024.03 - 2024.04],**Data Annotation Research Assistant**
   - [Computational Cognition, Vision, and Learning Lab, Johns Hopkins University](https://ccvl.jhu.edu/)
  
-  
-- [2022.08 - 2022.10],**Research Assistant**
-  - Beijing Qianfeng Internet Technology Co., LTD
-
- 
 - [2021.09 - 2023.09],**Research Assistant**
-  - Institute of Mathematics and Systems Science, Liaoning Technology University
+  - [Institute of Mathematics and Systems Science, Liaoning Technology University](https://en.lntu.edu.cn/)
  
 
 - [2021.09 - 2023.09],**Teaching Assistant**
-  - Liaoning Technology University
+  - [College of Science, Liaoning Technology University](https://en.lntu.edu.cn/)
  
