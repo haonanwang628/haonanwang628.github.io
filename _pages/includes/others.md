@@ -4,7 +4,7 @@
 - *2019.09 - 2023.07*, **B.S. degree**, Information and Computer Science, and Mathematics, Liaoning Technical University, Fuxin, Liaoning, China.
 
 # 💻 Internships
-- *2024.06 - present*,**Research Assistant**,
+- [2024.06 - present],**Research Assistant**
   - ISLE lab, Johns Hopkins University.
   - Work:
 - *2024.07 - 2024.08*, **Research Intern**, EACON, Beijing Easy Control Intelligent Driving Technology Co., LTD
