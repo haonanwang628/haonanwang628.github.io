@@ -12,10 +12,15 @@
 </div>
 </div>
 
+<div class='paper-box'>
+<div class='paper-box-text' markdown="1">
 - <span style="color: darkblue; font-weight:bold;">[Dissertation-Project]</span> 
 -- ``Master in Computer Science`` **"Unveiling Statistical Relationships Among Popular LLM Benchmarks: A Quantitative Framework"**\
     <span style="color:darkblue">**Haonan Wang**</span>,Ziang Xiao.\
 Johns Hopkins University,2024.[[pdf]](),
+<div class='paper-box-image'><div><div class="badge">NeurIPS 2019</div><img src='images/mega.png' alt="sym" width="100%"></div></div>
+</div>
+</div>
 
 - <span style="color: darkblue; font-weight:bold;">[Dissertation-Project]</span> 
 -- ``B.S in Information, Computer Science and Math`` **"Research on the application of human action recognition based on LSTM-CNN"**\
