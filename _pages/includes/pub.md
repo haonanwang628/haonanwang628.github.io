@@ -3,7 +3,8 @@
 
 
 ## 📕Human-Centered AI and Natural Language Processing
-
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2019</div><img src='images/fs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 - <span style="color: #9C27B0; font-weight:bold;">[Conference]</span> 
 -- ``CHI-2026`` **"Multi-Agent data annotation"**\
     <span style="color:darkblue">**Haonan Wang**</span>,Jie Gao,Ziang Xiao.\
