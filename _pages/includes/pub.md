@@ -9,6 +9,8 @@
 -- ``CHI-2026`` **"Multi-Agent data annotation"**\
     <span style="color:darkblue">**Haonan Wang**</span>,Jie Gao,Ziang Xiao.\
 ***(preprint)***,2025.[[pdf]](),
+</div>
+</div>
 
 - <span style="color: darkblue; font-weight:bold;">[Dissertation-Project]</span> 
 -- ``Master in Computer Science`` **"Unveiling Statistical Relationships Among Popular LLM Benchmarks: A Quantitative Framework"**\
