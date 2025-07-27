@@ -9,11 +9,11 @@
   
 
 - [2024.07 - 2024.08],**Research Intern**
-  - EACON, Beijing Easy Control Intelligent Driving Technology Co., LTD
+  - [EACON, Beijing Easy Control Intelligent Driving Technology Co., LTD](https://ceshi.eacon.com/en/)
 
  
 - [2024.03 - 2024.04],**Data Annotation Research Assistant**
-  - Computational Cognition, Vision, and Learning Lab, Johns Hopkins University
+  - [Computational Cognition, Vision, and Learning Lab, Johns Hopkins University](https://ccvl.jhu.edu/)
  
   
 - [2022.08 - 2022.10],**Research Assistant**
