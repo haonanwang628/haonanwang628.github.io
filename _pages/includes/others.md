@@ -6,7 +6,7 @@
 # 💻 Internships
 - [2024.06 - present],**Research Assistant**
   - ISLE lab, Johns Hopkins University.
-  - Work:
+  - Project experience: 
 - *2024.07 - 2024.08*, **Research Intern**, EACON, Beijing Easy Control Intelligent Driving Technology Co., LTD
 - *2024.03 - 2024.04*, **Data Annotation Research Assistant**, Computational Cognition, Vision, and Learning Lab, Johns Hopkins University
 - *2022.08 - 2022.10*, **Research Intern**, Beijing Qianfeng Internet Technology Co., LTD
