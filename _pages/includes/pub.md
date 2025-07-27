@@ -10,8 +10,8 @@
     <span style="color:darkblue">**Haonan Wang**</span>,Jie Gao,Ziang Xiao.\
 ***(preprint)***,2025.[[pdf]](),
 
-- <span style="color: darkblue; font-weight:bold;">[Project]</span> 
--- ``CHI-2026`` **"Unveiling Statistical Relationships Among Popular LLM Benchmarks: A Quantitative Framework"**\
+- <span style="color: darkblue; font-weight:bold;">[Dissertation-Project]</span> 
+-- ``Master`` **"Unveiling Statistical Relationships Among Popular LLM Benchmarks: A Quantitative Framework"**\
     <span style="color:darkblue">**Haonan Wang**</span>,Ziang Xiao.\
 Johns Hopkins University,2024.[[pdf]](),
   
