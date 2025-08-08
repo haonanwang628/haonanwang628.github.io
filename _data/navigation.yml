@@ -11,13 +11,7 @@ main:
       
   - title: "Publications"
     url: "/#-publications"
-    
-  - title: "Keyprojects"
-    url: "/#-keyprojects"
-    
-   - title: "Software and Awards"
-    url: "/#-Softwares"
-    
+     
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
