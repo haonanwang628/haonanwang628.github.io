@@ -61,7 +61,7 @@ Journal of Computer Science and Artificial Intelligence, 2025.[[pdf]](https://ww
 
 # 💡 keyprojects 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Textgame</div><img src='images/byt.png' alt="sym" width="50%"></div></div>
+<div class='paper-box-image'><div class='paper-box'><div><div class="badge">Textgame</div><img src='images/byt.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
     
 - <span style="color: #9C27B0; font-weight:bold;">[[[Project]](https://github.com/isle-dev/BYTESIZED32-Refactored)]</span> 
@@ -72,7 +72,7 @@ Journal of Computer Science and Artificial Intelligence, 2025.[[pdf]](https://ww
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Intelligent Scheduling </div><img src='images/t2.png' alt="sym" width="50%"></div></div>
+<div class='paper-box-image'><div class='paper-box'><div><div class="badge">Intelligent Scheduling </div><img src='images/t2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
     
 - <span style="color: #9C27B0; font-weight:bold;">[[[Project]]()]</span> 
