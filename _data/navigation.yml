@@ -8,12 +8,12 @@ main:
     
   - title: "CV"
     url: "/assets/haonan2025Dec.pdf"
-    
-  - title: "Keyprojects"
-    url: "_pages/includes/keyproject.md"
-    
+      
   - title: "Publications"
     url: "/#-publications"
+    
+  - title: "Keyprojects"
+    url: "/#-keyproject"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
