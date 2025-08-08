@@ -62,6 +62,7 @@ Journal of Computer Science and Artificial Intelligence, 2025.[[pdf]](https://ww
 ***Done***,2025.[[Project]](https://github.com/isle-dev/BYTESIZED32-Refactored)
 
 
+
 # 🖥 Software 
 ## Software Patents:
 P2
