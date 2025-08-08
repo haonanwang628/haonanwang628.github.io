@@ -54,13 +54,16 @@ International Journal of Computer Science and Information Technology, 2025.[[pdf
 Journal of Computer Science and Artificial Intelligence, 2025.[[pdf]](https://www.researchgate.net/publication/390331777_Research_on_the_Integration_of_Embodied_Intelligence_and_Reinforcement_Learning_in_Textual_Domains),
 
 # 💡 keyprojects 
- 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2019</div><img src='images/fs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+    
 - <span style="color: #9C27B0; font-weight:bold;">[2024-2025]</span> 
 --  **"Refactored bytesized32 code generation"**\
   **Advisors**: Ziang Xiao(Johns Hopkins University), Ruoyao Wang()\
 ***Done***,2025.[[Project]](https://github.com/isle-dev/BYTESIZED32-Refactored)
-
-
+</div>
+</div>
 
 # 🖥 Software 
 ## Software Patents:
