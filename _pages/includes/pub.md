@@ -72,7 +72,7 @@ Journal of Computer Science and Artificial Intelligence, 2025.[[pdf]](https://ww
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Intelligent Scheduling </div><img src='images/truck.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Intelligent Scheduling </div><img src='images/t2.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
     
 - <span style="color: #9C27B0; font-weight:bold;">[[[Project]]()]</span> 
