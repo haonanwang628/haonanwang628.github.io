@@ -13,10 +13,10 @@ main:
     url: "/#-publications"
     
   - title: "Keyprojects"
-    url: "/#-keyproject"
+    url: "/#-keyprojects"
     
    - title: "Software and Awards"
-    url: "/#-Software"
+    url: "/#-Softwares"
     
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
