@@ -66,8 +66,6 @@ Journal of Computer Science and Artificial Intelligence, 2025.[[pdf]](https://ww
 
   <span style="color:darkblue">**Haonan Wang**</span>, Ziang Xiao, Ruoyao Wang
 
-[[Project]](https://github.com/isle-dev/BYTESIZED32-Refactored)
-
 
 </div>
 </div>
