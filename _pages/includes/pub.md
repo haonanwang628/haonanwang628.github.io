@@ -61,7 +61,7 @@ Journal of Computer Science and Artificial Intelligence, 2025.[[pdf]](https://ww
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Textgame</div><img src='images/byt.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
     
-- <span style="color: #9C27B0; font-weight:bold;">[2024-2025]</span> 
+- <span style="color: #9C27B0; font-weight:bold;">[[[Project]](https://github.com/isle-dev/BYTESIZED32-Refactored)]</span> 
 --  **"Refactored bytesized32 code generation"**
 
   <span style="color:darkblue">**Haonan Wang**</span>, Ziang Xiao, Ruoyao Wang
