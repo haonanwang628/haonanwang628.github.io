@@ -16,9 +16,6 @@ redirect_from:
 
 {% include_relative includes/pub.md %}
 
-{% include_relative includes/keyproject.md %}
-
-{% include_relative includes/Software.md %}
 
 {% include_relative includes/honers.md %}
 
