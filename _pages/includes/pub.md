@@ -1,7 +1,6 @@
 
 # 📝 Publications 
 
-
 ## 📕Human-Centered AI and Natural Language Processing
 
 - <span style="color: #9C27B0; font-weight:bold;">[Conference]</span> 
