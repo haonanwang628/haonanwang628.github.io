@@ -4,12 +4,14 @@
 
 ## 📕Human-Centered AI and Natural Language Processing
 
-    
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Bytesized32</div><img src='images/fs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">  
 - <span style="color: #9C27B0; font-weight:bold;">[Conference]</span> 
 -- ``CHI-2026`` **"LLMs based on Multi-Agent data annotation for subjective text"**\
     <span style="color:darkblue">**Haonan Wang**</span>,Jie Gao,Ziang Xiao.\
 ***(preprint)***,2025.[[pdf]](),
-  
+</div>
+</div>  
 
 
 - <span style="color: darkblue; font-weight:bold;">[Dissertation-Project]</span> 
