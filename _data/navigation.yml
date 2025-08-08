@@ -10,7 +10,7 @@ main:
     url: "/assets/haonan2025Dec.pdf"
     
   - title: "Keyprojects"
-    url: "/#-keyproject"
+    url: "_pages/includes/keyproject.md"
     
   - title: "Publications"
     url: "/#-publications"
