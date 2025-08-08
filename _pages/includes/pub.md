@@ -60,6 +60,22 @@ International Journal of Computer Science and Information Technology, 2025.[[pdf
 Journal of Computer Science and Artificial Intelligence, 2025.[[pdf]](https://www.researchgate.net/publication/390331777_Research_on_the_Integration_of_Embodied_Intelligence_and_Reinforcement_Learning_in_Textual_Domains),
 
 # 💡 keyprojects 
+<div class="paper-box" style="display:flex; gap:16px; align-items:flex-start;">
+  <!-- 左边：文字 -->
+  <div class="paper-box-text" style="flex:1;">
+    <p>
+      <a href="https://github.com/isle-dev/BYTESIZED32-Refactored"><strong>[Project]</strong></a>
+      – “Refactored bytesized32 code generation”<br>
+      <strong>Haonan Wang</strong>, Ziang Xiao, Ruoyao Wang
+    </p>
+  </div>
+
+  <!-- 右边：图片 -->
+  <div class="paper-box-image" style="flex:0 0 280px; text-align:right;">
+    <div class="badge">Textgame</div>
+    <img src="images/byt.png" alt="sym" style="max-width:100%; height:auto;">
+  </div>
+</div>
 
 <div class='paper-box-image'><div class='paper-box'><div><div class="badge">Textgame</div><img src='images/byt.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -71,6 +87,7 @@ Journal of Computer Science and Artificial Intelligence, 2025.[[pdf]](https://ww
 
 </div>
 </div>
+
 
 <div class='paper-box-image'><div class='paper-box'><div><div class="badge">Intelligent Scheduling </div><img src='images/t2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
