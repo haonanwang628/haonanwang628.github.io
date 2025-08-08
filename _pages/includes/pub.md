@@ -66,20 +66,16 @@ Journal of Computer Science and Artificial Intelligence, 2025.[[pdf]](https://ww
 
   <span style="color:darkblue">**Haonan Wang**</span>, Ziang Xiao, Ruoyao Wang
 
-
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Textgame</div><img src='images/truck.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Intelligent Scheduling </div><img src='images/truck.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
     
 - <span style="color: #9C27B0; font-weight:bold;">[[[Project]]()]</span> 
 --  **"Intelligent Scheduling of Autonomous Truck Fleets via Parallel Control Theory"**
 
  Wei Liu, Guangwei Liu, Runcai Bai, Yishan Pan,  <span style="color:darkblue">**Haonan Wang**</span>,
-
-[[Project]]()
-
 
 </div>
 </div>
