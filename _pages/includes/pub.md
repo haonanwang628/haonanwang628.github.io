@@ -8,27 +8,6 @@
 -- ``CHI-2026`` **"LLMs based on Multi-Agent data annotation for subjective text"**\
     <span style="color:darkblue">**Haonan Wang**</span>,Jie Gao,Ziang Xiao.\
 ***(preprint)***,2025.[[pdf]](),
-  
-## 🧠 Human-Centered AI and Natural Language Processing {#publications-hcai}
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div class="badge">Bytesized32</div>
-    <img src='images/fs.png' alt='sym' width="100%">
-  </div>
-
-  <div class='paper-box-text'>
-    <p>
-      <span style="color: #9C27B0; font-weight:bold;">[Conference]</span><br>
-      <strong>CHI-2026</strong>: <em>LLMs based on Multi-Agent data annotation for subjective text</em><br>
-      <span style="color:darkblue;"><strong>Haonan Wang</strong></span>, Jie Gao, Ziang Xiao.<br>
-      <em>(preprint)</em>, 2025. <a href="#">[pdf]</a>
-    </p>
-  </div>
-</div>
-
-
-
 
 - <span style="color: darkblue; font-weight:bold;">[Dissertation-Project]</span> 
 -- ``Master in Computer Science`` **"Unveiling Statistical Relationships Among Popular LLM Benchmarks: A Quantitative Framework"**\
@@ -77,7 +56,7 @@ Journal of Computer Science and Artificial Intelligence, 2025.[[pdf]](https://ww
 
 # 💡 keyprojects 
  
-- <span style="color: #9C27B0; font-weight:bold;">[Project in LLMs for code generation in text game]</span> 
+- <span style="color: #9C27B0; font-weight:bold;">[2024-2025]</span> 
 --  **"Refactored bytesized32 code generation"**\
   **Advisors**: Ziang Xiao(Johns Hopkins University), Ruoyao Wang()\
 ***Done***,2025.[[Project]](https://github.com/isle-dev/BYTESIZED32-Refactored)
@@ -104,13 +83,13 @@ learning**. PRC Software Copyright Patent, Patent No. 2022SR1052428.\
 Copyright. PRC Software Copyright Patent, Patent No. 2021SR0699354.
 
 ## Competition Awards(Mathematical Modeling and Computer Science Design):
-• 1st Place, 12th MathorCup College Mathematical Modeling Challenge 2022\
+• 1st Place, 12th Mathor Cup College Mathematical Modeling Challenge 2022\
 National-level award in China\
 • 1st Place, Liaoning Mathematical Modeling Contest 2022\
 Provincial-level award in China\
 • 1st Place, 7th Shuwei Mathematical Modeling Challenge for College Students 2022\
 National-level award in China\
-• 1st Place, 12th MathorCup College Mathematical Modeling Challenge 2022\
+• 1st Place, 12th Mathor Cup College Mathematical Modeling Challenge 2022\
 National-level award in China\
 • 3rd Place, Liaoning Province "Shuo Ri Cup" College Student Computer Design 2022\
 Provincial-level award in China\
