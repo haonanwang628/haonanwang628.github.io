@@ -2,7 +2,7 @@
 # 📝 Publications 
 
 ## 📕Human-Centered AI and Natural Language Processing
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">LLM based Multi-Agent</div><img src='images/dan.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">LLM based Multi-Agent</div><img src='images/dan.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
     
 - <span style="color: #9C27B0; font-weight:bold;">[Conference]</span> 
