@@ -14,7 +14,10 @@ main:
     
   - title: "Keyprojects"
     url: "/#-keyproject"
-
+    
+   - title: "Software and Awards"
+    url: "/#-Software"
+    
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
