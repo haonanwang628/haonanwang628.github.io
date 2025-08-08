@@ -9,7 +9,7 @@
 # 🤔 Research interest
 My research interests include **Human-Centered Artificial Intelligence (HCI-AI)**, **Natural Language Processing(NLP)**, and **Machine learning (ML)**. My research work is motivated by the fundamental question of **How to achieve and support bidirectional Human-AI Alignment between understanding humans at scale and AI data/algorithms/systems to bridge the socio-technical gap**.
 
-Specifically, I am currently interested in the following research work :
+Specifically, I am currently interested in and my pre-research work includes:
 - <span style="color:red; font-weight: #FF0000;"> **1. Human-AI Alignment Interaction/Collaboration**:</span> How to build a Human-AI Data Annotation/Optimization/Selection Framework for Subjective and Ambiguous Labeling text in multiple fields to improve quality datasets.
 - <span style="color:red; font-weight: #FF0000;"> **2. LLMs for evaluation and application**:</span> How to evaluate and improve the capabilities of LLMs and agents to understand and interact with humans in the interaction process.
 - <span style="color:red; font-weight: #FF0000;"> **3. Machine learning and Data science**:</span> How to understand data statistics dynamics using math modeling and developing efficient machine learning algorithms for large-scale data analysis and intelligent pattern recognition.
