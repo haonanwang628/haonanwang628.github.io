@@ -7,7 +7,7 @@ main:
     url: "/#-news"
     
   - title: "CV"
-    url: "/assets/Haonan_Wang_CV.pdf"
+    url: "assets/Haonan_Wang_CV.pdf"
       
   - title: "Publications"
     url: "/#-publications"
