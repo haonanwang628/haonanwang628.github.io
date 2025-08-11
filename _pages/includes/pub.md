@@ -18,7 +18,6 @@ EMNLP 4th HCI + NLP Workshop, 2025.[[pdf]](),
     <span style="color:darkblue">**Haonan Wang**</span>,Ziang Xiao.\
 Johns Hopkins University,2024.[[pdf]](),
 
-
 - <span style="color: darkblue; font-weight:bold;">[Dissertation-Project]</span> 
 -- ``B.S in Information, Computer Science and Math`` **"Research on the application of human action recognition based on LSTM-CNN"**\
     <span style="color:darkblue">**Haonan Wang**</span>,Wei Liu.\
@@ -42,7 +41,7 @@ Advances in Artificial Intelligence and Machine Learning, 2022. [[pdf]](https://
 Scientific Journal of Intelligent Systems Research,2021. [[pdf]](https://www.clausiuspress.com/article/1212.html),
 
 
-## 📗+🔍 Notes for interesting preliminary academic exploration 
+## 📗+🔍 Paper or notes for interesting preliminary academic exploration 
 - <span style="color:green; font-weight:bold;">[Journal]</span> 
 -- ``Scientific Reports`` **"IM3HRL: Model-assisted Intrinsically Motivated Modular Hierarchical Reinforcement Learning"**  
 Wei Liu,Jiaxiang Wang,Guangwei Liu, <span style="color:darkblue">**Haonan Wang**</span>.\
