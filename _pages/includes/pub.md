@@ -4,7 +4,7 @@
 ## 📕Human-Centered AI and Natural Language Processing
     
 - <span style="color: #9C27B0; font-weight:bold;">[Conference]</span> 
--- ``CHI-2026`` **"LLMs based on Multi-Agent data annotation for subjective text"**
+-- ``CHI-2026`` **"LLMs based on Multi-Agent data annotation for subjective text"**\
     <span style="color:darkblue">**Haonan Wang**</span>,Jie Gao,Ziang Xiao.
 ***(preprint)***,2025.[[pdf]](),[[code]](),
   
