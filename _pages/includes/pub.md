@@ -8,10 +8,10 @@
     <span style="color:darkblue">**Haonan Wang**</span>,Jie Gao,Ziang Xiao.
 ***(preprint)***,2025.[[pdf]](),[[code]](),
   
-- <span style="color: darkblue; font-weight:bold;">[Conference]</span> 
+- <span style="color: #9C27B0;; font-weight:bold;">[Conference]</span> 
 -- ``EMNLP 2025`` **"What Qualitative Analysis Can Teach Us about Subjective Data Annotation? Preserving Diverse Human Interpretations"**\
     Ruyuan Wan,<span style="color:darkblue">**Haonan Wang**</span>,Ting-Hao Kenneth Huang,Jie Gao.\
-EMNLP4th HCI + NLP Workshop, 2025.[[pdf]](),
+EMNLP 4th HCI + NLP Workshop, 2025.[[pdf]](),
 
 - <span style="color: darkblue; font-weight:bold;">[Dissertation-Project]</span> 
 -- ``Master in Computer Science`` **"Unveiling Statistical Relationships Among Popular LLM Benchmarks: A Quantitative Framework"**\
