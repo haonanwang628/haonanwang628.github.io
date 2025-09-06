@@ -30,7 +30,7 @@ Johns Hopkins University,2024.[[pdf]](),
     <span style="color:darkblue">**Haonan Wang**</span>,Wei Liu.\
 Liaoning Technology University,2023.[[pdf]](),
   
-## 📙 Machine learning and Data Mining 
+## 📙 Advanced Statistics data analysis and Machine learning algorithms 
 
 - <span style="color:green; font-weight:bold;">[Journal]</span> 
 -- ``Plos one`` **"Unsupervised Feature Selection Algorithm Based on L2,p-norm Feature Reconstruction"**  
