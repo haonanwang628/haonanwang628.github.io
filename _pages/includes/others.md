@@ -23,4 +23,6 @@
 - [2021.09 - 2023.09]--**Teaching Assistant**
   - [College of Science, Liaoning Technology University](https://en.lntu.edu.cn/)
  
-
+# 💻 Collaborativors
+**Johns Hopkins University**  
+![JHU Logo](images/jhu.png)
