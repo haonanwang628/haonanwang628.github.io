@@ -62,34 +62,8 @@ International Journal of Computer Science and Information Technology, 2025.[[pdf
 <span style="color:darkblue">**Haonan Wang**</span>, Junfeng Sun,Mingjia Zhao,Wei Liu.\
 Journal of Computer Science and Artificial Intelligence, 2025.[[pdf]](https://www.researchgate.net/publication/390331777_Research_on_the_Integration_of_Embodied_Intelligence_and_Reinforcement_Learning_in_Textual_Domains),
 
-# 💡 keyprojects 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Textgame</div><img src='images/byt.png' alt="sym" width="50%"></div></div>
-<div class='paper-box-text' markdown="1">
-    
-- <span style="color: #9C27B0; font-weight:bold;">[[[Project]](https://github.com/isle-dev/BYTESIZED32-Refactored)]</span> 
---  **"Refactored bytesized32 code generation"**
-
-  <span style="color:darkblue">**Haonan Wang**</span>, Ziang Xiao, Ruoyao Wang
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Intelligent Scheduling </div><img src='images/t2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-    
-- <span style="color: #9C27B0; font-weight:bold;">[[[Project]]()]</span> 
---  **"Intelligent Scheduling of Autonomous Truck Fleets via Parallel Control Theory"**
-
- Wei Liu, Guangwei Liu, Runcai Bai, Yishan Pan,  <span style="color:darkblue">**Haonan Wang**</span>,
-
-</div>
-</div>
-
 # 🖥 Software 
 ## Software Patents:
-P2
 [P.1] <span style="color:darkblue">**Haonan Wang**</span>, Mingjia, Zhao, et al. (2022). **Artificial intelligence robot programming interactive control
 system**. PRC Software Copyright Patent, Patent No. 2022SR1053901.\
 [P.2] <span style="color:darkblue">**Haonan Wang**</span>, Junfeng, Sun, et al. (2022). **Image recognition processing operation platform**. PRC Software
