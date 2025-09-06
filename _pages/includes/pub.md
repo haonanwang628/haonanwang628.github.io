@@ -1,7 +1,7 @@
 
 # 📝 Publications 
 
-## 📕Human-Centered AI and Natural Language Processing
+## 📕Natural Language Processing and Human-Centered AI
     
 - <span style="color: #9C27B0; font-weight:bold;">[Conference]</span> 
 -- ``CHI-2026`` **"LLMs based on Multi-Agent data annotation for subjective text"**\
