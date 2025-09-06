@@ -7,11 +7,18 @@
 -- ``CHI-2026`` **"LLMs based on Multi-Agent data annotation for subjective text"**\
     <span style="color:darkblue">**Haonan Wang**</span>,Jie Gao,Ziang Xiao.
 ***(preprint)***,2025.[[pdf]](),[[code]](),
+
+
+- <span style="color: #9C27B0; font-weight:bold;">[Conference]</span> 
+-- ``EMNLP 2025`` **"Refactored ByteSized32: Towards Extensible World Modeling Generation for Interactive Text Games"**\
+    <span style="color:darkblue">**Haonan Wang**</span>, Junfeng Sun, Xindi Yuan, Ruoyao Wang, Ziang Xiao.
+***(preprint)***, WordPlay Workshop at EMNLP, 2025.[[pdf]](),[[code]](https://github.com/isle-dev/BYTESIZED32-Refactored/tree/main/data/refactored_programs),
+
   
 - <span style="color: #9C27B0;; font-weight:bold;">[Conference]</span> 
 -- ``EMNLP 2025`` **"From Noise to Nuance: Enriching Subjective Data Interpretation through Qualitative Analysis"**\
     Ruyuan Wan,<span style="color:darkblue">**Haonan Wang**</span>,Ting-Hao Kenneth Huang,Jie Gao.\
-***(preprint)***, HCI + NLP Workshop at EMNLP, 2025.[[pdf]](https://github.com/haonanwang628/haonanwang628.github.io/blob/main/assets/paper/EMNLP%20Workshop.pdf),
+***(preprint)***, HCI + NLP Workshop at EMNLP, 2025.[[pdf]](),
 
 - <span style="color: darkblue; font-weight:bold;">[Dissertation-Project]</span> 
 -- ``Master in Computer Science`` **"Unveiling Statistical Relationships Among Popular LLM Benchmarks: A Quantitative Framework"**\
