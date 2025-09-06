@@ -20,12 +20,12 @@
     Ruyuan Wan,<span style="color:darkblue">**Haonan Wang**</span>,Ting-Hao Kenneth Huang,Jie Gao.\
 ***(preprint)***, HCI + NLP Workshop at EMNLP, 2025.[[pdf]](),
 
-- <span style="color: darkblue; font-weight:bold;">[Dissertation-Project]</span> 
+- <span style="color: red; font-weight:bold;">[Dissertation-Project]</span> 
 -- ``Master in Computer Science`` **"Unveiling Statistical Relationships Among Popular LLM Benchmarks: A Quantitative Framework"**\
     <span style="color:darkblue">**Haonan Wang**</span>,Ziang Xiao.\
 Johns Hopkins University,2024.[[pdf]](),
 
-- <span style="color: darkblue; font-weight:bold;">[Dissertation-Project]</span> 
+- <span style="color: red; font-weight:bold;">[Dissertation-Project]</span> 
 -- ``B.S in Information, Computer Science and Math`` **"Research on the application of human action recognition based on LSTM-CNN"**\
     <span style="color:darkblue">**Haonan Wang**</span>,Wei Liu.\
 Liaoning Technology University,2023.[[pdf]](),
