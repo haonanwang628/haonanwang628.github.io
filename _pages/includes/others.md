@@ -38,3 +38,23 @@ I deeply appreciate and am grateful to my collaborators and institutions for the
 | Johns Hopkins University | Liaoning Technical University | EACON Intelligent Driving |
 |--------------------------|-------------------------------|----------------------------|
 | ![JHU Logo](images/tiktok.png) | ![LNTU Logo](images/tiktok.png) | ![EACON Logo](images/tiktok.png) |
+
+
+<div style="display: flex; align-items: center; gap: 40px;">
+
+<div align="center">
+  <img src="images/tiktok.png" width="120"/><br>
+  <b>Johns Hopkins University</b>
+</div>
+
+<div align="center">
+  <img src="images/tiktok.png" width="120"/><br>
+  <b>Liaoning Technical University</b>
+</div>
+
+<div align="center">
+  <img src="images/tiktok.png" width="120"/><br>
+  <b>EACON Intelligent Driving</b>
+</div>
+
+</div>
