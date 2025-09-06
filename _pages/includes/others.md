@@ -25,4 +25,4 @@
  
 # 💻 Collaborativors
 **Johns Hopkins University**  
-![JHU Logo](images/jhu.png)
+![JHU Logo](images/tiktok.png)
