@@ -30,7 +30,7 @@ Johns Hopkins University,2024.[[pdf]](),
     <span style="color:darkblue">**Haonan Wang**</span>,Wei Liu.\
 Liaoning Technology University,2023.[[pdf]](),
   
-## 📙 Advanced Statistics data analysis and Machine learning algorithms 
+## 📙 Advanced Statistics data analysis, Reinforcement Learning, Machine learning algorithms 
 
 - <span style="color:green; font-weight:bold;">[Journal]</span> 
 -- ``Plos one`` **"Unsupervised Feature Selection Algorithm Based on L2,p-norm Feature Reconstruction"**  
@@ -47,8 +47,6 @@ Advances in Artificial Intelligence and Machine Learning, 2022. [[pdf]](https://
   <span style="color:darkblue">**Haonan Wang**</span>.\
 Scientific Journal of Intelligent Systems Research,2021. [[pdf]](https://www.clausiuspress.com/article/1212.html),
 
-
-## 📗+🔍 Paper or notes for interesting preliminary academic exploration 
 - <span style="color:green; font-weight:bold;">[Journal]</span> 
 -- ``Scientific Reports`` **"IM3HRL: Model-assisted Intrinsically Motivated Modular Hierarchical Reinforcement Learning"**  
 Wei Liu,Jiaxiang Wang,Guangwei Liu, <span style="color:darkblue">**Haonan Wang**</span>.\
