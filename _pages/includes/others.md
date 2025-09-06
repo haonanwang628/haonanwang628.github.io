@@ -23,7 +23,7 @@
 - [2021.09 - 2023.09]--**Teaching Assistant**
   - [College of Science, Liaoning Technology University](https://en.lntu.edu.cn/)
  
-# 🤝 Collaborators
+# 🤝 Collaborators(TBD)
 
 I deeply appreciate and am grateful to my collaborators and institutions for their continuous support and opportunities to grow in both academic and professional domains.
 
