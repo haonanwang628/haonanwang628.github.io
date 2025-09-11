@@ -27,15 +27,3 @@
 
 I deeply appreciate and am grateful to my collaborators and institutions for their continuous support and opportunities to grow in both academic and professional domains.
 
-
-
-**Johns Hopkins University**  
-![JHU Logo](images/tiktok.png)
-# 🤝 Collaborators
-
-I deeply appreciate and am grateful to my collaborators and institutions for their continuous support and opportunities to grow in both academic and professional domains.
-
-| Johns Hopkins University | Liaoning Technical University | EACON Intelligent Driving |
-|--------------------------|-------------------------------|----------------------------|
-| ![JHU Logo](images/tiktok.png) | ![LNTU Logo](images/tiktok.png) | ![EACON Logo](images/tiktok.png) |
-
