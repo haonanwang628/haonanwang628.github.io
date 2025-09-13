@@ -12,13 +12,13 @@
 - <span style="color: #9C27B0; font-weight:bold;">[Conference]</span> 
 -- ``EMNLP 2025`` **"ByteSized32Refactored: Towards an Extensible Interactive Text Games Corpus for LLM World Modeling and Evaluation"**\
     <span style="color:darkblue">**Haonan Wang**</span>, Junfeng Sun, Xindi Yuan, Ruoyao Wang, Ziang Xiao.\
-***(preprint)***, WordPlay Workshop at EMNLP, 2025.[[pdf]](),[[code]](),
+***(under review)***, WordPlay Workshop at EMNLP, 2025.[[pdf]](),[[code]](),
 
   
 - <span style="color: #9C27B0;; font-weight:bold;">[Conference]</span> 
 -- ``EMNLP 2025`` **"From Noise to Nuance: Enriching Subjective Data Interpretation through Qualitative Analysis"**\
     Ruyuan Wan,<span style="color:darkblue">**Haonan Wang**</span>,Ting-Hao Kenneth Huang,Jie Gao.\
-***(preprint)***, HCI + NLP Workshop at EMNLP, 2025.[[pdf]](),
+***(under review)***, HCI + NLP Workshop at EMNLP, 2025.[[pdf]](),
 
 - <span style="color: red; font-weight:bold;">[Dissertation-Project]</span> 
 -- ``Master in Computer Science`` **"Unveiling Statistical Relationships Among Popular LLM Benchmarks: A Quantitative Framework"**\
