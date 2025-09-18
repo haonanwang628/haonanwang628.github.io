@@ -1,8 +1,8 @@
 # Current Project (until 2025)
 - <span style="color: #9C27B0; font-weight:bold;">[Conference]</span> 
--- ``In progress`` **"LLMs based on Multi-Agent data annotation for subjective text"**\
+-- ``In progress`` **"LLMs based on Multi-perspective agent data annotation for subjective text"**\
     <span style="color:darkblue">**Haonan Wang**</span>,Jie Gao,Ziang Xiao,Kristina Gligorić\
-***(preprint)***,2025.[[pdf]](),[[code]](),
+2025.[[pdf]](),[[code]](),
 
 
   
