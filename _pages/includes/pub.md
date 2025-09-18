@@ -6,9 +6,6 @@
 # 📝 Publications 
 
 ## 📕Natural Language Processing and Human-Centered AI
-    
-
-
 
 - <span style="color: #9C27B0; font-weight:bold;">[Conference]</span> 
 -- ``EMNLP 2025`` **"ByteSized32Refactored: Towards an Extensible Interactive Text Games Corpus for LLM World Modeling and Evaluation"**\
@@ -64,7 +61,8 @@ International Journal of Computer Science and Information Technology, 2025.[[pdf
 Journal of Computer Science and Artificial Intelligence, 2025.[[pdf]](https://www.researchgate.net/publication/390331777_Research_on_the_Integration_of_Embodied_Intelligence_and_Reinforcement_Learning_in_Textual_Domains),
 
 # 🖥 Software 
-## Software Patents:
+## Software Patents :
+***Thanks to software application development is funded through the Chinese central State-owned Shenhua Ming Group Ltd and Zijin Ming Group Ltd enterprises.***
 [P.1] <span style="color:darkblue">**Haonan Wang**</span>, Mingjia, Zhao, et al. (2022). **Artificial intelligence robot programming interactive control
 system**. PRC Software Copyright Patent, Patent No. 2022SR1053901.\
 [P.2] <span style="color:darkblue">**Haonan Wang**</span>, Junfeng, Sun, et al. (2022). **Image recognition processing operation platform**. PRC Software
