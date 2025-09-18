@@ -5,6 +5,7 @@
 - <span style=" color:#6A5ACD; font-weight: bold;"> In my Undergraduate: </span>\
   Before joining JHU, I received  ***my B.S. degree in Information and Computer Science, and Mathematics*** from [Liaoning Technology University](https://en.lntu.edu.cn/).
   During my undergrad study, I spent time at the Institute of Mathematics and Systems Science and the Institute of Machine Learning and Data Mining, where I was advised by [Prof. Wei Liu](https://www.researchgate.net/profile/Wei-Liu-523) and [Prof.Yu Zhang](https://www.researchgate.net/profile/Yu-Zhang-264) works in Multivariate Statistical Analysis, Machine Learning, Reinforcement Learning, Informatics Theory, Numerical Analysis, and Math Modeling and Optimization Algorithms.
+- <span style=" color:#228B22; font-weight: bold;"> Another activity: </span>\
   
 # 🤔 Research interest
 My research interests include **Large Language Models(LLMs)**,**Natural Language Processing(NLP) for Social Science**, **Advanced Statistical Inference**, **Human-Centered Artificial Intelligence (HCI-AI)**,and **Machine learning** . My research work is motivated by the fundamental question of **how to achieve and support bidirectional Human-AI Alignment between understanding humans at scale and AI data/algorithms/systems to bridge the socio-technical gap in computational social science**.
