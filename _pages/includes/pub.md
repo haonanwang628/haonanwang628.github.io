@@ -62,7 +62,7 @@ Journal of Computer Science and Artificial Intelligence, 2025.[[pdf]](https://ww
 
 # 🖥 Software 
 ## Software Patents :
-*---🙏Thanks to the software application development collaboration with all Professors and Graduate student assistants from the **SpringTeng AI** and LNTU, being funded through our collaboration with **Chinese central State-owned Shenhua Ming Group Ltd and Zijin Ming Group Ltd enterprises**.*\
+*---🙏Thanks to the software application development collaboration with all Professors and Graduate Assistants from the **SpringTeng AI** and Liaoning Technical University, Liaoning University, and Qinghua University, being funded through our collaboration with **Chinese central State-owned Shenhua Ming Group Ltd and Zijin Ming Group Ltd enterprises**.*\
 [P.1] <span style="color:darkblue">**Haonan Wang**</span>, Mingjia, Zhao, et al. (2022). **Artificial intelligence robot programming interactive control
 system**. PRC Software Copyright Patent, Patent No. 2022SR1053901.\
 [P.2] <span style="color:darkblue">**Haonan Wang**</span>, Junfeng, Sun, et al. (2022). **Image recognition processing operation platform**. PRC Software
