@@ -10,9 +10,7 @@
   
 # 🤔 Research interest
 My work topic is very closely related to **Data Science(Annotation/Collection/Statistical Inference) for LLMs Training and Evaluation**, which belongs to the intersection of **Large Language Models(LLMs)**, **Advanced Statistical Inference/Machine learning**, and **Human-Centered Artificial Intelligence (HCI-AI)**. \
-Specifically, my pre-research and future work are motivated by the fundamental question of
-**How to achieve and evaluate bidirectional Human-AI Alignment to bridge the socio-technical gap in building LLMs for effective data annotation/collection pipline and LLMs for mining/analysis more enriched information in NLP subjective data tasks**
-
-- <span style="color:red; font-weight: #FF0000;"> **1. Human-AI Alignment Interaction/Collaboration for Social NLP**:</span> How to build a Human-AI Data Annotation/Optimization/Selection Framework for Subjective and Ambiguous Labeling text in multiple fields to improve quality datasets.
-- <span style="color:red; font-weight: #FF0000;"> **2. LLMs for evaluation and application**:</span> How to evaluate and improve the capabilities of LLMs and agents to understand and interact with humans in the interaction process.
+Specifically, my pre-research project and work are motivated by some fundamental questions, including:
+- <span style="color:red; font-weight: #FF0000;"> **1. Human-AI Alignment for Social NLP Subjective data**:</span> How to achieve the bidirectional Human-AI Alignment to bridge the socio-technical gap in building LLMs for an effective data annotation/collection pipeline and LLMs for mining/analysis more enriched information in NLP subjective data tasks.
+- <span style="color:red; font-weight: #FF0000;"> **2. LLMs for evaluation and code evaluation**:</span> How to evaluate and improve the capabilities of LLMs and agents to understand and interact with humans in the interaction process, like simulating the world.
 - <span style="color:red; font-weight: #FF0000;"> **3. Machine learning and Statistical Inference**:</span> How to understand data statistics dynamics using math modeling and developing efficient machine learning algorithms for large-scale data analysis and intelligent pattern recognition.
