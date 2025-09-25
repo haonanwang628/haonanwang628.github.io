@@ -9,7 +9,7 @@
   I am also a **Co-founder** of ***SpringTeng AI***, a startup and community based in the China National University Science Park. This community focuses on developing AI data analysis systems, Software Patents Apps for industry technologies, and collaborating such as EACON Driverless, and the Chinese Ming Group.
   
 # 🤔 Research interest
-My work topic is very closely related to **Data Science(Annotation/Collection/Statistical Inference) for LLMs Training and Evaluation**, which belongs to the intersection of **Large Language Models(LLMs)**, **Advanced Statistical Inference/Machine learning**, and **Human-Centered Artificial Intelligence (HCI-AI)**. \\
+My work topic is very closely related to **Data Science(Annotation/Collection/Statistical Inference) for LLMs Training and Evaluation**, which belongs to the intersection of **Large Language Models(LLMs)**, **Advanced Statistical Inference/Machine learning**, and **Human-Centered Artificial Intelligence (HCI-AI)**. \
 Specifically, my pre-research and future work are motivated by the fundamental question of
 **How to achieve and evaluate bidirectional Human-AI Alignment to bridge the socio-technical gap in building LLMs for effective data annotation/collection and LLMs for mining/analysis more enriched information in NLP subjective data tasks**
 
