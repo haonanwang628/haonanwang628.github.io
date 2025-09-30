@@ -1,7 +1,7 @@
 # 👇Current Project (In 2024-2025)
 - <span style="color: #9C27B0; font-weight:bold;">[In progress]</span> 
 -- ``In progress`` **"LLMs based on Multi-perspective agent data annotation for social NLP text data"**\
-    <span style="color:darkblue">**Haonan Wang**</span>,Jie Gao,Ziang Xiao,Kristina Gligorić\
+    <span style="color:darkblue">**Haonan Wang**</span>
 2025.[[pdf]](TBD),[[code]](TBD),
 # 📝 Publications 
 
