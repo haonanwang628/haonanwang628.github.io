@@ -10,7 +10,7 @@
 - <span style="color: #9C27B0; font-weight:bold;">[Conference]</span> 
 -- ``EMNLP 2025`` **"ByteSized32Refactored: Towards an Extensible Interactive Text Games Corpus for LLM World Modeling and Evaluation"**\
     <span style="color:darkblue">**Haonan Wang**</span>, Junfeng Sun, Xindi Yuan, Ruoyao Wang, Ziang Xiao.\
-The 5th WordPlay Workshop at EMNLP, 2025.[[pdf]](https://openreview.net/forum?id=HmZTK13TzC&invitationId=EMNLP/2025/Workshop/Wordplay/Submission34/-/Revision&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DEMNLP%2F2025%2FWorkshop%2FWordplay%2FAuthors%23author-tasks)),[[code]](https://github.com/isle-dev/BYTESIZED32-Refactored),
+The 5th WordPlay Workshop at EMNLP, 2025.[[pdf]](https://arxiv.org/abs/2509.23979)),[[code]](https://github.com/isle-dev/BYTESIZED32-Refactored),
 
   
 - <span style="color: #9C27B0;; font-weight:bold;">[Conference]</span> 
