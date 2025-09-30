@@ -32,7 +32,7 @@ Liaoning Technology University,2023.[[pdf]](TBD),
 - <span style="color:green; font-weight:bold;">[Journal]</span> 
 -- ``Plos one`` **"Unsupervised Feature Selection Algorithm Based on L2,p-norm Feature Reconstruction"**  
   Wei Liu, Miao Zhong, Guangwei Liu,<span style="color:darkblue">**Haonan Wang**</span> , Ning Qian.\
-PLOS ONE, 2025. [[pdf]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318431),[code](https://github.com/haonanwang628/Unsupervised-Feature-Selection-Algorithm-Based-on-L2-p-norm-Feature-Reconstruction)
+PLOS ONE, 2025. [[pdf]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318431),[[code]](https://github.com/haonanwang628/Unsupervised-Feature-Selection-Algorithm-Based-on-L2-p-norm-Feature-Reconstruction)
 
 - <span style="color:green; font-weight:bold;">[Journal]</span> 
 -- ``Advances in AI and ML`` **"Research on geometric figure classification algorithm based on Deep Learning"**  
