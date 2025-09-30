@@ -2,7 +2,7 @@
 - <span style="color: #9C27B0; font-weight:bold;">[In progress]</span> 
 -- ``In progress`` **"LLMs based on Multi-perspective agent data annotation for social NLP text data"**\
     <span style="color:darkblue">**Haonan Wang**</span>,Jie Gao,Ziang Xiao,Kristina Gligorić\
-2025.[[pdf]](),[[code]](),
+2025.[[pdf]](TBD),[[code]](TBD),
 # 📝 Publications 
 
 ## 📕Natural Language Processing and Human-Centered AI
@@ -16,24 +16,24 @@ The 5th WordPlay Workshop at EMNLP, 2025.[[pdf]](https://arxiv.org/abs/2509.2397
 - <span style="color: #9C27B0;; font-weight:bold;">[Conference]</span> 
 -- ``EMNLP 2025`` **"From Noise to Nuance: Enriching Subjective Data Interpretation through Qualitative Analysis"**\
     Ruyuan Wan,<span style="color:darkblue">**Haonan Wang**</span>,Ting-Hao Kenneth Huang,Jie Gao.\
-The 4th HCI + NLP Workshop at EMNLP, 2025.[[pdf]](https://openreview.net/forum?id=hCAAONKZpx&noteId=0hO4kQMDgS),
+The 4th HCI + NLP Workshop at EMNLP, 2025.[[pdf]](TBD),
 
 - <span style="color: red; font-weight:bold;">[Dissertation-Project]</span> 
 -- ``Master in Computer Science`` **"Unveiling Statistical Relationships Among Popular LLM Benchmarks: A Quantitative Framework"**\
     <span style="color:darkblue">**Haonan Wang**</span>,Ziang Xiao.\
-Johns Hopkins University,2024.[[pdf]](),
+Johns Hopkins University,2024.[[pdf]](TBD),
 
 - <span style="color: red; font-weight:bold;">[Dissertation-Project]</span> 
--- ``B.S in Information, Computer Science and Math`` **"Research on the application of human action recognition based on LSTM-CNN"**\
+-- ``B.S in Information, Computer Science, and Math`` **"Research on the application of human action recognition based on LSTM-CNN"**\
     <span style="color:darkblue">**Haonan Wang**</span>,Wei Liu.\
-Liaoning Technology University,2023.[[pdf]](),
+Liaoning Technology University,2023.[[pdf]](TBD),
   
 ## 📙 Advanced Statistics data analysis, Reinforcement Learning, Machine learning algorithms 
 
 - <span style="color:green; font-weight:bold;">[Journal]</span> 
 -- ``Plos one`` **"Unsupervised Feature Selection Algorithm Based on L2,p-norm Feature Reconstruction"**  
   Wei Liu, Miao Zhong, Guangwei Liu,<span style="color:darkblue">**Haonan Wang**</span> , Ning Qian.\
-PLOS ONE, 2025. [[pdf]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318431),
+PLOS ONE, 2025. [[pdf]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318431),[code](https://github.com/haonanwang628/Unsupervised-Feature-Selection-Algorithm-Based-on-L2-p-norm-Feature-Reconstruction)
 
 - <span style="color:green; font-weight:bold;">[Journal]</span> 
 -- ``Advances in AI and ML`` **"Research on geometric figure classification algorithm based on Deep Learning"**  
