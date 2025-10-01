@@ -13,13 +13,12 @@
   - [EACON, Beijing Easy Control Intelligent Driving Technology Co., LTD](https://ceshi.eacon.com/en/)
 
  
-- [2024.03 - 2024.04]--**Data Annotation Research Assistant**
+- [2024.03 - 2024.04]--**Image Data Annotation Research Assistant**
   - [Computational Cognition, Vision, and Learning Lab, Johns Hopkins University](https://ccvl.jhu.edu/)
  
 - [2021.09 - 2023.09]--**Research Assistant**
   - [Institute of Mathematics and Systems Science, Liaoning Technology University](https://en.lntu.edu.cn/)
  
-
 - [2021.09 - 2023.09]--**Teaching Assistant**
   - [College of Science, Liaoning Technology University](https://en.lntu.edu.cn/)
  
