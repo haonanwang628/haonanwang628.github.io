@@ -4,7 +4,7 @@
 2025.[[pdf]](TBD),[[code]](TBD),
 # 📝 Publications 
 
-## 📕Natural Language Processing and Human-Centered AI
+## 📕Large Language Models(LLMs) for Training & Evaluation and Human-Centered AI
 
 - <span style="color: #9C27B0; font-weight:bold;">[Conference]</span> 
 -- ``EMNLP 2025`` **"ByteSized32Refactored: Towards an Extensible Interactive Text Games Corpus for LLM World Modeling and Evaluation"**\
