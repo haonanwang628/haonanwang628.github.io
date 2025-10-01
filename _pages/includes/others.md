@@ -6,7 +6,7 @@
 # 💻 Internships
 
 - [2024.06 - present]--**Research Assistant**
-  - [ISLE lab, Johns Hopkins University](https://www.jhu.edu/).
+  - [ISLE lab, Johns Hopkins University](https://github.com/isle-dev).
   
 
 - [2024.07 - 2024.08]--**Research Intern**
