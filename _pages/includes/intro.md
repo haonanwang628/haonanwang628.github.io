@@ -10,7 +10,7 @@
   
 # 🤔 Research interest
 My research interest focuses on the **Large Language Models(LLMs) for Training and Evaluation**, **Human-Centered Artificial Intelligence (HCI-AI)**, and **Machine learning/Advanced Statistical Inference**\. My work is motivated by fundamental questions 
-**how to study human-AI Alignment from multi-perspective Data Science(Annotation/Collection/Statistical Inference) for LLMs Training**
+**how to study human-AI Alignment from multi-perspective Data Science(Annotation/Collection/Statistical Inference) for LLMs Training**\
 **how to build text-world modeling for LLMs/RL and reasoning and evaluation** Specifically, including:
 - <span style="color:red; font-weight: #FF0000;"> **1. Human-AI Alignment for Social NLP Subjective data**:</span> How to achieve the bidirectional Human-AI Alignment to bridge the socio-technical gap in building LLMs for an effective data annotation/collection pipeline and LLMs for mining/analysis more enriched information in NLP subjective data tasks.
 - <span style="color:red; font-weight: #FF0000;"> **2. LLMs for evaluation and code generation**:</span> How to evaluate and improve the capabilities of LLMs and agents to understand and interact with humans in the interaction process, like simulating the text-based world.
