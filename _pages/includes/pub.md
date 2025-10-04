@@ -15,7 +15,7 @@ The 5th WordPlay Workshop at EMNLP, 2025.[[pdf]](https://arxiv.org/abs/2509.2397
 - <span style="color: #9C27B0;; font-weight:bold;">[Conference]</span> 
 -- ``EMNLP 2025`` **"From Noise to Nuance: Enriching Subjective Data Interpretation through Qualitative Analysis"**\
     Ruyuan Wan,<span style="color:darkblue">**Haonan Wang**</span>,Ting-Hao Kenneth Huang,Jie Gao.\
-The 4th HCI + NLP Workshop at EMNLP, 2025.[[pdf]](TBD),
+The 4th HCI + NLP Workshop at EMNLP, 2025.[[pdf]](https://openreview.net/forum?id=hCAAONKZpx),
 
 - <span style="color: red; font-weight:bold;">[Dissertation-Project]</span> 
 -- ``Master in Computer Science`` **"Unveiling Statistical Relationships Among Popular LLM Benchmarks: A Quantitative Framework"**\
