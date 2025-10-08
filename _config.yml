@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Haonan Wang(resilience)"
+title                    : "Haonan Wang"
 description              : "Student Research Assistant at JHU."
 repository               : "haonanwang628.github.io/"
 google_scholar_stats_use_cdn : true
@@ -53,7 +53,7 @@ author:
   tumblr           :
   twitter          : "@haonanwang628"
   vine             :
-  weibo            :
+  resilience       : "@haonanwang628"
   xing             :
   youtube          :
   wikipedia        :
