@@ -7,11 +7,20 @@
 - <span style="color: #9C27B0; font-weight:bold;">[In progress]</span> 
 -- ``In progress`` **"PerspectiveCoder-LM: A LLM-based Multi-agent System for Large-scale Corpus Inductive Text Coding Analysis"**\
 2025.[[pdf]](TBD),[[code]](TBD),
-  
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/Screenshot 2025-10-27 at 12.32.30.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 - <span style="color: #9C27B0;; font-weight:bold;">[Conference]</span> 
 -- ``EMNLP 2025`` **"From Noise to Nuance: Enriching Subjective Data Interpretation through Qualitative Analysis"**\
     Ruyuan Wan,<span style="color:darkblue">**Haonan Wang**</span>,Ting-Hao Kenneth Huang,Jie Gao.\
 The 4th HCI + NLP Workshop at EMNLP, 2025.[[pdf]](https://openreview.net/forum?id=hCAAONKZpx),
+
+[From Noise to Nuance: Enriching Subjective Data Interpretation through Qualitative Analysis](https://ruyuanwan.github.io/assets/pubs/From_Noise_to_Nuance_Enrich.pdf) \\
+ Ruyuan Wan,<span style="color:darkblue">**Haonan Wang**</span>,Ting-Hao Kenneth Huang,Jie Gao.
+[The 4th HCI + NLP Workshop at EMNLP, 2025](https://sites.google.com/view/hciandnlp/home).\
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/Screenshot 2025-10-27 at 12.32.30.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
