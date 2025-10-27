@@ -13,6 +13,7 @@
 
 [From Noise to Nuance: Enriching Subjective Data Interpretation through Qualitative Analysis](https://ruyuanwan.github.io/assets/pubs/From_Noise_to_Nuance_Enrich.pdf) \\
  Ruyuan Wan,<span style="color:darkblue">**Haonan Wang**</span>,Ting-Hao Kenneth Huang,Jie Gao.
+ 
 [The 4th HCI + NLP Workshop at EMNLP, 2025](https://sites.google.com/view/hciandnlp/home).
 - **Abstract**: Subjective data annotation (SDA) in NLP should treat annotator disagreement as a valuable source of insight rather than noise. Drawing on qualitative data analysis (QDA), we compare the two methodologies and highlight differences in human roles, workflows, and evaluation. We propose five recommendations to make SDA more interpretive and demonstrate these ideas through a reinforcement learning from human feedback (RLHF) case study, advocating for a more interdisciplinary approach to understanding subjective data.
 </div>
@@ -24,11 +25,12 @@
 
 [ByteSized32Refactored: Towards an Extensible Interactive Text Games Corpus for LLM World Modeling and Evaluation](https://arxiv.org/abs/2509.23979) \\
 <span style="color:darkblue">**Haonan Wang**</span>, Junfeng Sun, Xindi Yuan, Ruoyao Wang, Ziang Xiao.
+
 [The 5th WordPlay Workshop at EMNLP, 2025](https://wordplay-workshop.github.io/modern/#:~:text=Overview,-Date%20and%20time&text=This%20workshop%20focused%20on%20exploring,but%20not%20limited%20to%20storytelling.).
 [**Code**](https://github.com/isle-dev/BYTESIZED32-Refactored) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 [**Slides**](https://docs.google.com/presentation/d/1fkBqKv6eUosixZW7ZpW51AjUzKbA_JZajmzdo4BR7Zc/edit?slide=id.g3881c550231_0_33#slide=id.g3881c550231_0_33) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 [**Poster-recording**](assets/paper/bytesized32Refactored.mp4) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
-- **Abstract**: ByteSized32Refactored presents a modular and extensible redesign of the original ByteSized32 interactive text games corpus to advance research on LLM world modeling and evaluation. By introducing a unified foundation library that abstracts common game logic into reusable base classes, the total codebase is reduced by half while enabling easier expansion to new environments. Experiments with GPT-4o demonstrate that the refactored structure improves code quality and extensibility while revealing new challenges for hierarchical reasoning in LLMs. This work establishes a scalable platform for studying interactive reasoning, adaptability, and generalization in language models.
+- **Abstract**: ByteSized32Refactored presents a modular and extensible redesign of the original ByteSized32 interactive text games corpus to advance research on LLM world modeling and evaluation. By introducing a unified foundation library that abstracts common game logic into reusable base classes, the total codebase is reduced by half while enabling easier expansion to new environments. Experiments with GPT-4o and GPT-5 demonstrate that the refactored structure improves code quality and extensibility while revealing new challenges for hierarchical reasoning in LLMs. This work establishes a scalable platform for studying interactive reasoning, adaptability, and generalization in language models.
 </div>
 </div>
 
