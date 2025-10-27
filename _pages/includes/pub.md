@@ -8,7 +8,7 @@
 -- ``In progress`` **"PerspectiveCoder-LM: A LLM-based Multi-agent System for Large-scale Corpus Inductive Text Coding Analysis"**\
 2025.[[pdf]](TBD),[[code]](TBD),
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/Screenshot 2025-10-27 at 12.42.08.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src=images/Screenshot 2025-10-27 at 12.46.32.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [From Noise to Nuance: Enriching Subjective Data Interpretation through Qualitative Analysis](https://ruyuanwan.github.io/assets/pubs/From_Noise_to_Nuance_Enrich.pdf) \\
@@ -28,6 +28,7 @@
 [**Code**](https://github.com/isle-dev/BYTESIZED32-Refactored) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 [**Slides**](https://docs.google.com/presentation/d/1fkBqKv6eUosixZW7ZpW51AjUzKbA_JZajmzdo4BR7Zc/edit?slide=id.g3881c550231_0_33#slide=id.g3881c550231_0_33) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 [**Poster-recording**](assets/paper/bytesized32Refactored.mp4) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+- **Abstract**: Subjective data annotation (SDA) in NLP should treat annotator disagreement as a valuable source of insight rather than noise. Drawing on qualitative data analysis (QDA), we compare the two methodologies and highlight differences in human roles, workflows, and evaluation. We propose five recommendations to make SDA more interpretive and demonstrate these ideas through a reinforcement learning from human feedback (RLHF) case study, advocating for a more interdisciplinary approach to understanding subjective data.
 </div>
 </div>
 
