@@ -8,14 +8,14 @@
 -- ``In progress`` **"PerspectiveCoder-LM: A LLM-based Multi-agent System for Large-scale Corpus Inductive Text Coding Analysis"**\
 2025.[[pdf]](TBD),[[code]](TBD),
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TBD</div><img src='images/fromnoise.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TBD</div><img src='images/perspectivecoder.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [PerspectiveCoder-LM: A LLM-based Multi-agent System for Large-scale Corpus Inductive Text Coding Analysis](https://ruyuanwan.github.io/assets/pubs/From_Noise_to_Nuance_Enrich.pdf) \\
- Ruyuan Wan,<span style="color:darkblue">**Haonan Wang**</span>,Ting-Hao Kenneth Huang,Jie Gao.
- 
-[The 4th HCI + NLP Workshop at EMNLP, 2025](https://sites.google.com/view/hciandnlp/home).
-- **Abstract**: Subjective data annotation (SDA) in NLP should treat annotator disagreement as a valuable source of insight rather than noise. Drawing on qualitative data analysis (QDA), we compare the two methodologies and highlight differences in human roles, workflows, and evaluation. We propose five recommendations to make SDA more interpretive and demonstrate these ideas through a reinforcement learning from human feedback (RLHF) case study, advocating for a more interdisciplinary approach to understanding subjective data.
+ <span style="color:darkblue">**Haonan Wang**</span>,Jie Gao,Ziang Xiao.
+
+[TBD](tbd).
+
 </div>
 </div>
 
