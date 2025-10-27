@@ -1,10 +1,12 @@
 # 👇Current Project (In 2024-2025)
-- <span style="color: #9C27B0; font-weight:bold;">[In progress]</span> 
--- ``In progress`` **"PerspectiveCoder-LM: A LLM-based Multi-agent System for Large-scale Corpus Inductive Text Coding Analysis"**\
-2025.[[pdf]](TBD),[[code]](TBD),
+
 # 📝 Select Publications 
 
 ## 📕Large Language Models(LLMs) for Training & Evaluation and Human-Centered AI
+
+- <span style="color: #9C27B0; font-weight:bold;">[In progress]</span> 
+-- ``In progress`` **"PerspectiveCoder-LM: A LLM-based Multi-agent System for Large-scale Corpus Inductive Text Coding Analysis"**\
+2025.[[pdf]](TBD),[[code]](TBD),
 
 - <span style="color: #9C27B0; font-weight:bold;">[Conference]</span> 
 -- ``EMNLP 2025`` **"ByteSized32Refactored: Towards an Extensible Interactive Text Games Corpus for LLM World Modeling and Evaluation"**\
