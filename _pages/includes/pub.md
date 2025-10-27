@@ -1,8 +1,8 @@
 # 👇Current Project (In 2024-2025)
 - <span style="color: #9C27B0; font-weight:bold;">[In progress]</span> 
--- ``In progress`` **"LLMs based on Multi-perspective agent QA for social NLP text data"**\
+-- ``In progress`` **"PerspectiveCoder-LM: A LLM-based Multi-agent System for Large-scale Corpus Inductive Text Coding Analysis"**\
 2025.[[pdf]](TBD),[[code]](TBD),
-# 📝 Publications 
+# 📝 Select Publications 
 
 ## 📕Large Language Models(LLMs) for Training & Evaluation and Human-Centered AI
 
