@@ -4,17 +4,14 @@
 
 ## 📕Large Language Models(LLMs) for Training & Evaluation and Human-Centered AI
 
-- <span style="color: #9C27B0; font-weight:bold;">[In progress]</span> 
--- ``In progress`` **"PerspectiveCoder-LM: A LLM-based Multi-agent System for Large-scale Corpus Inductive Text Coding Analysis"**\
-2025.[[pdf]](TBD),[[code]](TBD),
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TBD</div><img src='images/perspectivecoder.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[PerspectiveCoder-LM: A LLM-based Multi-agent System for Large-scale Corpus Inductive Text Coding Analysis](https://ruyuanwan.github.io/assets/pubs/From_Noise_to_Nuance_Enrich.pdf) \\
+[PerspectiveCoder-LM: A LLM-based Multi-agent System for Large-scale Corpus Inductive Text Coding Analysis](tbd) \\
  <span style="color:darkblue">**Haonan Wang**</span>,Jie Gao,Ziang Xiao.
 
-[TBD](tbd).
+[**Code**](tbd) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
 </div>
 </div>
