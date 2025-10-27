@@ -1,6 +1,6 @@
-# 👇Current Project (In 2024-2025)
+# Current Project (In 2024-2025)
 
-# 📝 Select Publications 
+# 👇Select Publications 
 
 ## 📕Large Language Models(LLMs) for Training & Evaluation and Human-Centered AI
 
