@@ -18,12 +18,12 @@ The 5th WordPlay Workshop at EMNLP, 2025.[[pdf]](https://arxiv.org/abs/2509.2397
     Ruyuan Wan,<span style="color:darkblue">**Haonan Wang**</span>,Ting-Hao Kenneth Huang,Jie Gao.\
 The 4th HCI + NLP Workshop at EMNLP, 2025.[[pdf]](https://openreview.net/forum?id=hCAAONKZpx),
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/fs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/Screenshot 2025-10-27 at 12.32.30.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ByteSized32Refactored: Towards an Extensible Interactive Text Games Corpus for LLM World Modeling and Evaluation](https://arxiv.org/abs/2509.23979) \\
 <span style="color:darkblue">**Haonan Wang**</span>, Junfeng Sun, Xindi Yuan, Ruoyao Wang, Ziang Xiao.\
-
+The 5th WordPlay Workshop at EMNLP, 2025.\
 [**Code**](https://github.com/isle-dev/BYTESIZED32-Refactored) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 [**Slides**](https://docs.google.com/presentation/d/1fkBqKv6eUosixZW7ZpW51AjUzKbA_JZajmzdo4BR7Zc/edit?slide=id.g3881c550231_0_33#slide=id.g3881c550231_0_33) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 [**Poster-recording**](assets/paper/bytesized32Refactored.mp4) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
