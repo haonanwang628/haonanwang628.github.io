@@ -8,7 +8,7 @@
 -- ``In progress`` **"PerspectiveCoder-LM: A LLM-based Multi-agent System for Large-scale Corpus Inductive Text Coding Analysis"**\
 2025.[[pdf]](TBD),[[code]](TBD),
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src=images/Screenshot 2025-10-27 at 12.46.32.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/fromnoise.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [From Noise to Nuance: Enriching Subjective Data Interpretation through Qualitative Analysis](https://ruyuanwan.github.io/assets/pubs/From_Noise_to_Nuance_Enrich.pdf) \\
