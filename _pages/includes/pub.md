@@ -27,7 +27,7 @@ The 4th HCI + NLP Workshop at EMNLP, 2025.[[pdf]](https://openreview.net/forum?i
 
 [ByteSized32Refactored: Towards an Extensible Interactive Text Games Corpus for LLM World Modeling and Evaluation](https://arxiv.org/abs/2509.23979) \\
 <span style="color:darkblue">**Haonan Wang**</span>, Junfeng Sun, Xindi Yuan, Ruoyao Wang, Ziang Xiao.
-[The 5th WordPlay Workshop at EMNLP, 2025](https://wordplay-workshop.github.io/modern/#:~:text=Overview,-Date%20and%20time&text=This%20workshop%20focused%20on%20exploring,but%20not%20limited%20to%20storytelling.).\
+[The 5th WordPlay Workshop at EMNLP, 2025](https://wordplay-workshop.github.io/modern/#:~:text=Overview,-Date%20and%20time&text=This%20workshop%20focused%20on%20exploring,but%20not%20limited%20to%20storytelling.).
 [**Code**](https://github.com/isle-dev/BYTESIZED32-Refactored) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 [**Slides**](https://docs.google.com/presentation/d/1fkBqKv6eUosixZW7ZpW51AjUzKbA_JZajmzdo4BR7Zc/edit?slide=id.g3881c550231_0_33#slide=id.g3881c550231_0_33) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 [**Poster-recording**](assets/paper/bytesized32Refactored.mp4) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
