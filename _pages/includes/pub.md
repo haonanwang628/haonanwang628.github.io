@@ -8,10 +8,10 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TBD</div><img src='images/perspectivecoder.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[PerspectiveCoder-LM: A LLM-based Multi-agent System for Large-scale Corpus Inductive Text Coding Analysis](tbd) \\
+[PerspectiveCoder-LM: A LLM-based Multi-agent System for Large-scale Corpus Inductive Text Coding Analysis]() \\
  <span style="color:darkblue">**Haonan Wang**</span>,Jie Gao,Ziang Xiao.
 
-[**Code**](tbd) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+[**Code**]() <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
 </div>
 </div>
