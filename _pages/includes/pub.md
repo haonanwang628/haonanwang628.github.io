@@ -42,10 +42,10 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Plos one</div><img src='' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Plos one</div><img src='images/ningqian.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ByteSized32Refactored: Towards an Extensible Interactive Text Games Corpus for LLM World Modeling and Evaluation](https://arxiv.org/abs/2509.23979) \\
+[Unsupervised Feature Selection Algorithm Based on L2,p-norm Feature Reconstruction](https://arxiv.org/abs/2509.23979) \\
 <span style="color:darkblue">**Haonan Wang**</span>, Junfeng Sun, Xindi Yuan, Ruoyao Wang, Ziang Xiao.
 
 [The 5th WordPlay Workshop at EMNLP, 2025](https://wordplay-workshop.github.io/modern/#:~:text=Overview,-Date%20and%20time&text=This%20workshop%20focused%20on%20exploring,but%20not%20limited%20to%20storytelling.).
@@ -56,10 +56,10 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Plos one</div><img src='' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Plos one</div><img src='images/wangjiaxiang.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ByteSized32Refactored: Towards an Extensible Interactive Text Games Corpus for LLM World Modeling and Evaluation](https://arxiv.org/abs/2509.23979) \\
+[IM3HRL: Model-assisted Intrinsically Motivated Modular Hierarchical Reinforcement Learning](https://arxiv.org/abs/2509.23979) \\
 <span style="color:darkblue">**Haonan Wang**</span>, Junfeng Sun, Xindi Yuan, Ruoyao Wang, Ziang Xiao.
 
 [The 5th WordPlay Workshop at EMNLP, 2025](https://wordplay-workshop.github.io/modern/#:~:text=Overview,-Date%20and%20time&text=This%20workshop%20focused%20on%20exploring,but%20not%20limited%20to%20storytelling.).
