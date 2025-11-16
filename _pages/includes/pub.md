@@ -48,10 +48,8 @@
 [Unsupervised Feature Selection Algorithm Based on L2,p-norm Feature Reconstruction]([https://arxiv.org/abs/2509.23979](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318431)) \\
 Wei liu, Miao Zhong, Guangwei Liu, <span style="color:darkblue">**Haonan Wang**</span>, Qian Ning.
 
-[The 5th WordPlay Workshop at EMNLP, 2025](https://wordplay-workshop.github.io/modern/#:~:text=Overview,-Date%20and%20time&text=This%20workshop%20focused%20on%20exploring,but%20not%20limited%20to%20storytelling.).
+[**Plos one**]().
 [**Code**](https://github.com/haonanwang628/UnsupervisedFSA) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
-[**Slides**](https://docs.google.com/presentation/d/1fkBqKv6eUosixZW7ZpW51AjUzKbA_JZajmzdo4BR7Zc/edit?slide=id.g3881c550231_0_33#slide=id.g3881c550231_0_33) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
-[**Poster-recording**](assets/paper/bytesized32Refactored.mp4) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 - **Abstract**: NFRFS (an unsupervised feature selection algorithm based on L2, p-norm feature reconstruction) proposes a more robust feature selection method, aiming to address the problem that traditional algorithms are sensitive to noise and outliers. The L2, p-norm is used to enhance robustness, the integrative adaptive graph learning is employed to maintain the local structure of the data, and the inner product sparse regularization is utilized to select lower-level reference features. Experimental results on 14 benchmark datasets show that NRFFS significantly matches the existing state-of-the-art methods in Bluetooth performance, demonstrating its effectiveness and practicality in high-dimensional data processing.
 </div>
 </div>
@@ -62,10 +60,6 @@ Wei liu, Miao Zhong, Guangwei Liu, <span style="color:darkblue">**Haonan Wang**<
 [IM3HRL: Model-assisted Intrinsically Motivated Modular Hierarchical Reinforcement Learning](https://www.researchsquare.com/article/rs-4299675/v1) \\
 Wei Liu, Jiaxiang Wang, Guangwei Liu, <span style="color:darkblue">**Haonan Wang**</span>.
 
-[The 5th WordPlay Workshop at EMNLP, 2025](https://wordplay-workshop.github.io/modern/#:~:text=Overview,-Date%20and%20time&text=This%20workshop%20focused%20on%20exploring,but%20not%20limited%20to%20storytelling.).
-[**Code**](https://github.com/isle-dev/BYTESIZED32-Refactored) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
-[**Slides**](https://docs.google.com/presentation/d/1fkBqKv6eUosixZW7ZpW51AjUzKbA_JZajmzdo4BR7Zc/edit?slide=id.g3881c550231_0_33#slide=id.g3881c550231_0_33) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
-[**Poster-recording**](assets/paper/bytesized32Refactored.mp4) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 - **Abstract**: IM3HRL (Model-assisted Internal Reinforcement Hierarchical Reinforcement Learning) is an efficient and robust new reinforcement learning framework specifically designed to address the exploration and sample efficiency issues in complex goal-conditioned tasks. It hierarchically decomposes tasks by combining model-assisted internal guidance (MHA), uses internal guidance (CLP) to direct the agent to prioritize exploration, and employs a model-assisted relabeling strategy (FGRS) to generate reinforcement targets and enhance learning efficiency. Experiments have shown that the learning speed of IM3HRL is at least 15% faster than that of a single reinforcement method, and it demonstrates strong robustness against forgetting and perturbations.
 </div>
 </div>
