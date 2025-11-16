@@ -59,7 +59,7 @@ Wei liu, Miao Zhong, Guangwei Liu, <span style="color:darkblue">**Haonan Wang**<
 
 [IM3HRL: Model-assisted Intrinsically Motivated Modular Hierarchical Reinforcement Learning](https://www.researchsquare.com/article/rs-4299675/v1) \\
 Wei Liu, Jiaxiang Wang, Guangwei Liu, <span style="color:darkblue">**Haonan Wang**</span>.
-
+[**Scientific Reports**]().
 - **Abstract**: IM3HRL (Model-assisted Internal Reinforcement Hierarchical Reinforcement Learning) is an efficient and robust new reinforcement learning framework specifically designed to address the exploration and sample efficiency issues in complex goal-conditioned tasks. It hierarchically decomposes tasks by combining model-assisted internal guidance (MHA), uses internal guidance (CLP) to direct the agent to prioritize exploration, and employs a model-assisted relabeling strategy (FGRS) to generate reinforcement targets and enhance learning efficiency. Experiments have shown that the learning speed of IM3HRL is at least 15% faster than that of a single reinforcement method, and it demonstrates strong robustness against forgetting and perturbations.
 </div>
 </div>
