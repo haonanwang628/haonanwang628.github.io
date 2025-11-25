@@ -61,7 +61,8 @@ Wei liu, Miao Zhong, Guangwei Liu, <span style="color:darkblue">**Haonan Wang**<
 
 [IM3HRL: Model-assisted Intrinsically Motivated Modular Hierarchical Reinforcement Learning](https://www.researchsquare.com/article/rs-4299675/v1) \\
 Wei Liu, Jiaxiang Wang, Guangwei Liu, <span style="color:darkblue">**Haonan Wang**</span>.
-[**Scientific Reports**]().
+
+[**under review**]().
 - **Abstract**: IM3HRL (Model-assisted Internal Reinforcement Hierarchical Reinforcement Learning) is an efficient and robust new reinforcement learning framework specifically designed to address the exploration and sample efficiency issues in complex goal-conditioned tasks. It hierarchically decomposes tasks by combining model-assisted internal guidance (MHA), uses internal guidance (CLP) to direct the agent to prioritize exploration, and employs a model-assisted relabeling strategy (FGRS) to generate reinforcement targets and enhance learning efficiency. Experiments have shown that the learning speed of IM3HRL is at least 15% faster than that of a single reinforcement method, and it demonstrates strong robustness against forgetting and perturbations.
 </div>
 </div>
@@ -77,13 +78,6 @@ Johns Hopkins University,2024.[[pdf]](TBD),
 -- ``B.S in Information, Computer Science, and Math`` **"Research on the application of human action recognition based on LSTM-CNN"**\
     <span style="color:darkblue">**Haonan Wang**</span>,Wei Liu.\
 Liaoning Technology University,2023.[[pdf]](TBD),
-  
-## 📙 Advanced Statistics data analysis, Reinforcement Learning, Machine learning algorithms 
-
-- <span style="color:green; font-weight:bold;">[Journal]</span> 
--- ``Plos one`` **"Unsupervised Feature Selection Algorithm Based on L2,p-norm Feature Reconstruction"**  
-  Wei Liu, Miao Zhong, Guangwei Liu,<span style="color:darkblue">**Haonan Wang**</span> , Ning Qian.\
-PLOS ONE, 2025. [[pdf]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318431),[[code]](https://github.com/haonanwang628/Unsupervised-Feature-Selection-Algorithm-Based-on-L2-p-norm-Feature-Reconstruction)
 
 - <span style="color:green; font-weight:bold;">[Journal]</span> 
 -- ``Advances in AI and ML`` **"Research on geometric figure classification algorithm based on Deep Learning"**  
@@ -95,20 +89,6 @@ Advances in Artificial Intelligence and Machine Learning, 2022. [[pdf]](https://
   <span style="color:darkblue">**Haonan Wang**</span>.\
 Scientific Journal of Intelligent Systems Research,2021. [[pdf]](https://www.clausiuspress.com/article/1212.html),
 
-- <span style="color:green; font-weight:bold;">[Journal]</span> 
--- ``Scientific Reports`` **"IM3HRL: Model-assisted Intrinsically Motivated Modular Hierarchical Reinforcement Learning"**  
-Wei Liu,Jiaxiang Wang,Guangwei Liu, <span style="color:darkblue">**Haonan Wang**</span>.\
-Scientific Reports, 2024. [[pdf]](https://www.researchsquare.com/article/rs-4299675/v1),
-
-- <span style="color: green; font-weight:bold;">[Journal]</span> 
--- ``Computer Science and Information Technology`` **"Design and Optimization of Reinforcement Learning-Based Agents in Text-Based Games"**  
-<span style="color:darkblue">**Haonan Wang**</span>, Mingjia Zhao,Junfeng Sun,Wei Liu.\
-International Journal of Computer Science and Information Technology, 2025.[[pdf]](https://www.researchgate.net/publication/389718809_Design_and_Optimization_of_Reinforcement_Learning-Based_Agents_in_Text-Based_Games),
-
-- <span style="color: green; font-weight:bold;">[Journal]</span> 
--- ``Computer Science and AI`` **"Research on the Integration of Embodied Intelligence and Reinforcement Learning in Textual Domains"**  
-<span style="color:darkblue">**Haonan Wang**</span>, Junfeng Sun,Mingjia Zhao,Wei Liu.\
-Journal of Computer Science and Artificial Intelligence, 2025.[[pdf]](https://arxiv.org/abs/2510.01076),
 
 # 🖥 Software 
 ## Software Patents :
