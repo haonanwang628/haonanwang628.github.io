@@ -6,7 +6,7 @@
   Before joining JHU, I received  ***my B.S. degree in Information and Computer Science, and Mathematics*** from [Liaoning Technology University](https://en.lntu.edu.cn/).
   During my undergrad study, I spent time at the Institute of Mathematics and Systems Science and the Institute of Machine Learning and Data Mining, where I was advised by [Prof. Wei Liu](https://www.researchgate.net/profile/Wei-Liu-523) and [Prof.Yu Zhang](https://www.researchgate.net/profile/Yu-Zhang-264) works in Multivariate Statistical Analysis, Machine Learning, Reinforcement Learning, Informatics Theory, Numerical Analysis, and Math Modeling and Optimization Algorithms.
 - <span style=" color:#228B22; font-weight: bold;"> Another activity: </span>\
-  I am also a **Co-founder** of ***SpringTeng AI***, a startup and community based in the China National University Science Park. This community focuses on developing AI data analysis systems, Software Patents Apps for industry technologies, and collaborating such as EACON Driverless, and the Chinese Ming Group.
+  I am also a **Co-founder** of ***SpringTeng AI***, a startup and community based in the China National University Science Park. This community focuses on developing AI data analysis systems, Software Patents Apps for industry technologies, and collaborating with companies such as EACON Driverless and the Chinese Ming Group.
   
 # 🤔 Research interest
 My research interest focuses on the **Natural Language Processing**, **Human-Centered Artificial Intelligence (HCI-AI)**, and **Machine learning**. My work is motivated by fundamental questions\
