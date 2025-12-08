@@ -1,8 +1,8 @@
-# Ongoing Projects
+# 🤔 Ongoing Projects
 
-# 👇Select Publications 
+# 👇 Select Publications 
 
-## 📕Large Language Models(LLMs) for Training & Evaluation and Human-Centered AI
+## 📕Large Language Models(LLMs) and Human-Centered AI 
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TBD</div><img src='images/perspectivecoder.png' alt="sym" width="100%"></div></div>
