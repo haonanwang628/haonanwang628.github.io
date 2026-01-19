@@ -10,8 +10,7 @@
   
 # 🤔 Research interest
 My research interest focuses on the **Natural Language Processing**, **Human-Centered Artificial Intelligence (HCI-AI)**, and **Machine learning**. My work is motivated by fundamental questions
-**RQ1: How to explore the human-centered Social Value Alignment for Computational Social Science datasets, with the goal of understanding and simulating multi-perpective diversity** of human behavior**\
-**RQ2: How to build text-world modeling for evaluating and enhancing the human-interactive reasoning and simulation ability of LLMs Agent.**\ Specifically, including:
+**RQ1: How to explore the human-centered Social Value Alignment for Computational Social Science datasets, with the goal of understanding and simulating multi-perpective diversity** of human behavior**, and **RQ2: How to build text-world modeling for evaluating and enhancing the human-interactive reasoning and simulation ability of LLMs Agent.** Specifically, including:
 - <span style="color:red; font-weight: #FF0000;"> **1. Human-Centered Social Value Alignment for Computational Social Science in Subjective coding**:</span> How to achieve the bidirectional Human-AI Alignment to bridge the socio-technical gap in building LLMs for an effective data annotation/collection pipeline and LLMs for mining/analysis more enriched information in NLP subjective data tasks.
 - <span style="color:red; font-weight: #FF0000;"> **2.  Advancing LLMs and Agents for Dynamic World Simulation and Reasoning**:</span> How to evaluate and improve the capabilities of LLMs and agents to understand and interact with humans in the interaction process, like simulating the text-based world.
 - <span style="color:red; font-weight: #FF0000;"> **3. Machine learning**:</span> How to understand data statistics dynamics using math modeling and developing efficient machine learning algorithms for large-scale data analysis and intelligent pattern recognition.
