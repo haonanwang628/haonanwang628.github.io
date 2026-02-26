@@ -9,7 +9,7 @@
 <div class='paper-box-text' markdown="1">
 
 [PerspectiveCoder-LM: A LLM-based Multi-agent System for Large-scale Corpus Inductive Text Coding Analysis](https://github.com/isle-dev/PerspectiveCoder-LM) \\
-<span style="color:darkblue">**Haonan Wang**</span>,Jie Gao, Kristina Gligorić, Ziang Xiao.
+<span style="color:darkblue">**Haonan Wang**</span>
  
 
 
