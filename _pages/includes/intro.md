@@ -1,8 +1,8 @@
 
 - <span style="color:#FF8C00; font-weight: bold;"> Currently Now:</span>\
-  I am currently a **graduate research assistant volunteer** at the Johns Hopkins University, working with[Prof. Ziang Xiao](https://www.ziangxiao.com/) and [Postdoc Fellow. Jie Gao](https://gaojie058.github.io/) and I have also actively engaged in NLP discussions with [Prof. Jason Eisner(Faculty advisor)](https://www.cs.jhu.edu/~jason/) at the[ Center for Language and Speech Processing (CLSP)](https://www.clsp.jhu.edu/). At the same time, I received ***my Master's degree in Computer Science Engineering*** at [Johns Hopkins University (JHU)](https://www.jhu.edu/) in the 2025 Spring.
+  I am currently an **Incoming PhD** student at Auburn University in the 2026 Fall.
 
-- <span style="color:#FF8C00; font-weight: bold;"> In my Master:</span>\
+- <span style="color:#7D3C98; font-weight: bold;"> In my Master:</span>\
   I received ***my Master's degree in Computer Science Engineering*** at [Johns Hopkins University (JHU)](https://www.jhu.edu/) in the 2025 Spring.
    During my master's study, I am also a **graduate research assistant volunteer** at the Johns Hopkins University, working with[Prof. Ziang Xiao](https://www.ziangxiao.com/) and [Postdoc Fellow. Jie Gao](https://gaojie058.github.io/) and I have also actively engaged in NLP discussions with [Prof. Jason Eisner(Faculty advisor)](https://www.cs.jhu.edu/~jason/) at the[ Center for Language and Speech Processing (CLSP)](https://www.clsp.jhu.edu/). 
 
@@ -13,8 +13,4 @@
   I am also a **Co-founder** of ***SpringTeng AI***, a startup and community based in the China National University Science Park. This community focuses on developing AI data analysis systems, Software Patents Apps for industry technologies, and collaborating with companies such as EACON Driverless and the Chinese Ming Group.
   
 # 🤔 Research interest
-My research interest focuses on the **Natural Language Processing**, **Human-Centered Artificial Intelligence (HCI-AI)**, and **Machine learning**. My work is motivated by fundamental questions
-**RQ1: How to explore the human-centered Social Value Alignment for Computational Social Science datasets, with the goal of understanding and simulating multi-perpective diversity** of human behavior** and **RQ2: How to build text-world modeling for evaluating and enhancing the human-interactive reasoning and simulation ability of LLMs Agent** Specifically, including:
-- <span style="color:red; font-weight: #FF0000;"> **1. Human-Centered Social Value Alignment for Computational Social Science in Subjective coding**:</span> How to achieve the bidirectional Human-AI Alignment to bridge the socio-technical gap in building LLMs for an effective data annotation/collection pipeline and LLMs for mining/analysis more enriched information in NLP subjective data tasks.
-- <span style="color:red; font-weight: #FF0000;"> **2.  Advancing LLMs and Agents for Dynamic World Simulation and Reasoning**:</span> How to evaluate and improve the capabilities of LLMs and agents to understand and interact with humans in the interaction process, like simulating the text-based world.
-- <span style="color:red; font-weight: #FF0000;"> **3. Machine learning**:</span> How to understand data statistics dynamics using math modeling and developing efficient machine learning algorithms for large-scale data analysis and intelligent pattern recognition.
+My research interests focus on **Natural Language Processing** and **Machine Learning**.
