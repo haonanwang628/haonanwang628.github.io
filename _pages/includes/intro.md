@@ -1,6 +1,6 @@
 
 - <span style="color:#FF8C00; font-weight: bold;"> Currently Now:</span>\
-  I am currently an **Incoming PhD** student at Auburn University in the 2026 Fall.
+   I am an **Incoming PhD** student at the Computer Science and Software Engineering at [Auburn University](https://www.auburn.edu/), advised by [Effat Farhana](https://effat.github.io/). 
 
 - <span style="color:#7D3C98; font-weight: bold;"> In my Master:</span>\
   I received ***my Master's degree in Computer Science Engineering*** at [Johns Hopkins University (JHU)](https://www.jhu.edu/) in the 2025 Spring.
