@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Haonan Wang"
-description              : "Graduate Research Assistant Volunteer@JHU."
+description              : "CS Ph.d @Auburn | CS Master@JHU."
 repository               : "haonanwang628.github.io/"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  : code-ZxFK3f4pfb
 author:
   name             : "Haonan Wang"
   avatar           : "images/haonanwang.jpg"
-  bio              : "Johns Hopkins University"
+  bio              : "Auburn University"
   location         : "USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=DBxarZYAAAAJ&hl=en"
-  email            : "hwang298@alumni.jh.edu"
+  email            : "haw0078@auburn.edu"
   researchgate     : "https://www.researchgate.net/profile/Haonan-Wang-44"
   uri              :
   bitbucket        :
