@@ -13,4 +13,4 @@
   I am also a **Co-founder** of ***SpringTeng AI***, a startup and community based in the China National University Science Park. This community focuses on developing AI data analysis systems, Software Patents Apps for industry technologies, and collaborating with companies such as EACON Driverless and the Chinese Ming Group.
   
 # 🤔 Research interest
-My research interests focus on **Natural Language Processing** and **Machine Learning**.
+My research interests focus on **Large Language Models** and **Machine Learning**. Specifically, my current work focuses on **argumentation mining in legal NLP**: 1) extracting structured arguments and reasoning patterns from legal documents by LLM and 2) analyzing the human comprehensibility of the legal text extracted by LLM.
