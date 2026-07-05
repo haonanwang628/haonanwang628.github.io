@@ -1,7 +1,7 @@
 
 # 📖 Educations
 - *2026.08 - in present*, **Ph.d degree**, Computer Science and Software Engineering, Auburn University, Auburn, Alabama, USA.
-  - <img title="Johns Hopkins University" alt="Johns Hopkins University" src="images/jhu.png" style="width:20%; height:auto;">
+  - <img title="Auburn University" alt="Auburn University" src="images/auburn.jpg" style="width:20%; height:auto;">
 - *2023.08 - 2025.1*, **Master degree**, Master of Science in Engineering in Computer Science (MSE), Johns Hopkins University, Baltimore, Maryland, USA.
   - <img title="Johns Hopkins University" alt="Johns Hopkins University" src="images/jhu.png" style="width:20%; height:auto;">
 - *2019.09 - 2023.07*, **B.S. degree**, Information and Computer Science, and Mathematics, Liaoning Technical University, Fuxin, Liaoning, China.
