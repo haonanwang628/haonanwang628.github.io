@@ -1,4 +1,7 @@
 pub:
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Plos one</div><img src='images/wangjiaxiang.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 [IM3HRL: Model-assisted Intrinsically Motivated Modular Hierarchical Reinforcement Learning](https://www.researchsquare.com/article/rs-4299675/v1) \\
 Wei Liu, Jiaxiang Wang, Guangwei Liu, <span style="color:darkblue">**Haonan Wang**</span>.
 
