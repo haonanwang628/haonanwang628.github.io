@@ -58,8 +58,7 @@ Wei liu, Miao Zhong, Guangwei Liu, <span style="color:darkblue">**Haonan Wang**<
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Plos one</div><img src='images/wangjiaxiang.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+
 
 
 
