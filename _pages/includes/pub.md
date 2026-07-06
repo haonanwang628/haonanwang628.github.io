@@ -10,10 +10,8 @@
 
 [PerspectiveCoder-LM: A LLM-based Multi-agent System for Large-scale Corpus Inductive Text Coding Analysis](https://github.com/isle-dev/PerspectiveCoder-LM) \\
 <span style="color:darkblue">**Haonan Wang**</span>
- 
 
-
-[**Code**]() <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+[**Project**]() <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
 </div>
 </div>
@@ -46,7 +44,8 @@
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Plos one</div><img src='images/ningqian.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
+ 
+## 📘Machine Learning and Reinforcement Learning
 [Unsupervised Feature Selection Algorithm Based on L2,p-norm Feature Reconstruction](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318431)\\
 Wei liu, Miao Zhong, Guangwei Liu, <span style="color:darkblue">**Haonan Wang**</span>, Qian Ning.
 
