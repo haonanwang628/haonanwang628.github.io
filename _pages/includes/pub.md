@@ -48,7 +48,7 @@
  
 ## 📘Machine Learning and Reinforcement Learning
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Plos one</div><img src='images/wangjiaxiang.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Plos one</div><img src='images/ningqian.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
  
 [Unsupervised Feature Selection Algorithm Based on L2,p-norm Feature Reconstruction](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318431)\\
