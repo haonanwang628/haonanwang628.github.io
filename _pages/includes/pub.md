@@ -2,8 +2,6 @@
 
 ## 2026
 
-
-
 [PerspectiveCoder-LM: An LLM-based Multi-agent System for Large-scale Corpus Inductive Text Coding Analysis](https://github.com/isle-dev/PerspectiveCoder-LM) \\
 <span style="color:darkblue">**Haonan Wang**</span>,Ziang Xiao,Jie Gao.
 
@@ -37,13 +35,6 @@ PerspectiveCoder-LM is an LLM-based multi-perspective agent system for large-sca
 
 </details>
 
- 
-
-
-<details>
-<summary><strong>Abstract</strong></summary>
-
-<details>
  
 ## 2025
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/Screenshot 2025-10-27 at 12.32.30.png' alt="sym" width="100%"></div></div>
