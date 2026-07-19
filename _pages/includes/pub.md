@@ -1,30 +1,24 @@
 # 🤔 Publications 
 
-## 📕Large Language Models(LLMs) Reasoning
-
 ## 2026
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Project</div><img src='images/perspectivecoder.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+
 
 [PerspectiveCoder-LM: An LLM-based Multi-agent System for Large-scale Corpus Inductive Text Coding Analysis](https://github.com/isle-dev/PerspectiveCoder-LM) \\
 <span style="color:darkblue">**Haonan Wang**</span>,Ziang Xiao,Jie Gao.
 
 [**Project**](https://github.com/isle-dev/PerspectiveCoder-LM) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 - **Abstract**: PerspectiveCoder-LM is an LLM-based multi-perspective agent system for large-scale inductive coding analysis of qualitative corpora. The system simulates multiple analytical perspectives through role-based agents, enabling LLMs to collaboratively generate, review, and refine qualitative codebooks. Given an input corpus, PerspectiveCoder-LM first produces positionality statements for different role agents, then assigns coding tasks to coder agents to generate initial codes and codebooks. Reviewer agents identify agreements and disagreements across generated codebooks, while discussion and judge agents further resolve conflicts and consolidate the final coding results. This project aims to support scalable and transparent qualitative analysis by combining multi-agent collaboration, perspective-aware reasoning, and structured codebook generation. It explores how LLMs can assist researchers in inductive coding while preserving interpretability, disagreement analysis, and multi-perspective reasoning.
-</div>
-</div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/fromnoise.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+
+
 
 [From Noise to Nuance: Enriching Subjective Data Interpretation through Qualitative Analysis](https://aclanthology.org/2025.hcinlp-1.20/) \\
  Ruyuan Wan,<span style="color:darkblue">**Haonan Wang**</span>,Ting-Hao Kenneth Huang,Jie Gao.
  
 [The 4th HCI + NLP Workshop at EMNLP, 2025](https://sites.google.com/view/hciandnlp/home).
 - **Abstract**: Subjective data annotation (SDA) in NLP should treat annotator disagreement as a valuable source of insight rather than noise. Drawing on qualitative data analysis (QDA), we compare the two methodologies and highlight differences in human roles, workflows, and evaluation. We propose five recommendations to make SDA more interpretive and demonstrate these ideas through a reinforcement learning from human feedback (RLHF) case study, advocating for a more interdisciplinary approach to understanding subjective data.
-</div>
-</div>
+
 
 ## 2025
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/Screenshot 2025-10-27 at 12.32.30.png' alt="sym" width="100%"></div></div>
@@ -41,7 +35,7 @@
 </div>
 </div>
 
- 
+## 2024
 ## 📘Machine Learning and Reinforcement Learning
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Plos one</div><img src='images/ningqian.png' alt="sym" width="100%"></div></div>
