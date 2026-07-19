@@ -6,13 +6,6 @@
 
 [PerspectiveCoder-LM: An LLM-based Multi-agent System for Large-scale Corpus Inductive Text Coding Analysis](https://github.com/isle-dev/PerspectiveCoder-LM) \\
 <span style="color:darkblue">**Haonan Wang**</span>,Ziang Xiao,Jie Gao.
-<details>
-<summary><strong>Abstract</strong></summary>
-
-PerspectiveCoder-LM is an LLM-based multi-perspective agent system for large-scale inductive coding analysis of qualitative corpora. The system simulates multiple analytical perspectives through role-based agents, enabling LLMs to collaboratively generate, review, and refine qualitative codebooks. Given an input corpus, PerspectiveCoder-LM first produces positionality statements for different role agents, then assigns coding tasks to coder agents to generate initial codes and codebooks. Reviewer agents identify agreements and disagreements across generated codebooks, while discussion and judge agents further resolve conflicts and consolidate the final coding results. This project aims to support scalable and transparent qualitative analysis by combining multi-agent collaboration, perspective-aware reasoning, and structured codebook generation. It explores how LLMs can assist researchers in inductive coding while preserving interpretability, disagreement analysis, and multi-perspective reasoning.
-
-</details>
-[**Project**](https://github.com/isle-dev/PerspectiveCoder-LM) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
 <details>
 <summary>
