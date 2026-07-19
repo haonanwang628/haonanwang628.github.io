@@ -59,9 +59,7 @@ PerspectiveCoder-LM is an LLM-based multi-perspective agent system for large-sca
 
 </details>
 
-
 ## 2024
-## 📘Machine Learning and Reinforcement Learning
 
 [Unsupervised Feature Selection Algorithm Based on L2,p-norm Feature Reconstruction](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318431)\\
 Wei liu, Miao Zhong, Guangwei Liu, <span style="color:darkblue">**Haonan Wang**</span>, Qian Ning.
@@ -81,15 +79,20 @@ Wei liu, Miao Zhong, Guangwei Liu, <span style="color:darkblue">**Haonan Wang**<
 
 </details>
 
-- <span style="color:green; font-weight:bold;">[Journal]</span> 
--- ``Advances in AI and ML`` **"Research on geometric figure classification algorithm based on Deep Learning"**  
-  Ruiyang Wang,<span style="color:darkblue">**Haonan Wang**</span>,Junfeng Sun,Mingjia Zhao,Meng Liu.\
-Advances in Artificial Intelligence and Machine Learning, 2022. [[pdf]](https://arxiv.org/abs/2404.16561),
+## 2022
+
+[Research on geometric figure classification algorithm based on Deep Learning](https://arxiv.org/abs/2404.16561)\\
+Ruiyang Wang,<span style="color:darkblue">**Haonan Wang**</span>,Junfeng Sun,Mingjia Zhao,Meng Liu.\
+Advances in Artificial Intelligence and Machine Learning, 2022.
+
+[Research status and future prospects of machine learning algorithms in big data analysis](https://www.clausiuspress.com/article/1212.html)\\
+ <span style="color:darkblue">**Haonan Wang**</span>.\
+Scientific Journal of Intelligent Systems Research,2021.
 
 - <span style="color:green; font-weight:bold;">[Journal]</span> 
 -- ``Scientific Journal`` **"Research status and future prospects of machine learning algorithm in big data analysis"**  
   <span style="color:darkblue">**Haonan Wang**</span>.\
-Scientific Journal of Intelligent Systems Research,2021. [[pdf]](https://www.clausiuspress.com/article/1212.html),
+Scientific Journal of Intelligent Systems Research,2021.
 
 
 # 🖥 Software 
