@@ -8,7 +8,6 @@
 <details>
 <summary>
   <strong>Abstract</strong>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/isle-dev/PerspectiveCoder-LM"><strong>Project</strong></a>
 </summary>
 
