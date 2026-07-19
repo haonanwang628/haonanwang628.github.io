@@ -1,11 +1,6 @@
-# 🤔 Ongoing Projects
+# 🤔 Publications 
 
-# 👇 Select Publications 
-
-## 📔Large Language Models(LLMs) Reasoning and Legal AI 
-
-
-## 📕Large Language Models(LLMs) and Human-Centered AI 
+## 📕Large Language Models(LLMs) Reasoning
 
 ## 2026
 
