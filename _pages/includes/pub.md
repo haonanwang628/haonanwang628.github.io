@@ -21,9 +21,12 @@ PerspectiveCoder-LM is an LLM-based multi-perspective agent system for large-sca
  Ruyuan Wan,<span style="color:darkblue">**Haonan Wang**</span>,Ting-Hao Kenneth Huang,Jie Gao.
  
 [The 4th HCI + NLP Workshop at EMNLP, 2025](https://sites.google.com/view/hciandnlp/home).
-- **Abstract**: Subjective data annotation (SDA) in NLP should treat annotator disagreement as a valuable source of insight rather than noise. Drawing on qualitative data analysis (QDA), we compare the two methodologies and highlight differences in human roles, workflows, and evaluation. We propose five recommendations to make SDA more interpretive and demonstrate these ideas through a reinforcement learning from human feedback (RLHF) case study, advocating for a more interdisciplinary approach to understanding subjective data.
 
-
+<details>
+<summary><strong>Abstract</strong></summary>
+ Subjective data annotation (SDA) in NLP should treat annotator disagreement as a valuable source of insight rather than noise. Drawing on qualitative data analysis (QDA), we compare the two methodologies and highlight differences in human roles, workflows, and evaluation. We propose five recommendations to make SDA more interpretive and demonstrate these ideas through a reinforcement learning from human feedback (RLHF) case study, advocating for a more interdisciplinary approach to understanding subjective data.
+<details>
+ 
 ## 2025
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/Screenshot 2025-10-27 at 12.32.30.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
