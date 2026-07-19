@@ -23,15 +23,26 @@ PerspectiveCoder-LM is an LLM-based multi-perspective agent system for large-sca
 
 [From Noise to Nuance: Enriching Subjective Data Interpretation through Qualitative Analysis](https://aclanthology.org/2025.hcinlp-1.20/) \\
  Ruyuan Wan,<span style="color:darkblue">**Haonan Wang**</span>,Ting-Hao Kenneth Huang,Jie Gao.
+[The 4th HCI + NLP Workshop at EMNLP, 2025](https://sites.google.com/view/hciandnlp/home).
+<details>
+<summary>
+  <strong>Abstract</strong>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://aclanthology.org/2025.hcinlp-1.20/"><strong>Paper</strong></a>
+</summary>
 
+<p>
+ Subjective data annotation (SDA) in NLP should treat annotator disagreement as a valuable source of insight rather than noise. Drawing on qualitative data analysis (QDA), we compare the two methodologies and highlight differences in human roles, workflows, and evaluation. We propose five recommendations to make SDA more interpretive and demonstrate these ideas through a reinforcement learning from human feedback (RLHF) case study, advocating for a more interdisciplinary approach to understanding subjective data.
+</p>
 
+</details>
 
  
-[The 4th HCI + NLP Workshop at EMNLP, 2025](https://sites.google.com/view/hciandnlp/home).
+
 
 <details>
 <summary><strong>Abstract</strong></summary>
- Subjective data annotation (SDA) in NLP should treat annotator disagreement as a valuable source of insight rather than noise. Drawing on qualitative data analysis (QDA), we compare the two methodologies and highlight differences in human roles, workflows, and evaluation. We propose five recommendations to make SDA more interpretive and demonstrate these ideas through a reinforcement learning from human feedback (RLHF) case study, advocating for a more interdisciplinary approach to understanding subjective data.
+
 <details>
  
 ## 2025
