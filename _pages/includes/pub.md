@@ -63,29 +63,23 @@ PerspectiveCoder-LM is an LLM-based multi-perspective agent system for large-sca
 ## 2024
 ## 📘Machine Learning and Reinforcement Learning
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Plos one</div><img src='images/ningqian.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
- 
 [Unsupervised Feature Selection Algorithm Based on L2,p-norm Feature Reconstruction](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318431)\\
 Wei liu, Miao Zhong, Guangwei Liu, <span style="color:darkblue">**Haonan Wang**</span>, Qian Ning.
-
 [**Plos one**]().
-[**Code**](https://github.com/haonanwang628/UnsupervisedFSA) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
-- **Abstract**: NFRFS (an unsupervised feature selection algorithm based on L2, p-norm feature reconstruction) proposes a more robust feature selection method, aiming to address the problem that traditional algorithms are sensitive to noise and outliers. The L2, p-norm is used to enhance robustness, the integrative adaptive graph learning is employed to maintain the local structure of the data, and the inner product sparse regularization is utilized to select lower-level reference features. Experimental results on 14 benchmark datasets show that NRFFS significantly matches the existing state-of-the-art methods in Bluetooth performance, demonstrating its effectiveness and practicality in high-dimensional data processing.
-</div>
-</div>
 
+<details>
+<summary>
+  <strong>Abstract</strong>
+  &nbsp;&nbsp;&nbsp;
+   <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318431"><strong>Paper</strong></a>
+   <a href="https://github.com/haonanwang628/UnsupervisedFSA"><strong>Code</strong></a>
+</summary>
 
-# 📝 All Publications 
-- <span style="color: red; font-weight:bold;">[Dissertation-Project]</span> 
--- ``Master in Computer Science`` **"Unveiling Statistical Relationships Among Popular LLM Benchmarks: A Quantitative Framework"**\
-    <span style="color:darkblue">**Haonan Wang**</span>,Ziang Xiao.\
-Johns Hopkins University,2024.[[pdf]](TBD),
+<p>
+  NFRFS (an unsupervised feature selection algorithm based on L2, p-norm feature reconstruction) proposes a more robust feature selection method, aiming to address the problem that traditional algorithms are sensitive to noise and outliers. The L2, p-norm is used to enhance robustness, the integrative adaptive graph learning is employed to maintain the local structure of the data, and the inner product sparse regularization is utilized to select lower-level reference features. Experimental results on 14 benchmark datasets show that NRFFS significantly matches the existing state-of-the-art methods in Bluetooth performance, demonstrating its effectiveness and practicality in high-dimensional data processing.
+</p>
 
-- <span style="color: red; font-weight:bold;">[Dissertation-Project]</span> 
--- ``B.S in Information, Computer Science, and Math`` **"Research on the application of human action recognition based on LSTM-CNN"**\
-    <span style="color:darkblue">**Haonan Wang**</span>,Wei Liu.\
-Liaoning Technology University,2023.[[pdf]](TBD),
+</details>
 
 - <span style="color:green; font-weight:bold;">[Journal]</span> 
 -- ``Advances in AI and ML`` **"Research on geometric figure classification algorithm based on Deep Learning"**  
