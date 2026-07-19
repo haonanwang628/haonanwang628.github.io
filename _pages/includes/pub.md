@@ -2,11 +2,11 @@
 
 ## 2026
 
-[Position:Large Language Models are Insufficient for Complex Real-World Legal Argumentation Mining]()\\
+[7][Position:Large Language Models are Insufficient for Complex Real-World Legal Argumentation Mining]()\\
 <span style="color:darkblue">**Haonan Wang**</span>, Mingjia Zhao, Sungbin Park, Vitor Ribas Moura, Effat Farhana.
 ## 2025
 
-[PerspectiveCoder-LM: An LLM-based Multi-agent System for Large-scale Corpus Inductive Text Coding Analysis](https://github.com/isle-dev/PerspectiveCoder-LM) \\
+[6][PerspectiveCoder-LM: An LLM-based Multi-agent System for Large-scale Corpus Inductive Text Coding Analysis](https://github.com/isle-dev/PerspectiveCoder-LM) \\
 <span style="color:darkblue">**Haonan Wang**</span>,Ziang Xiao,Jie Gao.
 
 <details>
@@ -22,7 +22,7 @@ PerspectiveCoder-LM is an LLM-based multi-perspective agent system for large-sca
 
 </details>
 
-[From Noise to Nuance: Enriching Subjective Data Interpretation through Qualitative Analysis](https://aclanthology.org/2025.hcinlp-1.20/) \\
+[5][From Noise to Nuance: Enriching Subjective Data Interpretation through Qualitative Analysis](https://aclanthology.org/2025.hcinlp-1.20/) \\
  Ruyuan Wan,<span style="color:darkblue">**Haonan Wang**</span>,Ting-Hao Kenneth Huang,Jie Gao.
  
 [The 4th HCI + NLP Workshop at EMNLP, 2025](https://sites.google.com/view/hciandnlp/home).
@@ -40,7 +40,7 @@ PerspectiveCoder-LM is an LLM-based multi-perspective agent system for large-sca
 </details>
 
 
-[ByteSized32Refactored: Towards an Extensible Interactive Text Games Corpus for LLM World Modeling and Evaluation](https://arxiv.org/abs/2509.23979) \\
+[4][ByteSized32Refactored: Towards an Extensible Interactive Text Games Corpus for LLM World Modeling and Evaluation](https://arxiv.org/abs/2509.23979) \\
 <span style="color:darkblue">**Haonan Wang**</span>, Junfeng Sun, Xindi Yuan, Ruoyao Wang, Ziang Xiao.
 
 [The 5th WordPlay Workshop at EMNLP, 2025](https://wordplay-workshop.github.io/modern/#:~:text=Overview,-Date%20and%20time&text=This%20workshop%20focused%20on%20exploring,but%20not%20limited%20to%20storytelling.).
@@ -63,7 +63,7 @@ PerspectiveCoder-LM is an LLM-based multi-perspective agent system for large-sca
 
 ## 2024
 
-[Unsupervised Feature Selection Algorithm Based on L2,p-norm Feature Reconstruction](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318431)\\
+[3][Unsupervised Feature Selection Algorithm Based on L2,p-norm Feature Reconstruction](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318431)\\
 Wei liu, Miao Zhong, Guangwei Liu, <span style="color:darkblue">**Haonan Wang**</span>, Qian Ning.
 [**Plos one**]().
 
@@ -83,11 +83,11 @@ Wei liu, Miao Zhong, Guangwei Liu, <span style="color:darkblue">**Haonan Wang**<
 
 ## 2022
 
-[Research on geometric figure classification algorithm based on Deep Learning](https://arxiv.org/abs/2404.16561)\\
+[2][Research on geometric figure classification algorithm based on Deep Learning](https://arxiv.org/abs/2404.16561)\\
 Ruiyang Wang,<span style="color:darkblue">**Haonan Wang**</span>,Junfeng Sun,Mingjia Zhao,Meng Liu.\
 Advances in Artificial Intelligence and Machine Learning, 2022.
 
-[Research status and future prospects of machine learning algorithms in big data analysis](https://www.clausiuspress.com/article/1212.html)\\
+[1][Research status and future prospects of machine learning algorithms in big data analysis](https://www.clausiuspress.com/article/1212.html)\\
  <span style="color:darkblue">**Haonan Wang**</span>.\
 Scientific Journal of Intelligent Systems Research,2021.
 
