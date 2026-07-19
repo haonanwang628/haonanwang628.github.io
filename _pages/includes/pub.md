@@ -207,6 +207,123 @@ Advances in Artificial Intelligence and Machine Learning, 2022.
 Scientific Journal of Intelligent Systems Research,2021.
 
 
+
+## 2025
+
+<div class="publication-item">
+
+  <div class="publication-title">
+    [6] <a href="https://github.com/isle-dev/PerspectiveCoder-LM">PerspectiveCoder-LM: An LLM-based Multi-agent System for Large-scale Corpus Inductive Text Coding Analysis</a>
+  </div>
+
+  <div class="publication-authors">
+    <span style="color: darkblue;"><strong>Haonan Wang</strong></span>, Ziang Xiao, Jie Gao.
+  </div>
+
+  <details class="publication-details">
+    <summary>
+      <a href="https://github.com/isle-dev/PerspectiveCoder-LM"><strong>Project</strong></a>
+      <span class="abstract-toggle"><strong>Abstract</strong></span>
+    </summary>
+
+    <p>
+      PerspectiveCoder-LM is an LLM-based multi-perspective agent system for large-scale inductive coding analysis of qualitative corpora. The system simulates multiple analytical perspectives through role-based agents, enabling LLMs to collaboratively generate, review, and refine qualitative codebooks. Given an input corpus, PerspectiveCoder-LM first produces positionality statements for different role agents, then assigns coding tasks to coder agents to generate initial codes and codebooks. Reviewer agents identify agreements and disagreements across generated codebooks, while discussion and judge agents further resolve conflicts and consolidate the final coding results. This project aims to support scalable and transparent qualitative analysis by combining multi-agent collaboration, perspective-aware reasoning, and structured codebook generation. It explores how LLMs can assist researchers in inductive coding while preserving interpretability, disagreement analysis, and multi-perspective reasoning.
+    </p>
+  </details>
+
+</div>
+
+
+<div class="publication-item">
+
+  <div class="publication-title">
+    [5] <a href="https://aclanthology.org/2025.hcinlp-1.20/">From Noise to Nuance: Enriching Subjective Data Interpretation through Qualitative Analysis</a>
+  </div>
+
+  <div class="publication-authors">
+    Ruyuan Wan, <span style="color: darkblue;"><strong>Haonan Wang</strong></span>, Ting-Hao Kenneth Huang, Jie Gao.
+  </div>
+
+  <div class="publication-venue">
+    <a href="https://sites.google.com/view/hciandnlp/home">The 4th HCI + NLP Workshop at EMNLP, 2025</a>.
+  </div>
+
+  <details class="publication-details">
+    <summary>
+      <a href="https://aclanthology.org/2025.hcinlp-1.20/"><strong>Paper</strong></a>
+      <span class="abstract-toggle"><strong>Abstract</strong></span>
+    </summary>
+
+    <p>
+      Subjective data annotation (SDA) in NLP should treat annotator disagreement as a valuable source of insight rather than noise. Drawing on qualitative data analysis (QDA), we compare the two methodologies and highlight differences in human roles, workflows, and evaluation. We propose five recommendations to make SDA more interpretive and demonstrate these ideas through a reinforcement learning from human feedback (RLHF) case study, advocating for a more interdisciplinary approach to understanding subjective data.
+    </p>
+  </details>
+
+</div>
+
+
+<div class="publication-item">
+
+  <div class="publication-title">
+    [4] <a href="https://arxiv.org/abs/2509.23979">ByteSized32Refactored: Towards an Extensible Interactive Text Games Corpus for LLM World Modeling and Evaluation</a>
+  </div>
+
+  <div class="publication-authors">
+    <span style="color: darkblue;"><strong>Haonan Wang</strong></span>, Junfeng Sun, Xindi Yuan, Ruoyao Wang, Ziang Xiao.
+  </div>
+
+  <div class="publication-venue">
+    <a href="https://wordplay-workshop.github.io/modern/">The 5th WordPlay Workshop at EMNLP, 2025</a>.
+  </div>
+
+  <details class="publication-details">
+    <summary>
+      <a href="https://arxiv.org/abs/2509.23979"><strong>Paper</strong></a>
+      <a href="https://github.com/isle-dev/BYTESIZED32-Refactored/"><strong>Code</strong></a>
+      <a href="https://docs.google.com/presentation/d/1fkBqKv6eUosixZW7ZpW51AjUzKbA_JZajmzdo4BR7Zc/edit"><strong>Slides</strong></a>
+      <a href="assets/paper/bytesized32Refactored.mp4"><strong>Poster</strong></a>
+      <span class="abstract-toggle"><strong>Abstract</strong></span>
+    </summary>
+
+    <p>
+      ByteSized32Refactored presents a modular and extensible redesign of the original ByteSized32 interactive text games corpus to advance research on LLM world modeling and evaluation. By introducing a unified foundation library that abstracts common game logic into reusable base classes, the total codebase is reduced by half while enabling easier expansion to new environments. Experiments with GPT-4o and GPT-5 demonstrate that the refactored structure improves code quality and extensibility while revealing new challenges for hierarchical reasoning in LLMs. This work establishes a scalable platform for studying interactive reasoning, adaptability, and generalization in language models.
+    </p>
+  </details>
+
+</div>
+
+
+## 2024
+
+<div class="publication-item">
+
+  <div class="publication-title">
+    [3] <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318431">Unsupervised Feature Selection Algorithm Based on L2,p-norm Feature Reconstruction</a>
+  </div>
+
+  <div class="publication-authors">
+    Wei Liu, Miao Zhong, Guangwei Liu, <span style="color: darkblue;"><strong>Haonan Wang</strong></span>, Qian Ning.
+  </div>
+
+  <div class="publication-venue">
+    <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318431">PLOS ONE</a>.
+  </div>
+
+  <details class="publication-details">
+    <summary>
+      <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318431"><strong>Paper</strong></a>
+      <a href="https://github.com/haonanwang628/UnsupervisedFSA"><strong>Code</strong></a>
+      <span class="abstract-toggle"><strong>Abstract</strong></span>
+    </summary>
+
+    <p>
+      NFRFS, an unsupervised feature selection algorithm based on L2,p-norm feature reconstruction, proposes a robust feature selection method designed to address the sensitivity of traditional algorithms to noise and outliers. The L2,p-norm is used to enhance robustness, integrative adaptive graph learning is employed to preserve the local structure of the data, and inner-product sparse regularization is used to select representative features. Experimental results on 14 benchmark datasets demonstrate the effectiveness and practicality of the proposed method for high-dimensional data processing.
+    </p>
+  </details>
+
+</div>
+
+
 # 🖥 Software 
 ## Software Patents :
 *---🙏Thanks to the software application development collaboration with all Professors and Graduate Assistants from the **SpringTeng AI** and Liaoning Technical University, Liaoning University, and Qinghua University, being funded through our collaboration with **Chinese central State-owned Shenhua Ming Group Ltd and Zijin Ming Group Ltd enterprises**.*\
