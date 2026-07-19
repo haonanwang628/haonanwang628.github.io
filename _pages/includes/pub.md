@@ -1,6 +1,6 @@
 # 🤔 Publications 
 
-## 2026
+## 2025
 
 [PerspectiveCoder-LM: An LLM-based Multi-agent System for Large-scale Corpus Inductive Text Coding Analysis](https://github.com/isle-dev/PerspectiveCoder-LM) \\
 <span style="color:darkblue">**Haonan Wang**</span>,Ziang Xiao,Jie Gao.
@@ -18,7 +18,6 @@ PerspectiveCoder-LM is an LLM-based multi-perspective agent system for large-sca
 
 </details>
 
-
 [From Noise to Nuance: Enriching Subjective Data Interpretation through Qualitative Analysis](https://aclanthology.org/2025.hcinlp-1.20/) \\
  Ruyuan Wan,<span style="color:darkblue">**Haonan Wang**</span>,Ting-Hao Kenneth Huang,Jie Gao.
 [The 4th HCI + NLP Workshop at EMNLP, 2025](https://sites.google.com/view/hciandnlp/home).
@@ -35,8 +34,6 @@ PerspectiveCoder-LM is an LLM-based multi-perspective agent system for large-sca
 
 </details>
 
- 
-## 2025
 
 [ByteSized32Refactored: Towards an Extensible Interactive Text Games Corpus for LLM World Modeling and Evaluation](https://arxiv.org/abs/2509.23979) \\
 <span style="color:darkblue">**Haonan Wang**</span>, Junfeng Sun, Xindi Yuan, Ruoyao Wang, Ziang Xiao.
@@ -74,7 +71,7 @@ Wei liu, Miao Zhong, Guangwei Liu, <span style="color:darkblue">**Haonan Wang**<
 </summary>
 
 <p>
-  NFRFS (an unsupervised feature selection algorithm based on L2, p-norm feature reconstruction) proposes a more robust feature selection method, aiming to address the problem that traditional algorithms are sensitive to noise and outliers. The L2, p-norm is used to enhance robustness, the integrative adaptive graph learning is employed to maintain the local structure of the data, and the inner product sparse regularization is utilized to select lower-level reference features. Experimental results on 14 benchmark datasets show that NRFFS significantly matches the existing state-of-the-art methods in Bluetooth performance, demonstrating its effectiveness and practicality in high-dimensional data processing.
+  NFRFS (an unsupervised feature selection algorithm based on L2, p-norm feature reconstruction) proposes a more robust feature selection method, aiming to address the problem that traditional algorithms are sensitive to noise and outliers. The L2 p-norm is used to enhance robustness, the integrative adaptive graph learning is employed to maintain the local structure of the data, and the inner product sparse regularization is utilized to select lower-level reference features. Experimental results on 14 benchmark datasets show that NRFFS significantly matches the existing state-of-the-art methods in Bluetooth performance, demonstrating its effectiveness and practicality in high-dimensional data processing.
 </p>
 
 </details>
@@ -87,11 +84,6 @@ Advances in Artificial Intelligence and Machine Learning, 2022.
 
 [Research status and future prospects of machine learning algorithms in big data analysis](https://www.clausiuspress.com/article/1212.html)\\
  <span style="color:darkblue">**Haonan Wang**</span>.\
-Scientific Journal of Intelligent Systems Research,2021.
-
-- <span style="color:green; font-weight:bold;">[Journal]</span> 
--- ``Scientific Journal`` **"Research status and future prospects of machine learning algorithm in big data analysis"**  
-  <span style="color:darkblue">**Haonan Wang**</span>.\
 Scientific Journal of Intelligent Systems Research,2021.
 
 
