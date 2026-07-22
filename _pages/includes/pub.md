@@ -1,5 +1,4 @@
 # 🤔 Publications 
-# 😃 Publications2
 
 <style>
   .pub-filter-btn {
@@ -188,7 +187,7 @@ function showSection(type) {
 
 
 # 🖥 Software and Competition Awards
-## [1]Software Patents :
+## Software Patents :
 *---🙏Thanks to the software application development collaboration with all Professors and Graduate Assistants from the **SpringTeng AI** and Liaoning Technical University, Liaoning University, and Qinghua University, being funded through our collaboration with **Chinese central State-owned Shenhua Ming Group Ltd and Zijin Ming Group Ltd enterprises**.*\
 [P.1] <span style="color:darkblue">**Haonan Wang**</span>, Mingjia, Zhao, et al. (2022). **Artificial intelligence robot programming interactive control
 system**. PRC Software Copyright Patent, Patent No. 2022SR1053901.\
@@ -207,7 +206,7 @@ learning**. PRC Software Copyright Patent, Patent No. 2022SR1052428.\
 [P.8] Jiawei, Zhang, Pengyu, Cai, <span style="color:darkblue">**Haonan Wang**</span>, et al. (2021). **Staff check-in face recognition system**.PRC Software
 Copyright. PRC Software Copyright Patent, Patent No. 2021SR0699354.
 
-## [2]Competition Awards(Mathematical Modeling and Computer Science Design):
+## Competition Awards(Mathematical Modeling and Computer Science Design):
 • 1st Place, 12th Mathor Cup College Mathematical Modeling Challenge 2022\
 National-level award in China\
 • 1st Place, Liaoning Mathematical Modeling Contest 2022\
