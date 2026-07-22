@@ -1,5 +1,91 @@
 # 🤔 Publications 
 
+# 😃 Publications
+
+<!-- 1. 顶部切换按钮菜单 -->
+<div style="margin-bottom: 20px; font-size: 16px;">
+  <a href="javascript:void(0)" onclick="filterPapers('date')" id="btn-date" style="font-weight: bold;">by date:all</a> / 
+  <a href="javascript:void(0)" onclick="filterPapers('topic')" id="btn-topic">by topic</a> / 
+  <a href="javascript:void(0)" onclick="filterPapers('featured')" id="btn-featured">featured</a>
+</div>
+
+<!-- 2. 动态渲染内容的容器 -->
+<div id="paper-container"></div>
+
+<!-- 3. 数据与逻辑脚本 -->
+<script>
+// 将你的论文数据整理为 JSON 数组
+const papers = [
+  {
+    title: "Position: Large Language Models are Insufficient for Complex Real-World Legal Argumentation Mining",
+    authors: "<strong>Haonan Wang</strong>, Mingjia Zhao, Sungbin Park, Vitor Ribas Moura, Effat Farhana.",
+    venue: "arXiv 2026",
+    year: 2026,
+    topic: "Legal AI",
+    featured: false,
+    link: "#"
+  },
+  {
+    title: "PerspectiveCoder-LM: An LLM-based Multi-agent System...",
+    authors: "<strong>Haonan Wang</strong>, Ziang Xiao, Jie Gao.",
+    venue: "arXiv 2025",
+    year: 2025,
+    topic: "Multi-Agent",
+    featured: true,
+    link: "https://github.com/isle-dev/PerspectiveCoder-LM",
+    abstract: "PerspectiveCoder-LM is an LLM-based multi-perspective agent system..."
+  }
+  // 在这里继续添加你的其他论文...
+];
+
+function filterPapers(type) {
+  const container = document.getElementById('paper-container');
+  container.innerHTML = '';
+
+  if (type === 'date') {
+    // 按年份分组
+    const years = [...new Set(papers.map(p => p.year))].sort((a, b) => b - a);
+    years.forEach(year => {
+      let html = `<h2>${year}</h2>`;
+      const list = papers.filter(p => p.year === year);
+      html += renderList(list);
+      container.innerHTML += html;
+    });
+  } else if (type === 'topic') {
+    // 按主题分组
+    const topics = [...new Set(papers.map(p => p.topic))];
+    topics.forEach(topic => {
+      let html = `<h2>${topic}</h2>`;
+      const list = papers.filter(p => p.topic === topic);
+      html += renderList(list);
+      container.innerHTML += html;
+    });
+  } else if (type === 'featured') {
+    // 精选
+    const list = papers.filter(p => p.featured);
+    container.innerHTML = `<h2>Featured Publications</h2>` + renderList(list);
+  }
+}
+
+function renderList(list) {
+  return list.map(item => `
+    <div style="margin-bottom: 15px;">
+      <div><a href="${item.link}"><strong>[${item.title}]</strong></a></div>
+      <div>&nbsp;&nbsp;&nbsp;&nbsp;${item.authors}</div>
+      ${item.abstract ? `
+        <details style="margin-left: 20px;">
+          <summary><strong>Abstract</strong></summary>
+          <p>${item.abstract}</p>
+        </details>
+      ` : ''}
+    </div>
+  `).join('');
+}
+
+// 页面首次加载时渲染默认按日期
+filterPapers('date');
+</script>
+
 ## 2026
 
 [Position:Large Language Models are Insufficient for Complex Real-World Legal Argumentation Mining]()\\
