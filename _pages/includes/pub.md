@@ -5,39 +5,40 @@
   .pub-filter-btn {
     background: none;
     border: none;
-    color: #2b6cb0;
+    color: #2563eb;
     padding: 0;
     font: inherit;
     cursor: pointer;
     text-decoration: underline;
   }
   .pub-filter-btn:hover {
-    color: #1a365d;
+    color: #1d4ed8;
   }
   
-  /* 1. 文章标题设为纯文本黑色（不可点击跳转） */
+  /* 1. 文章标题：深灰黑（比纯黑更高级，不刺眼） */
   .pub-title {
-    color: #222222;
+    color: #111827;
     font-size: 15px;
+    font-weight: bold;
   }
 
-  /* 2. 底部元信息（会议名与链接）区分 */
+  /* 2. 底部元信息栏 */
   .pub-meta {
     margin-left: 16px;
     margin-top: 4px;
     font-size: 14px;
-    color: #666; /* 分隔符 / 的颜色 */
+    color: #6b7280; /* 斜杠 / 用优雅的浅灰色 */
   }
   
   /* 会议/期刊名称：黑色 + 加粗 */
   .venue-title {
     font-weight: bold;
-    color: #222222;
+    color: #111827;
   }
   
-  /* 资源链接（Paper/Code/Video等）：蓝色可点击 */
+  /* 资源链接（Paper/Code）：标准学术蓝 */
   .pub-meta a {
-    color: #2b6cb0;
+    color: #2563eb;
     text-decoration: none;
   }
   .pub-meta a:hover {
