@@ -100,7 +100,7 @@
           {% endif %}
 
           {% if paper.project_url %}
-            {% capture b %}<a href="{{ paper.project_url }}" target="_blank">Project-website</a>{% endcapture %}{% assign links = links | push: b %}{% endif %}
+            {% capture b %}<a href="{{ paper.project_url }}" target="_blank">Project-website</a>{% endcapture %}
             {% assign links = links | push: b %}
           {% endif %}
 
