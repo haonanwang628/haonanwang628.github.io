@@ -1,12 +1,11 @@
 # 🤔 Publications 
 # 😃 Publications2
 
-<!-- 1. 顶部切换按钮菜单（防 about:blank 优化版） -->
 <style>
   .pub-filter-btn {
     background: none;
     border: none;
-    color: #2b6cb0; /* 链接经典蓝色 */
+    color: #2b6cb0;
     padding: 0;
     font: inherit;
     cursor: pointer;
@@ -15,8 +14,32 @@
   .pub-filter-btn:hover {
     color: #1a365d;
   }
+  .pub-title a {
+    color: #2b6cb0;
+    text-decoration: none;
+  }
+  .pub-title a:hover {
+    text-decoration: underline;
+  }
+  .pub-meta {
+    margin-left: 16px;
+    margin-top: 4px;
+    font-size: 14px;
+    color: #2b6cb0;
+  }
+  .pub-meta a {
+    color: #2b6cb0;
+    text-decoration: none;
+  }
+  .pub-meta a:hover {
+    text-decoration: underline;
+  }
+  .venue-title {
+    font-weight: bold;
+  }
 </style>
 
+<!-- 1. 顶部切换菜单 -->
 <div style="margin-bottom: 20px; font-size: 16px;">
   <button type="button" class="pub-filter-btn" onclick="showSection('date')" id="btn-date" style="font-weight: bold;">by date:all</button> / 
   <button type="button" class="pub-filter-btn" onclick="showSection('topic')" id="btn-topic">by topic</button> / 
@@ -31,31 +54,53 @@
     {% assign year_papers = site.data.publications | where: "year", y %}
     {% for paper in year_papers %}
       <div style="margin-bottom: 20px;">
-        <div style="font-size: 15px;">
-          <a href="{{ paper.paper_url }}" target="_blank"><strong>[{{ paper.title }}]</strong></a>
+        <!-- 蓝字带中括号标题 -->
+        <div class="pub-title" style="font-size: 15px;">
+          <a href="{{ paper.paper_url | default: '#' }}" target="_blank"><strong>[{{ paper.title }}]</strong></a>
         </div>
+        
+        <!-- 作者 -->
         <div style="margin-top: 4px;">
           &nbsp;&nbsp;&nbsp;&nbsp;{{ paper.authors }}
         </div>
-        {% if paper.abstract or paper.project_url %}
-          <details style="margin-left: 16px; margin-top: 6px;">
-            <summary>
-              <strong>Abstract</strong>
-              {% if paper.project_url %}
-                &nbsp;&nbsp;|&nbsp;&nbsp;<a href="{{ paper.project_url }}" target="_blank"><strong>Project</strong></a>
-              {% endif %}
-            </summary>
-            {% if paper.abstract %}
-              <p style="margin-top: 8px; font-size: 14px; color: #444; line-height: 1.5;">{{ paper.abstract }}</p>
-            {% endif %}
-          </details>
-        {% endif %}
+
+        <!-- 第三行：等价于 JS 里的 metaHtml 拼接逻辑 -->
+        <div class="pub-meta">
+          {% assign links = "" | split: "," %}
+          
+          {% if paper.venue %}
+            {% capture v %}<span class="venue-title">{{ paper.venue }}</span>{% endcapture %}
+            {% assign links = links | push: v %}
+          {% endif %}
+          
+          {% if paper.paper_url %}
+            {% capture p %}<a href="{{ paper.paper_url }}" target="_blank">Paper</a>{% endcapture %}
+            {% assign links = links | push: p %}
+          {% endif %}
+          
+          {% if paper.video_url %}
+            {% capture v_link %}<a href="{{ paper.video_url }}" target="_blank">Video</a>{% endcapture %}
+            {% assign links = links | push: v_link %}
+          {% endif %}
+          
+          {% if paper.blog_url %}
+            {% capture b %}<a href="{{ paper.blog_url }}" target="_blank">Blog Post</a>{% endcapture %}
+            {% assign links = links | push: b %}
+          {% endif %}
+
+          {% if paper.code_url %}
+            {% capture c %}<a href="{{ paper.code_url }}" target="_blank">Code</a>{% endcapture %}
+            {% assign links = links | push: c %}
+          {% endif %}
+
+          {{ links | join: " / " }}
+        </div>
       </div>
     {% endfor %}
   {% endfor %}
 </div>
 
-<!-- 3. 按 Topic 分组视图 (按指定的主题顺序) -->
+<!-- 3. 按 Topic 分组视图 -->
 <div id="section-topic" class="pub-section" style="display: none;">
   {% assign topics = "Legal AI,Language Technologies,Machine Learning" | split: "," %}
   {% for t in topics %}
@@ -64,25 +109,21 @@
       <h2 style="margin-top: 25px; border-bottom: 1px solid #eee; padding-bottom: 5px;">{{ t }}</h2>
       {% for paper in topic_papers %}
         <div style="margin-bottom: 20px;">
-          <div style="font-size: 15px;">
-            <a href="{{ paper.paper_url }}" target="_blank"><strong>[{{ paper.title }}]</strong></a>
+          <div class="pub-title" style="font-size: 15px;">
+            <a href="{{ paper.paper_url | default: '#' }}" target="_blank"><strong>[{{ paper.title }}]</strong></a>
           </div>
           <div style="margin-top: 4px;">
             &nbsp;&nbsp;&nbsp;&nbsp;{{ paper.authors }}
           </div>
-          {% if paper.abstract or paper.project_url %}
-            <details style="margin-left: 16px; margin-top: 6px;">
-              <summary>
-                <strong>Abstract</strong>
-                {% if paper.project_url %}
-                  &nbsp;&nbsp;|&nbsp;&nbsp;<a href="{{ paper.project_url }}" target="_blank"><strong>Project</strong></a>
-                {% endif %}
-              </summary>
-              {% if paper.abstract %}
-                <p style="margin-top: 8px; font-size: 14px; color: #444; line-height: 1.5;">{{ paper.abstract }}</p>
-              {% endif %}
-            </details>
-          {% endif %}
+          <div class="pub-meta">
+            {% assign links = "" | split: "," %}
+            {% if paper.venue %}{% capture v %}<span class="venue-title">{{ paper.venue }}</span>{% endcapture %}{% assign links = links | push: v %}{% endif %}
+            {% if paper.paper_url %}{% capture p %}<a href="{{ paper.paper_url }}" target="_blank">Paper</a>{% endcapture %}{% assign links = links | push: p %}{% endif %}
+            {% if paper.video_url %}{% capture v_link %}<a href="{{ paper.video_url }}" target="_blank">Video</a>{% endcapture %}{% assign links = links | push: v_link %}{% endif %}
+            {% if paper.blog_url %}{% capture b %}<a href="{{ paper.blog_url }}" target="_blank">Blog Post</a>{% endcapture %}{% assign links = links | push: b %}{% endif %}
+            {% if paper.code_url %}{% capture c %}<a href="{{ paper.code_url }}" target="_blank">Code</a>{% endcapture %}{% assign links = links | push: c %}{% endif %}
+            {{ links | join: " / " }}
+          </div>
         </div>
       {% endfor %}
     {% endif %}
@@ -95,40 +136,33 @@
   {% assign featured_papers = site.data.publications | where: "featured", true %}
   {% for paper in featured_papers %}
     <div style="margin-bottom: 20px;">
-      <div style="font-size: 15px;">
-        <a href="{{ paper.paper_url }}" target="_blank"><strong>[{{ paper.title }}]</strong></a>
+      <div class="pub-title" style="font-size: 15px;">
+        <a href="{{ paper.paper_url | default: '#' }}" target="_blank"><strong>[{{ paper.title }}]</strong></a>
       </div>
       <div style="margin-top: 4px;">
         &nbsp;&nbsp;&nbsp;&nbsp;{{ paper.authors }}
       </div>
-      {% if paper.abstract or paper.project_url %}
-        <details style="margin-left: 16px; margin-top: 6px;">
-          <summary>
-            <strong>Abstract</strong>
-            {% if paper.project_url %}
-              &nbsp;&nbsp;|&nbsp;&nbsp;<a href="{{ paper.project_url }}" target="_blank"><strong>Project</strong></a>
-            {% endif %}
-          </summary>
-          {% if paper.abstract %}
-            <p style="margin-top: 8px; font-size: 14px; color: #444; line-height: 1.5;">{{ paper.abstract }}</p>
-          {% endif %}
-        </details>
-      {% endif %}
+      <div class="pub-meta">
+        {% assign links = "" | split: "," %}
+        {% if paper.venue %}{% capture v %}<span class="venue-title">{{ paper.venue }}</span>{% endcapture %}{% assign links = links | push: v %}{% endif %}
+        {% if paper.paper_url %}{% capture p %}<a href="{{ paper.paper_url }}" target="_blank">Paper</a>{% endcapture %}{% assign links = links | push: p %}{% endif %}
+        {% if paper.video_url %}{% capture v_link %}<a href="{{ paper.video_url }}" target="_blank">Video</a>{% endcapture %}{% assign links = links | push: v_link %}{% endif %}
+        {% if paper.blog_url %}{% capture b %}<a href="{{ paper.blog_url }}" target="_blank">Blog Post</a>{% endcapture %}{% assign links = links | push: b %}{% endif %}
+        {% if paper.code_url %}{% capture c %}<a href="{{ paper.code_url }}" target="_blank">Code</a>{% endcapture %}{% assign links = links | push: c %}{% endif %}
+        {{ links | join: " / " }}
+      </div>
     </div>
   {% endfor %}
 </div>
 
-<!-- 5. 视图切换逻辑脚本 -->
+<!-- 5. 切换脚本 -->
 <script>
 function showSection(type) {
-  // 隐藏所有区块
   const sections = document.querySelectorAll('.pub-section');
   sections.forEach(sec => sec.style.display = 'none');
   
-  // 显示选中的区块
   document.getElementById('section-' + type).style.display = 'block';
 
-  // 更新按钮高亮
   document.getElementById('btn-date').style.fontWeight = type === 'date' ? 'bold' : 'normal';
   document.getElementById('btn-topic').style.fontWeight = type === 'topic' ? 'bold' : 'normal';
   document.getElementById('btn-featured').style.fontWeight = type === 'featured' ? 'bold' : 'normal';
