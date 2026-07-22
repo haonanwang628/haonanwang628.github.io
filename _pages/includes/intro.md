@@ -1,4 +1,4 @@
-
+# 👋 About me
 - <span style="color:#FF8C00; font-weight: bold;"> Currently Now:</span>\
    I am an **Incoming PhD** student at the Computer Science and Software Engineering at [Auburn University](https://www.auburn.edu/), advised by [Effat Farhana](https://effat.github.io/). 
 
