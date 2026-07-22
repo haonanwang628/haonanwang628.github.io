@@ -114,7 +114,7 @@
 
 <!-- 3. 按 Topic 分组视图 -->
 <div id="section-topic" class="pub-section" style="display: none;">
-  {% assign topics = "Legal AI,Language Technologies,Machine Learning" | split: "," %}
+  {% assign topics = "Legal AI,Large Language Model Technologies,Machine Learning" | split: "," %}
   {% for t in topics %}
     {% assign topic_papers = site.data.publications | where: "topic", t %}
     {% if topic_papers.size > 0 %}
