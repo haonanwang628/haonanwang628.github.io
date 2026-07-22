@@ -1,29 +1,23 @@
-2026
 - title: "Position: Large Language Models are Insufficient for Complex Real-World Legal Argumentation Mining"
   authors: '<span style="color:darkblue"><b>Haonan Wang</b></span>, Mingjia Zhao, Sungbin Park, Vitor Ribas Moura, Effat Farhana.'
-  venue: "arXiv 2026"
+  venue: "arXiv"
   year: 2026
   topic: "Legal AI"
   featured: false
   paper_url: "#"
-  
-2025
+
 - title: "PerspectiveCoder-LM: An LLM-based Multi-agent System for Large-scale Corpus Inductive Text Coding Analysis"
   authors: '<span style="color:darkblue"><b>Haonan Wang</b></span>, Ziang Xiao, Jie Gao.'
-  venue: "arXiv 2025"
+  venue: "arXiv"
   year: 2025
   topic: "Language Technologies"
   featured: true
   paper_url: "https://github.com/isle-dev/PerspectiveCoder-LM"
-  project_url: "https://github.com/isle-dev/PerspectiveCoder-LM"
-  
+
 - title: "From Noise to Nuance: Enriching Subjective Data Interpretation through Qualitative Analysis"
   authors: '<span style="color:darkblue"><b>Haonan Wang</b></span>, Ziang Xiao, Jie Gao.'
-  venue: "EMNLP@2025"
+  venue: "EMNLP 2025"
   year: 2025
   topic: "Language Technologies"
   featured: true
   paper_url: "https://aclanthology.org/2025.hcinlp-1.20/"
-  link_text: "Paper" # 
-
-
