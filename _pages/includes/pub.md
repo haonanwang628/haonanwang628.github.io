@@ -1,4 +1,4 @@
-# 🤔 Publications 
+# 📖 Publications 
 
 <style>
   .pub-filter-btn {
@@ -99,8 +99,8 @@
             {% assign links = links | push: rec %}
           {% endif %}
 
-          {% if paper.blog_url %}
-            {% capture b %}<a href="{{ paper.blog_url }}" target="_blank">Blog Post</a>{% endcapture %}
+          {% if paper.project_url %}
+            {% if paper.project_url%}{% capture b %}<a href="{{ paper.project_url }}" target="_blank">Project-website</a>{% endcapture %}{% assign links = links | push: b %}{% endif %}
             {% assign links = links | push: b %}
           {% endif %}
 
