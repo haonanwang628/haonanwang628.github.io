@@ -1,6 +1,10 @@
 # 🤔 Publications 
 
 ## 2026
+<div style="margin-bottom: 24px;">
+  [8] <a href="你的链接">Position: Large Language Models are Insufficient for Complex Real-World Legal Argumentation Mining</a><br>
+  <span style="color:darkblue"><b>Haonan Wang</b></span>, Mingjia Zhao, Sungbin Park, Vitor Ribas Moura, Effat Farhana.
+</div>
 
 [7][Position:Large Language Models are Insufficient for Complex Real-World Legal Argumentation Mining]()\\
 <span style="color:darkblue">**Haonan Wang**</span>, Mingjia Zhao, Sungbin Park, Vitor Ribas Moura, Effat Farhana.
