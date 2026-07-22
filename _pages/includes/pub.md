@@ -134,7 +134,7 @@
             {% if paper.slides_url %}{% capture s %}<a href="{{ paper.slides_url }}" target="_blank">Slides</a>{% endcapture %}{% assign links = links | push: s %}{% endif %}
             {% assign rec_url = paper['poster-recording_url'] | default: paper.video_url %}
             {% if rec_url %}{% capture rec %}<a href="{{ rec_url }}" target="_blank">Video</a>{% endcapture %}{% assign links = links | push: rec %}{% endif %}
-            {% if paper.blog_url %}{% capture b %}<a href="{{ paper.blog_url }}" target="_blank">Blog Post</a>{% endcapture %}{% assign links = links | push: b %}{% endif %}
+            {% if paper.project_url %}{% capture b %}<a href="{{ paper.project_url }}" target="_blank">Project-website</a>{% endcapture %}{% assign links = links | push: b %}{% endif %}
             {{ links | join: " / " }}
           </div>
         </div>
@@ -163,7 +163,7 @@
         {% if paper.slides_url %}{% capture s %}<a href="{{ paper.slides_url }}" target="_blank">Slides</a>{% endcapture %}{% assign links = links | push: s %}{% endif %}
         {% assign rec_url = paper['poster-recording_url'] | default: paper.video_url %}
         {% if rec_url %}{% capture rec %}<a href="{{ rec_url }}" target="_blank">Video</a>{% endcapture %}{% assign links = links | push: rec %}{% endif %}
-        {% if paper.blog_url %}{% capture b %}<a href="{{ paper.blog_url }}" target="_blank">Blog Post</a>{% endcapture %}{% assign links = links | push: b %}{% endif %}
+        {% if paper.project_url %}{% capture b %}<a href="{{ paper.project_url }}" target="_blank">Project-website</a>{% endcapture %}{% assign links = links | push: b %}{% endif %}
         {{ links | join: " / " }}
       </div>
     </div>
