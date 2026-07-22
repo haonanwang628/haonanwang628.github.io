@@ -1,4 +1,127 @@
 # 🤔 Publications 
+# 😃 Publications
+
+<!-- 1. 顶部维度切换菜单 -->
+<div style="margin-bottom: 20px; font-size: 16px;">
+  <a href="javascript:void(0)" onclick="showSection('date')" id="btn-date" style="font-weight: bold;">by date:all</a> / 
+  <a href="javascript:void(0)" onclick="showSection('topic')" id="btn-topic">by topic</a> / 
+  <a href="javascript:void(0)" onclick="showSection('featured')" id="btn-featured">featured</a>
+</div>
+
+<!-- 2. 按 Date 分组视图 -->
+<div id="section-date" class="pub-section">
+  {% assign years = site.data.publications | map: "year" | uniq | sort | reverse %}
+  {% for y in years %}
+    <h2 style="margin-top: 25px; border-bottom: 1px solid #eee; padding-bottom: 5px;">{{ y }}</h2>
+    {% assign year_papers = site.data.publications | where: "year", y %}
+    {% for paper in year_papers %}
+      <div style="margin-bottom: 20px;">
+        <div style="font-size: 15px;">
+          <a href="{{ paper.paper_url }}" target="_blank"><strong>[{{ paper.title }}]</strong></a>
+        </div>
+        <div style="margin-top: 4px;">
+          &nbsp;&nbsp;&nbsp;&nbsp;{{ paper.authors }}
+        </div>
+        {% if paper.abstract or paper.project_url %}
+          <details style="margin-left: 16px; margin-top: 6px;">
+            <summary>
+              <strong>Abstract</strong>
+              {% if paper.project_url %}
+                &nbsp;&nbsp;|&nbsp;&nbsp;<a href="{{ paper.project_url }}" target="_blank"><strong>Project</strong></a>
+              {% endif %}
+            </summary>
+            {% if paper.abstract %}
+              <p style="margin-top: 8px; font-size: 14px; color: #444; line-height: 1.5;">{{ paper.abstract }}</p>
+            {% endif %}
+          </details>
+        {% endif %}
+      </div>
+    {% endfor %}
+  {% endfor %}
+</div>
+
+<!-- 3. 按 Topic 分组视图 (按指定的主题顺序) -->
+<div id="section-topic" class="pub-section" style="display: none;">
+  {% assign topics = "Legal AI,Language Technologies,Machine Learning" | split: "," %}
+  {% for t in topics %}
+    {% assign topic_papers = site.data.publications | where: "topic", t %}
+    {% if topic_papers.size > 0 %}
+      <h2 style="margin-top: 25px; border-bottom: 1px solid #eee; padding-bottom: 5px;">{{ t }}</h2>
+      {% for paper in topic_papers %}
+        <div style="margin-bottom: 20px;">
+          <div style="font-size: 15px;">
+            <a href="{{ paper.paper_url }}" target="_blank"><strong>[{{ paper.title }}]</strong></a>
+          </div>
+          <div style="margin-top: 4px;">
+            &nbsp;&nbsp;&nbsp;&nbsp;{{ paper.authors }}
+          </div>
+          {% if paper.abstract or paper.project_url %}
+            <details style="margin-left: 16px; margin-top: 6px;">
+              <summary>
+                <strong>Abstract</strong>
+                {% if paper.project_url %}
+                  &nbsp;&nbsp;|&nbsp;&nbsp;<a href="{{ paper.project_url }}" target="_blank"><strong>Project</strong></a>
+                {% endif %}
+              </summary>
+              {% if paper.abstract %}
+                <p style="margin-top: 8px; font-size: 14px; color: #444; line-height: 1.5;">{{ paper.abstract }}</p>
+              {% endif %}
+            </details>
+          {% endif %}
+        </div>
+      {% endfor %}
+    {% endif %}
+  {% endfor %}
+</div>
+
+<!-- 4. Featured 精选视图 -->
+<div id="section-featured" class="pub-section" style="display: none;">
+  <h2 style="margin-top: 25px; border-bottom: 1px solid #eee; padding-bottom: 5px;">Featured Publications</h2>
+  {% assign featured_papers = site.data.publications | where: "featured", true %}
+  {% for paper in featured_papers %}
+    <div style="margin-bottom: 20px;">
+      <div style="font-size: 15px;">
+        <a href="{{ paper.paper_url }}" target="_blank"><strong>[{{ paper.title }}]</strong></a>
+      </div>
+      <div style="margin-top: 4px;">
+        &nbsp;&nbsp;&nbsp;&nbsp;{{ paper.authors }}
+      </div>
+      {% if paper.abstract or paper.project_url %}
+        <details style="margin-left: 16px; margin-top: 6px;">
+          <summary>
+            <strong>Abstract</strong>
+            {% if paper.project_url %}
+              &nbsp;&nbsp;|&nbsp;&nbsp;<a href="{{ paper.project_url }}" target="_blank"><strong>Project</strong></a>
+            {% endif %}
+          </summary>
+          {% if paper.abstract %}
+            <p style="margin-top: 8px; font-size: 14px; color: #444; line-height: 1.5;">{{ paper.abstract }}</p>
+          {% endif %}
+        </details>
+      {% endif %}
+    </div>
+  {% endfor %}
+</div>
+
+<!-- 5. 视图切换逻辑脚本 -->
+<script>
+function showSection(type) {
+  // 隐藏所有区块
+  const sections = document.querySelectorAll('.pub-section');
+  sections.forEach(sec => sec.style.display = 'none');
+  
+  // 显示选中的区块
+  document.getElementById('section-' + type).style.display = 'block';
+
+  // 更新按钮高亮
+  document.getElementById('btn-date').style.fontWeight = type === 'date' ? 'bold' : 'normal';
+  document.getElementById('btn-topic').style.fontWeight = type === 'topic' ? 'bold' : 'normal';
+  document.getElementById('btn-featured').style.fontWeight = type === 'featured' ? 'bold' : 'normal';
+}
+</script>
+
+
+
 
 # 😃 Publications
 
