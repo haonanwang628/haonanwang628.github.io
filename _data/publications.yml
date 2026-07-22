@@ -9,7 +9,7 @@
   
 @2025  
 - title: "From Noise to Nuance: Enriching Subjective Data Interpretation through Qualitative Analysis"
-  authors: '<span style="color:darkblue"><b>Haonan Wang</b></span>, Ziang Xiao, Jie Gao.'
+  authors: ' Ruyuan Wan,<span style="color:darkblue"><b>Haonan Wang</b></span>,Ting-Hao Kenneth Huang, Jie Gao.'
   venue: "The 4th HCI + NLP Workshop at EMNLP, 2025."
   year: 2025
   topic: "Language Technologies"
@@ -17,7 +17,7 @@
   paper_url: "https://aclanthology.org/2025.hcinlp-1.20/"
 
 - title: "ByteSized32Refactored: Towards an Extensible Interactive Text Games Corpus for LLM World Modeling and Evaluation"
-  authors: '<span style="color:darkblue"><b>Haonan Wang</b></span>, Junfeng Sun, Xindi Yuan, Ruoyao Wang, Ziang Xiao.
+  authors: '<span style="color:darkblue"><b>Haonan Wang</b></span>, Junfeng Sun, Xindi Yuan, Ruoyao Wang, Ziang Xiao.'
   venue: "The 5th WordPlay Workshop at EMNLP, 2025."
   year: 2025
   topic: "Language Technologies"
@@ -35,7 +35,7 @@
 
 @2024
 - title: "Unsupervised Feature Selection Algorithm Based on L2,p-norm Feature Reconstruction"
-  authors: '<span style="color:darkblue"><b>Haonan Wang</b></span>, Junfeng Sun, Xindi Yuan, Ruoyao Wang, Ziang Xiao.
+  authors: '<span style="color:darkblue"><b>Haonan Wang</b></span>, Junfeng Sun, Xindi Yuan, Ruoyao Wang, Ziang Xiao.'
   venue: "PLOS ONE."
   year: 2024
   topic: "Machine Learning"
@@ -45,7 +45,7 @@
   
 @2022
 - title: "Research on geometric figure classification algorithm based on Deep Learning"
-  authors:  Ruiyang Wang,'<span style="color:darkblue"><b>Haonan Wang</b></span>, Junfeng Sun, Mingjia Zhao, Meng Liu.
+  authors: ' Ruiyang Wang,'<span style="color:darkblue"><b>Haonan Wang</b></span>, Junfeng Sun, Mingjia Zhao, Meng Liu.'
   venue: "Advances in Artificial Intelligence and Machine Learning."
   year: 2022
   topic: "Machine Learning"
@@ -54,7 +54,7 @@
 
 @2021
   - title: "Research status and future prospects of machine learning algorithms in big data analysis"
-  authors: '<span style="color:darkblue"><b>Haonan Wang</b></span>,
+  authors: '<span style="color:darkblue"><b>Haonan Wang</b></span>'
   venue: "PLOS ONE."
   year: 2021
   topic: "Machine Learning"
