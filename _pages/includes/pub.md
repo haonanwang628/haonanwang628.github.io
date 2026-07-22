@@ -1,6 +1,8 @@
 # 🤔 Publications 
 # 😃 Publications2
 
+# 😃 Publications
+
 <style>
   .pub-filter-btn {
     background: none;
@@ -54,9 +56,9 @@
     {% assign year_papers = site.data.publications | where: "year", y %}
     {% for paper in year_papers %}
       <div style="margin-bottom: 20px;">
-        <!-- 蓝字带中括号标题 -->
+        <!-- 蓝字无中括号标题 -->
         <div class="pub-title" style="font-size: 15px;">
-          <a href="{{ paper.paper_url | default: '#' }}" target="_blank"><strong>[{{ paper.title }}]</strong></a>
+          <a href="{{ paper.paper_url | default: '#' }}" target="_blank"><strong>{{ paper.title }}</strong></a>
         </div>
         
         <!-- 作者 -->
@@ -64,7 +66,7 @@
           &nbsp;&nbsp;&nbsp;&nbsp;{{ paper.authors }}
         </div>
 
-        <!-- 第三行：等价于 JS 里的 metaHtml 拼接逻辑 -->
+        <!-- 链接与会议列表 -->
         <div class="pub-meta">
           {% assign links = "" | split: "," %}
           
@@ -110,7 +112,7 @@
       {% for paper in topic_papers %}
         <div style="margin-bottom: 20px;">
           <div class="pub-title" style="font-size: 15px;">
-            <a href="{{ paper.paper_url | default: '#' }}" target="_blank"><strong>[{{ paper.title }}]</strong></a>
+            <a href="{{ paper.paper_url | default: '#' }}" target="_blank"><strong>{{ paper.title }}</strong></a>
           </div>
           <div style="margin-top: 4px;">
             &nbsp;&nbsp;&nbsp;&nbsp;{{ paper.authors }}
@@ -137,7 +139,7 @@
   {% for paper in featured_papers %}
     <div style="margin-bottom: 20px;">
       <div class="pub-title" style="font-size: 15px;">
-        <a href="{{ paper.paper_url | default: '#' }}" target="_blank"><strong>[{{ paper.title }}]</strong></a>
+        <a href="{{ paper.paper_url | default: '#' }}" target="_blank"><strong>{{ paper.title }}</strong></a>
       </div>
       <div style="margin-top: 4px;">
         &nbsp;&nbsp;&nbsp;&nbsp;{{ paper.authors }}
