@@ -16,7 +16,7 @@
 </div>
 
 [7][Position:Large Language Models are Insufficient for Complex Real-World Legal Argumentation Mining]()\\
-<span style="color:darkblue">**Haonan Wang**</span>, Mingjia Zhao, Sungbin Park, Vitor Ribas Moura, Effat Farhana.
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:darkblue">**Haonan Wang**</span>, Mingjia Zhao, Sungbin Park, Vitor Ribas Moura, Effat Farhana.
 ## 2025
 
 [6][PerspectiveCoder-LM: An LLM-based Multi-agent System for Large-scale Corpus Inductive Text Coding Analysis](https://github.com/isle-dev/PerspectiveCoder-LM) \\
