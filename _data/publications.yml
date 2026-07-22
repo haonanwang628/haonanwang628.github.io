@@ -41,3 +41,22 @@
   featured: false
   paper_url: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318431"
   code_url: "https://github.com/haonanwang628/UnsupervisedFSA"
+  
+@2022
+- title: "Research on geometric figure classification algorithm based on Deep Learning"
+  authors:  Ruiyang Wang,'<span style="color:darkblue"><b>Haonan Wang</b></span>, Junfeng Sun, Mingjia Zhao, Meng Liu.
+  venue: "Advances in Artificial Intelligence and Machine Learning."
+  year: 2022
+  topic: "Machine Learning"
+  featured: false
+  paper_url: "https://arxiv.org/abs/2404.16561"
+
+@2021
+  - title: "Research status and future prospects of machine learning algorithms in big data analysis"
+  authors: '<span style="color:darkblue"><b>Haonan Wang</b></span>,
+  venue: "PLOS ONE."
+  year: 2021
+  topic: "Machine Learning"
+  featured: false
+  paper_url: "https://www.clausiuspress.com/article/1212.html"
+  
