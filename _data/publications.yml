@@ -12,7 +12,7 @@
   authors: 'Ruyuan Wan, <span style="color:darkblue"><b>Haonan Wang</b></span>, Ting-Hao Kenneth Huang, Jie Gao.'
   venue: "The 4th HCI + NLP Workshop at EMNLP 2025"
   year: 2025
-  topic: "Language Technologies"
+  topic: "Large Language Model Technologies"
   featured: true
   paper_url: "https://aclanthology.org/2025.hcinlp-1.20/"
 
@@ -20,7 +20,7 @@
   authors: '<span style=" color:darkblue"><b>Haonan Wang</b></span>, Junfeng Sun, Xindi Yuan, Ruoyao Wang, Ziang Xiao.'
   venue: "The 5th WordPlay Workshop at EMNLP 2025"
   year: 2025
-  topic: "Language Technologies"
+  topic: "Large Language Model Technologies"
   featured: true
   paper_url: "https://arxiv.org/abs/2509.23979"
   code_url: "https://github.com/isle-dev/BYTESIZED32-Refactored/"
@@ -31,7 +31,7 @@
   authors: '<span style="color:darkblue"><b>Haonan Wang</b></span>, Ziang Xiao, Jie Gao.'
   venue: "GitHub-website"
   year: 2025
-  topic: "Language Technologies"
+  topic: "Large Language Model Technologies"
   featured: true
   paper_url: "https://github.com/isle-dev/PerspectiveCoder-LM"
   
