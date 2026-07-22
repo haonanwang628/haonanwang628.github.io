@@ -16,6 +16,185 @@
   .pub-filter-btn:hover {
     color: #1a365d;
   }
+  
+  /* 1. 文章标题设为纯文本黑色（不可点击跳转） */
+  .pub-title {
+    color: #222222;
+    font-size: 15px;
+  }
+
+  /* 2. 底部元信息（会议名与链接）区分 */
+  .pub-meta {
+    margin-left: 16px;
+    margin-top: 4px;
+    font-size: 14px;
+    color: #666; /* 分隔符 / 的颜色 */
+  }
+  
+  /* 会议/期刊名称：黑色 + 加粗 */
+  .venue-title {
+    font-weight: bold;
+    color: #222222;
+  }
+  
+  /* 资源链接（Paper/Code/Video等）：蓝色可点击 */
+  .pub-meta a {
+    color: #2b6cb0;
+    text-decoration: none;
+  }
+  .pub-meta a:hover {
+    text-decoration: underline;
+  }
+</style>
+
+<!-- 1. 顶部切换菜单 -->
+<div style="margin-bottom: 20px; font-size: 16px;">
+  <button type="button" class="pub-filter-btn" onclick="showSection('date')" id="btn-date" style="font-weight: bold;">by date:all</button> / 
+  <button type="button" class="pub-filter-btn" onclick="showSection('topic')" id="btn-topic">by topic</button> / 
+  <button type="button" class="pub-filter-btn" onclick="showSection('featured')" id="btn-featured">featured</button>
+</div>
+
+<!-- 2. 按 Date 分组视图 -->
+<div id="section-date" class="pub-section">
+  {% assign years = site.data.publications | map: "year" | uniq | sort | reverse %}
+  {% for y in years %}
+    <h2 style="margin-top: 25px; border-bottom: 1px solid #eee; padding-bottom: 5px;">{{ y }}</h2>
+    {% assign year_papers = site.data.publications | where: "year", y %}
+    {% for paper in year_papers %}
+      <div style="margin-bottom: 20px;">
+        <!-- 纯文本黑色标题（无链接、不跳转） -->
+        <div class="pub-title">
+          <strong>{{ paper.title }}</strong>
+        </div>
+        
+        <!-- 作者列表 -->
+        <div style="margin-top: 4px;">
+          &nbsp;&nbsp;&nbsp;&nbsp;{{ paper.authors }}
+        </div>
+
+        <!-- 区分 Venue 与 资源链接 -->
+        <div class="pub-meta">
+          {% assign links = "" | split: "," %}
+          
+          {% if paper.venue %}
+            {% capture v %}<span class="venue-title">{{ paper.venue }}</span>{% endcapture %}
+            {% assign links = links | push: v %}
+          {% endif %}
+          
+          {% if paper.paper_url %}
+            {% capture p %}<a href="{{ paper.paper_url }}" target="_blank">Paper</a>{% endcapture %}
+            {% assign links = links | push: p %}
+          {% endif %}
+          
+          {% if paper.video_url %}
+            {% capture v_link %}<a href="{{ paper.video_url }}" target="_blank">Video</a>{% endcapture %}
+            {% assign links = links | push: v_link %}
+          {% endif %}
+          
+          {% if paper.blog_url %}
+            {% capture b %}<a href="{{ paper.blog_url }}" target="_blank">Blog Post</a>{% endcapture %}
+            {% assign links = links | push: b %}
+          {% endif %}
+
+          {% if paper.code_url %}
+            {% capture c %}<a href="{{ paper.code_url }}" target="_blank">Code</a>{% endcapture %}
+            {% assign links = links | push: c %}
+          {% endif %}
+
+          {{ links | join: " / " }}
+        </div>
+      </div>
+    {% endfor %}
+  {% endfor %}
+</div>
+
+<!-- 3. 按 Topic 分组视图 -->
+<div id="section-topic" class="pub-section" style="display: none;">
+  {% assign topics = "Legal AI,Language Technologies,Machine Learning" | split: "," %}
+  {% for t in topics %}
+    {% assign topic_papers = site.data.publications | where: "topic", t %}
+    {% if topic_papers.size > 0 %}
+      <h2 style="margin-top: 25px; border-bottom: 1px solid #eee; padding-bottom: 5px;">{{ t }}</h2>
+      {% for paper in topic_papers %}
+        <div style="margin-bottom: 20px;">
+          <div class="pub-title">
+            <strong>{{ paper.title }}</strong>
+          </div>
+          <div style="margin-top: 4px;">
+            &nbsp;&nbsp;&nbsp;&nbsp;{{ paper.authors }}
+          </div>
+          <div class="pub-meta">
+            {% assign links = "" | split: "," %}
+            {% if paper.venue %}{% capture v %}<span class="venue-title">{{ paper.venue }}</span>{% endcapture %}{% assign links = links | push: v %}{% endif %}
+            {% if paper.paper_url %}{% capture p %}<a href="{{ paper.paper_url }}" target="_blank">Paper</a>{% endcapture %}{% assign links = links | push: p %}{% endif %}
+            {% if paper.video_url %}{% capture v_link %}<a href="{{ paper.video_url }}" target="_blank">Video</a>{% endcapture %}{% assign links = links | push: v_link %}{% endif %}
+            {% if paper.blog_url %}{% capture b %}<a href="{{ paper.blog_url }}" target="_blank">Blog Post</a>{% endcapture %}{% assign links = links | push: b %}{% endif %}
+            {% if paper.code_url %}{% capture c %}<a href="{{ paper.code_url }}" target="_blank">Code</a>{% endcapture %}{% assign links = links | push: c %}{% endif %}
+            {{ links | join: " / " }}
+          </div>
+        </div>
+      {% endfor %}
+    {% endif %}
+  {% endfor %}
+</div>
+
+<!-- 4. Featured 精选视图 -->
+<div id="section-featured" class="pub-section" style="display: none;">
+  <h2 style="margin-top: 25px; border-bottom: 1px solid #eee; padding-bottom: 5px;">Featured Publications</h2>
+  {% assign featured_papers = site.data.publications | where: "featured", true %}
+  {% for paper in featured_papers %}
+    <div style="margin-bottom: 20px;">
+      <div class="pub-title">
+        <strong>{{ paper.title }}</strong>
+      </div>
+      <div style="margin-top: 4px;">
+        &nbsp;&nbsp;&nbsp;&nbsp;{{ paper.authors }}
+      </div>
+      <div class="pub-meta">
+        {% assign links = "" | split: "," %}
+        {% if paper.venue %}{% capture v %}<span class="venue-title">{{ paper.venue }}</span>{% endcapture %}{% assign links = links | push: v %}{% endif %}
+        {% if paper.paper_url %}{% capture p %}<a href="{{ paper.paper_url }}" target="_blank">Paper</a>{% endcapture %}{% assign links = links | push: p %}{% endif %}
+        {% if paper.video_url %}{% capture v_link %}<a href="{{ paper.video_url }}" target="_blank">Video</a>{% endcapture %}{% assign links = links | push: v_link %}{% endif %}
+        {% if paper.blog_url %}{% capture b %}<a href="{{ paper.blog_url }}" target="_blank">Blog Post</a>{% endcapture %}{% assign links = links | push: b %}{% endif %}
+        {% if paper.code_url %}{% capture c %}<a href="{{ paper.code_url }}" target="_blank">Code</a>{% endcapture %}{% assign links = links | push: c %}{% endif %}
+        {{ links | join: " / " }}
+      </div>
+    </div>
+  {% endfor %}
+</div>
+
+<!-- 5. 切换脚本 -->
+<script>
+function showSection(type) {
+  const sections = document.querySelectorAll('.pub-section');
+  sections.forEach(sec => sec.style.display = 'none');
+  
+  document.getElementById('section-' + type).style.display = 'block';
+
+  document.getElementById('btn-date').style.fontWeight = type === 'date' ? 'bold' : 'normal';
+  document.getElementById('btn-topic').style.fontWeight = type === 'topic' ? 'bold' : 'normal';
+  document.getElementById('btn-featured').style.fontWeight = type === 'featured' ? 'bold' : 'normal';
+}
+</script>
+
+
+
+
+# 😃 Publications
+
+<style>
+  .pub-filter-btn {
+    background: none;
+    border: none;
+    color: #2b6cb0;
+    padding: 0;
+    font: inherit;
+    cursor: pointer;
+    text-decoration: underline;
+  }
+  .pub-filter-btn:hover {
+    color: #1a365d;
+  }
   .pub-title a {
     color: #2b6cb0;
     text-decoration: none;
