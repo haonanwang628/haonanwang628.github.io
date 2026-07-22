@@ -1,8 +1,6 @@
 # 🤔 Publications 
 # 😃 Publications2
 
-# 😃 Publications
-
 <style>
   .pub-filter-btn {
     background: none;
@@ -33,9 +31,10 @@
   
   /* 会议/期刊名称：黑色 + 加粗 */
   .venue-title {
-    font-weight: bold;
-    color: #111827;
-  }
+    font-weight: 800;
+    color: #1d4ed8; /* 经典的皇家深蓝/宝蓝 */
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    letter-spacing: 0.2px; /* 微调字符间距，更有出版物质感 */
   
   /* 资源链接（Paper/Code/Slides等）：蓝色 */
   .pub-meta a {
