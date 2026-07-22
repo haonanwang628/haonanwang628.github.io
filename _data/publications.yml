@@ -1,4 +1,3 @@
-@2026
 - title: "Position: Large Language Models are Insufficient for Complex Real-World Legal Argumentation Mining"
   authors: '<span style="color:darkblue"><b>Haonan Wang</b></span>, Mingjia Zhao, Sungbin Park, Vitor Ribas Moura, Effat Farhana.'
   venue: "arXiv"
@@ -6,11 +5,10 @@
   topic: "Legal AI"
   featured: false
   paper_url: "#"
-  
-@2025  
+
 - title: "From Noise to Nuance: Enriching Subjective Data Interpretation through Qualitative Analysis"
-  authors: ' Ruyuan Wan,<span style="color:darkblue"><b>Haonan Wang</b></span>,Ting-Hao Kenneth Huang, Jie Gao.'
-  venue: "The 4th HCI + NLP Workshop at EMNLP, 2025."
+  authors: 'Ruyuan Wan, <span style="color:darkblue"><b>Haonan Wang</b></span>, Ting-Hao Kenneth Huang, Jie Gao.'
+  venue: "The 4th HCI + NLP Workshop at EMNLP 2025"
   year: 2025
   topic: "Language Technologies"
   featured: true
@@ -18,7 +16,7 @@
 
 - title: "ByteSized32Refactored: Towards an Extensible Interactive Text Games Corpus for LLM World Modeling and Evaluation"
   authors: '<span style="color:darkblue"><b>Haonan Wang</b></span>, Junfeng Sun, Xindi Yuan, Ruoyao Wang, Ziang Xiao.'
-  venue: "The 5th WordPlay Workshop at EMNLP, 2025."
+  venue: "The 5th WordPlay Workshop at EMNLP 2025"
   year: 2025
   topic: "Language Technologies"
   featured: true
@@ -33,31 +31,27 @@
   featured: true
   paper_url: "https://github.com/isle-dev/PerspectiveCoder-LM"
 
-@2024
 - title: "Unsupervised Feature Selection Algorithm Based on L2,p-norm Feature Reconstruction"
   authors: '<span style="color:darkblue"><b>Haonan Wang</b></span>, Junfeng Sun, Xindi Yuan, Ruoyao Wang, Ziang Xiao.'
-  venue: "PLOS ONE."
+  venue: "PLOS ONE"
   year: 2024
   topic: "Machine Learning"
   featured: false
   paper_url: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318431"
   code_url: "https://github.com/haonanwang628/UnsupervisedFSA"
-  
-@2022
+
 - title: "Research on geometric figure classification algorithm based on Deep Learning"
-  authors: ' Ruiyang Wang,'<span style="color:darkblue"><b>Haonan Wang</b></span>, Junfeng Sun, Mingjia Zhao, Meng Liu.'
-  venue: "Advances in Artificial Intelligence and Machine Learning."
+  authors: 'Ruiyang Wang, <span style="color:darkblue"><b>Haonan Wang</b></span>, Junfeng Sun, Mingjia Zhao, Meng Liu.'
+  venue: "Advances in Artificial Intelligence and Machine Learning"
   year: 2022
   topic: "Machine Learning"
   featured: false
   paper_url: "https://arxiv.org/abs/2404.16561"
 
-@2021
-  - title: "Research status and future prospects of machine learning algorithms in big data analysis"
+- title: "Research status and future prospects of machine learning algorithms in big data analysis"
   authors: '<span style="color:darkblue"><b>Haonan Wang</b></span>'
-  venue: "PLOS ONE."
+  venue: "PLOS ONE"
   year: 2021
   topic: "Machine Learning"
   featured: false
   paper_url: "https://www.clausiuspress.com/article/1212.html"
-  
