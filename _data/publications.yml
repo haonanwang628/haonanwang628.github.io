@@ -22,6 +22,8 @@
   featured: true
   paper_url: "https://arxiv.org/abs/2509.23979"
   code_url: "https://github.com/isle-dev/BYTESIZED32-Refactored/"
+  slides_url: "https://docs.google.com/presentation/d/1fkBqKv6eUosixZW7ZpW51AjUzKbA_JZajmzdo4BR7Zc/edit?slide=id.g3881c550231_0_33#slide=id.g3881c550231_0_33"
+  poster-recording_url: "https://haonanwang628.github.io/assets/paper/bytesized32Refactored.mp4"
 
 - title: "PerspectiveCoder-LM: An LLM-based Multi-agent System for Large-scale Corpus Inductive Text Coding Analysis"
   authors: '<span style="color:darkblue"><b>Haonan Wang</b></span>, Ziang Xiao, Jie Gao.'
