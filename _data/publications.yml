@@ -33,7 +33,7 @@
   year: 2025
   topic: "Large Language Model Technologies"
   featured: true
-  paper_url: "https://github.com/isle-dev/PerspectiveCoder-LM"
+  project_url: "https://github.com/isle-dev/PerspectiveCoder-LM"
   
 
 - title: "Unsupervised Feature Selection Algorithm Based on L2,p-norm Feature Reconstruction"
