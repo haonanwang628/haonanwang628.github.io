@@ -1,3 +1,4 @@
+@2026
 - title: "Position: Large Language Models are Insufficient for Complex Real-World Legal Argumentation Mining"
   authors: '<span style="color:darkblue"><b>Haonan Wang</b></span>, Mingjia Zhao, Sungbin Park, Vitor Ribas Moura, Effat Farhana.'
   venue: "arXiv"
@@ -5,6 +6,22 @@
   topic: "Legal AI"
   featured: false
   paper_url: "#"
+@2025  
+- title: "From Noise to Nuance: Enriching Subjective Data Interpretation through Qualitative Analysis"
+  authors: '<span style="color:darkblue"><b>Haonan Wang</b></span>, Ziang Xiao, Jie Gao.'
+  venue: "The 4th HCI + NLP Workshop at EMNLP, 2025."
+  year: 2025
+  topic: "Language Technologies"
+  featured: true
+  paper_url: "https://aclanthology.org/2025.hcinlp-1.20/"
+
+- title: "ByteSized32Refactored: Towards an Extensible Interactive Text Games Corpus for LLM World Modeling and Evaluation"
+  authors: '<span style="color:darkblue"><b>Haonan Wang</b></span>, Junfeng Sun, Xindi Yuan, Ruoyao Wang, Ziang Xiao.
+  venue: "The 5th WordPlay Workshop at EMNLP, 2025."
+  year: 2025
+  topic: "Language Technologies"
+  featured: true
+  paper_url: "https://arxiv.org/abs/2509.23979"
 
 - title: "PerspectiveCoder-LM: An LLM-based Multi-agent System for Large-scale Corpus Inductive Text Coding Analysis"
   authors: '<span style="color:darkblue"><b>Haonan Wang</b></span>, Ziang Xiao, Jie Gao.'
@@ -14,10 +31,11 @@
   featured: true
   paper_url: "https://github.com/isle-dev/PerspectiveCoder-LM"
 
-- title: "From Noise to Nuance: Enriching Subjective Data Interpretation through Qualitative Analysis"
-  authors: '<span style="color:darkblue"><b>Haonan Wang</b></span>, Ziang Xiao, Jie Gao.'
-  venue: "EMNLP 2025"
-  year: 2025
-  topic: "Language Technologies"
-  featured: true
-  paper_url: "https://aclanthology.org/2025.hcinlp-1.20/"
+@2024
+- title: "Unsupervised Feature Selection Algorithm Based on L2,p-norm Feature Reconstruction"
+  authors: '<span style="color:darkblue"><b>Haonan Wang</b></span>, Junfeng Sun, Xindi Yuan, Ruoyao Wang, Ziang Xiao.
+  venue: "Plos one."
+  year: 2024
+  topic: "Machine Learning"
+  featured: false
+  paper_url: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318431"
