@@ -1,11 +1,26 @@
 # 🤔 Publications 
-# 😃 Publications
+# 😃 Publications2
 
-<!-- 1. 顶部维度切换菜单 -->
+<!-- 1. 顶部切换按钮菜单（防 about:blank 优化版） -->
+<style>
+  .pub-filter-btn {
+    background: none;
+    border: none;
+    color: #2b6cb0; /* 链接经典蓝色 */
+    padding: 0;
+    font: inherit;
+    cursor: pointer;
+    text-decoration: underline;
+  }
+  .pub-filter-btn:hover {
+    color: #1a365d;
+  }
+</style>
+
 <div style="margin-bottom: 20px; font-size: 16px;">
-  <a href="javascript:void(0)" onclick="showSection('date')" id="btn-date" style="font-weight: bold;">by date:all</a> / 
-  <a href="javascript:void(0)" onclick="showSection('topic')" id="btn-topic">by topic</a> / 
-  <a href="javascript:void(0)" onclick="showSection('featured')" id="btn-featured">featured</a>
+  <button type="button" class="pub-filter-btn" onclick="showSection('date')" id="btn-date" style="font-weight: bold;">by date:all</button> / 
+  <button type="button" class="pub-filter-btn" onclick="showSection('topic')" id="btn-topic">by topic</button> / 
+  <button type="button" class="pub-filter-btn" onclick="showSection('featured')" id="btn-featured">featured</button>
 </div>
 
 <!-- 2. 按 Date 分组视图 -->
