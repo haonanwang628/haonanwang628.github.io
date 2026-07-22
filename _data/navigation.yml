@@ -1,17 +1,17 @@
 # main links links
 main:
-  - title: "About Me"
-    url: "/#about-me"
-
   - title: "News"
     url: "/#-news"
     
-  - title: "CV"
-    url: "assets/CV/Haonan_Wang_CV (5).pdf"
+  - title: "About Me"
+    url: "/#about-me"
       
   - title: "Publications"
     url: "/#-publications"
-     
+    
+  - title: "CV"
+    url: "assets/CV/Haonan_Wang_CV (5).pdf"
+    
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
