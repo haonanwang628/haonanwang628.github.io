@@ -1,8 +1,6 @@
 # 🤔 Publications 
 # 😃 Publications2
 
-# 😃 Publications
-
 <style>
   .pub-filter-btn {
     background: none;
