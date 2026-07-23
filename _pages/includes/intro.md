@@ -11,7 +11,11 @@
   During my undergrad study, I spent time at the Institute of Mathematics and Systems Science and the Institute of Machine Learning and Data Mining, where I was advised by [Prof. Wei Liu](https://www.researchgate.net/profile/Wei-Liu-523) and [Prof.Yu Zhang](https://www.researchgate.net/profile/Yu-Zhang-264) works in Multivariate Statistical Analysis, Machine Learning, Reinforcement Learning, Informatics Theory, Numerical Analysis, and Math Modeling and Optimization Algorithms.
 - <span style=" color:#228B22; font-weight: bold;"> Another activity: </span>\
   I am also a **Co-founder** of ***SpringTeng AI***, a startup and community based in the China National University Science Park. This community focuses on developing AI data analysis systems, Software Patents Apps for industry technologies, and collaborating with companies such as EACON Driverless and the Chinese Ming Group.
-  
+
+<p style="text-align: center; font-family: 'Playfair Display', Georgia, serif; font-size: 1.1em; letter-spacing: 2px; color: #4b5563; font-style: italic;">
+  This webpage was last updated on <span style="border-bottom: 1px solid #cbd5e1; padding-bottom: 2px;">July 23rd, 2026</span>.
+</p>
+
 # 🤔 Research interest
 My research lies at the intersection of **Large Language Models**, **Machine Learning**, and **Legal AI**. 
 I am particularly interested in building and evaluating LLM-based systems that can understand, extract, and explain structured information from long legal documents.
