@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Haonan Wang 王浩男"
+title                    : "<span style="letter-spacing: 3px;">Haonan Wang 王浩男</span>"
 description              : "CS Ph.d@Auburn University<br>CS M.S.@Johns Hopkins University."
 repository               : "haonanwang628.github.io/"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  : code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "title: '<span style="letter-spacing: 3px;">Haonan Wang 王浩男</span>'"
+  name             : "<span style="letter-spacing: 3px;">Haonan Wang 王浩男</span>"
   avatar           : "images/haonanwang.jpg"
   bio              : "LLM Research Scientist"
   location         : "USA"
