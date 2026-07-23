@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "<span style="letter-spacing: 3px;">Haonan Wang 王浩男</span>"
+title                    : "<span style='white-space: nowrap;'>Haonan Wang <small style='font-size: 0.75em; opacity: 0.85;'>(王浩男)</small></span>"
 description              : "CS Ph.d@Auburn University<br>CS M.S.@Johns Hopkins University."
 repository               : "haonanwang628.github.io/"
 google_scholar_stats_use_cdn : true
