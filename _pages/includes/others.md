@@ -57,6 +57,7 @@
     </td>
   </tr>
 </table>
+
 # 📖 Educations
 
 - *2026.08 - present*, **Ph.D. Student**, Computer Science and Software Engineering, Auburn University, Auburn, Alabama, USA.
