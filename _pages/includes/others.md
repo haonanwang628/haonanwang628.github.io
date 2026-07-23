@@ -13,7 +13,7 @@
 </div>
 
 
-# 💻 Internships
+# 💻 Employment
 
 - [2024.06 - present]--**Research Assistant**
   - [ISLE lab, Johns Hopkins University](https://github.com/isle-dev).
