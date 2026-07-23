@@ -5,7 +5,7 @@
 
 - *2023.08 - 2025.01*, **M.S.E. in Computer Science**, Johns Hopkins University, Baltimore, Maryland, USA.
 
-- *2019.09 - 2023.07*, **B.S. degree**, Information and Computer Science, and Mathematics, Liaoning Technical University, Fuxin, Liaoning, China.
+- *2019.09 - 2023.07*, **B.S. degree**, Information and Computer Science and Mathematics, Liaoning Technical University, Fuxin, Liaoning, China.
 <div style="display:flex; align-items:center; justify-content:center; gap:45px; margin:20px 0 25px 0; flex-wrap:wrap;">
   <img title="Auburn University" alt="Auburn University" src="images/auburn.jpg" style="height:95px; width:auto;">
   <img title="Johns Hopkins University" alt="Johns Hopkins University" src="images/jhu.png" style="height:80px; width:auto;">
