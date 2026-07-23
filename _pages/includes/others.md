@@ -15,27 +15,64 @@
 
 # 🤝 Employment
 
-* <span style="background-color: #e0f2fe; color: #0369a1; padding: 2px 8px; border-radius: 12px; font-size: 0.85em; font-weight: 500;">2024.06 – Present</span>  
-  **Research Assistant**  
-  📍 [*ISLE lab, Johns Hopkins University*](https://github.com/isle-dev)
+<table style="width:100%; border-collapse: collapse; border: none; font-size: 0.95em;">
+  <!-- 第一项 -->
+  <tr style="border-bottom: 1px solid #f0f0f0;">
+    <td style="padding: 10px 0; border: none; vertical-align: top;">
+      <strong style="color: #111; font-size: 1.05em;">Research Assistant</strong><br>
+      <a href="https://github.com/isle-dev" style="text-decoration: none;">ISLE lab, Johns Hopkins University</a>
+    </td>
+    <td style="padding: 10px 0; border: none; text-align: right; vertical-align: top; color: #666; font-size: 0.9em; white-space: nowrap;">
+      <b>2024.06 – Present</b>
+    </td>
+  </tr>
 
-* <span style="background-color: #f1f5f9; color: #475569; padding: 2px 8px; border-radius: 12px; font-size: 0.85em; font-weight: 500;">2024.07 – 2024.08</span>  
-  **Research Intern**  
-  📍 [*EACON, Beijing Easy Control Intelligent Driving Technology Co., LTD*](https://ceshi.eacon.com/en/)
+  <!-- 第二项 -->
+  <tr style="border-bottom: 1px solid #f0f0f0;">
+    <td style="padding: 10px 0; border: none; vertical-align: top;">
+      <strong style="color: #111; font-size: 1.05em;">Research Intern</strong><br>
+      <a href="https://ceshi.eacon.com/en/" style="text-decoration: none;">EACON, Beijing Easy Control Intelligent Driving Technology Co., LTD</a>
+    </td>
+    <td style="padding: 10px 0; border: none; text-align: right; vertical-align: top; color: #666; font-size: 0.9em; white-space: nowrap;">
+      <b>2024.07 – 2024.08</b>
+    </td>
+  </tr>
 
-* <span style="background-color: #f1f5f9; color: #475569; padding: 2px 8px; border-radius: 12px; font-size: 0.85em; font-weight: 500;">2024.03 – 2024.04</span>  
-  **Image Data Annotation Research Assistant**  
-  📍 [*Computational Cognition, Vision, and Learning Lab, Johns Hopkins University*](https://ccvl.jhu.edu/)
+  <!-- 第三项 -->
+  <tr style="border-bottom: 1px solid #f0f0f0;">
+    <td style="padding: 10px 0; border: none; vertical-align: top;">
+      <strong style="color: #111; font-size: 1.05em;">Image Data Annotation Research Assistant</strong><br>
+      <a href="https://ccvl.jhu.edu/" style="text-decoration: none;">Computational Cognition, Vision, and Learning Lab, Johns Hopkins University</a>
+    </td>
+    <td style="padding: 10px 0; border: none; text-align: right; vertical-align: top; color: #666; font-size: 0.9em; white-space: nowrap;">
+      <b>2024.03 – 2024.04</b>
+    </td>
+  </tr>
 
-* <span style="background-color: #f1f5f9; color: #475569; padding: 2px 8px; border-radius: 12px; font-size: 0.85em; font-weight: 500;">2021.09 – 2023.09</span>  
-  **Research Assistant**  
-  📍 [*Institute of Mathematics and Systems Science, Liaoning Technology University*](https://en.lntu.edu.cn/)
+  <!-- 第四项 -->
+  <tr style="border-bottom: 1px solid #f0f0f0;">
+    <td style="padding: 10px 0; border: none; vertical-align: top;">
+      <strong style="color: #111; font-size: 1.05em;">Research Assistant</strong><br>
+      <a href="https://en.lntu.edu.cn/" style="text-decoration: none;">Institute of Mathematics and Systems Science, Liaoning Technology University</a>
+    </td>
+    <td style="padding: 10px 0; border: none; text-align: right; vertical-align: top; color: #666; font-size: 0.9em; white-space: nowrap;">
+      <b>2021.09 – 2023.09</b>
+    </td>
+  </tr>
 
-* <span style="background-color: #f1f5f9; color: #475569; padding: 2px 8px; border-radius: 12px; font-size: 0.85em; font-weight: 500;">2021.09 – 2023.09</span>  
-  **Teaching Assistant**  
-  📍 [*College of Science, Liaoning Technology University*](https://en.lntu.edu.cn/)
+  <!-- 第五项 -->
+  <tr style="border-bottom: 1px solid #f0f0f0;">
+    <td style="padding: 10px 0; border: none; vertical-align: top;">
+      <strong style="color: #111; font-size: 1.05em;">Teaching Assistant</strong><br>
+      <a href="https://en.lntu.edu.cn/" style="text-decoration: none;">College of Science, Liaoning Technology University</a>
+    </td>
+    <td style="padding: 10px 0; border: none; text-align: right; vertical-align: top; color: #666; font-size: 0.9em; white-space: nowrap;">
+      <b>2021.09 – 2023.09</b>
+    </td>
+  </tr>
+</table>
  
-# 🤝Collaborators
+# 🤝 Collaborators
 
 I deeply appreciate and am grateful to my collaborators and institutions for their continuous support and opportunities to grow in both academic and professional domains.
 
