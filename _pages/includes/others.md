@@ -1,18 +1,4 @@
 
-# 📖 Educations
-
-- *2026.08 - present*, **Ph.D. Student**, Computer Science and Software Engineering, Auburn University, Auburn, Alabama, USA.
-
-- *2023.08 - 2025.01*, **M.S.E. in Computer Science**, Johns Hopkins University, Baltimore, Maryland, USA.
-
-- *2019.09 - 2023.07*, **B.S. degree**, Information and Computer Science and Mathematics, Liaoning Technical University, Fuxin, Liaoning, China.
-<div style="display:flex; align-items:center; justify-content:center; gap:45px; margin:20px 0 25px 0; flex-wrap:wrap;">
-  <img title="Auburn University" alt="Auburn University" src="images/auburn.jpg" style="height:95px; width:auto;">
-  <img title="Johns Hopkins University" alt="Johns Hopkins University" src="images/jhu.png" style="height:80px; width:auto;">
-  <img title="Liaoning Technical University" alt="Liaoning Technical University" src="images/Liaoning_Technical_University_logo.png" style="height:85px; width:auto;">
-</div>
-
-
 # 🛎 Employment
 
 <table style="width:100%; border-collapse: collapse; border: none; font-size: 0.95em;">
@@ -20,7 +6,7 @@
   <tr style="border-bottom: 1px solid #f0f0f0;">
     <td style="padding: 10px 0; border: none; vertical-align: top;">
       <strong style="color: #111; font-size: 1.05em;">Research Assistant</strong><br>
-      <a href="https://github.com/isle-dev" style="text-decoration: none;">ISLE lab, Johns Hopkins University</a>
+      <a href="https://github.com/isle-dev" style="text-decoration: none;">ISLa lab, Johns Hopkins University</a>
     </td>
     <td style="padding: 10px 0; border: none; text-align: right; vertical-align: top; color: #666; font-size: 0.9em; white-space: nowrap;">
       <b>2024.06 – Present</b>
@@ -71,6 +57,19 @@
     </td>
   </tr>
 </table>
+# 📖 Educations
+
+- *2026.08 - present*, **Ph.D. Student**, Computer Science and Software Engineering, Auburn University, Auburn, Alabama, USA.
+
+- *2023.08 - 2025.01*, **M.S.E. in Computer Science**, Johns Hopkins University, Baltimore, Maryland, USA.
+
+- *2019.09 - 2023.07*, **B.S. degree**, Information and Computer Science and Mathematics, Liaoning Technical University, Fuxin, Liaoning, China.
+<div style="display:flex; align-items:center; justify-content:center; gap:45px; margin:20px 0 25px 0; flex-wrap:wrap;">
+  <img title="Auburn University" alt="Auburn University" src="images/auburn.jpg" style="height:95px; width:auto;">
+  <img title="Johns Hopkins University" alt="Johns Hopkins University" src="images/jhu.png" style="height:80px; width:auto;">
+  <img title="Liaoning Technical University" alt="Liaoning Technical University" src="images/Liaoning_Technical_University_logo.png" style="height:85px; width:auto;">
+</div>
+
  
 # 🤝 Collaborators
 
