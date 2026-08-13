@@ -1,19 +1,32 @@
 
 # 🛎 Employment
 
+
 <table style="width:100%; border-collapse: collapse; border: none; font-size: 0.95em;">
-  <!-- 第一项 -->
+ 
+  <tr style="border-bottom: 1px solid #f0f0f0;">
+    <td style="padding: 10px 0; border: none; vertical-align: top;">
+      <strong style="color: #111; font-size: 1.05em;">Research Assistant</strong><br>
+      <a href="https://github.com/isle-dev" style="text-decoration: none;">Collaborative Software Engineeringg lab, Auburn University</a>
+    </td>
+    <td style="padding: 10px 0; border: none; text-align: right; vertical-align: top; color: #666; font-size: 0.9em; white-space: nowrap;">
+      <b>2026.08 – present</b>
+    </td>
+  </tr>
+
+<table style="width:100%; border-collapse: collapse; border: none; font-size: 0.95em;">
+
   <tr style="border-bottom: 1px solid #f0f0f0;">
     <td style="padding: 10px 0; border: none; vertical-align: top;">
       <strong style="color: #111; font-size: 1.05em;">Research Assistant</strong><br>
       <a href="https://github.com/isle-dev" style="text-decoration: none;">ISLa lab, Johns Hopkins University</a>
     </td>
     <td style="padding: 10px 0; border: none; text-align: right; vertical-align: top; color: #666; font-size: 0.9em; white-space: nowrap;">
-      <b>2024.06 – Present</b>
+      <b>2024.06 – 2026.02</b>
     </td>
   </tr>
 
-  <!-- 第二项 -->
+
   <tr style="border-bottom: 1px solid #f0f0f0;">
     <td style="padding: 10px 0; border: none; vertical-align: top;">
       <strong style="color: #111; font-size: 1.05em;">Research Intern</strong><br>
@@ -24,7 +37,7 @@
     </td>
   </tr>
 
-  <!-- 第三项 -->
+
   <tr style="border-bottom: 1px solid #f0f0f0;">
     <td style="padding: 10px 0; border: none; vertical-align: top;">
       <strong style="color: #111; font-size: 1.05em;">Image Data Annotation Research Assistant</strong><br>
@@ -35,7 +48,7 @@
     </td>
   </tr>
 
-  <!-- 第四项 -->
+
   <tr style="border-bottom: 1px solid #f0f0f0;">
     <td style="padding: 10px 0; border: none; vertical-align: top;">
       <strong style="color: #111; font-size: 1.05em;">Research Assistant</strong><br>
@@ -46,7 +59,7 @@
     </td>
   </tr>
 
-  <!-- 第五项 -->
+ 
   <tr style="border-bottom: 1px solid #f0f0f0;">
     <td style="padding: 10px 0; border: none; vertical-align: top;">
       <strong style="color: #111; font-size: 1.05em;">Teaching Assistant</strong><br>
