@@ -1,16 +1,27 @@
 # 👨‍⚖️ Teaching
-<table style="width:100%; border-collapse: collapse; border: none; font-size: 0.95em;">
+<table style="width:100%; border-collapse: collapse; border: none; font-size: 0.95em; margin-top: -10px;">
+  <tr style="border-bottom: 1px solid #f0f0f0;">
 
-<tr style="border-bottom: 1px solid #f0f0f0;">
-    <td style="padding: 10px 0; border: none; vertical-align: top;">
-      <strong style="color: #111; font-size: 1.05em;">Graduate Teaching Assistant</strong><br>
-      <a href="https://www.coursicle.com/auburn/courses/COMP/1230/" style="text-decoration: none;">[COMP 1230] - [Introduction to Computing with MATLAB] </a>
+    <!-- 左边：职位 + 年份 -->
+    <td style="padding: 6px 0 10px 0; border: none; vertical-align: top; width: 45%;">
+      <strong style="color: #111; font-size: 1.05em;">
+        Graduate Teaching Assistant
+      </strong><br>
+      <span style="color: #666; font-size: 0.9em;">
+        Fall 2026
+      </span>
     </td>
-    <td style="padding: 10px 0; border: none; text-align: right; vertical-align: top; color: #666; font-size: 0.9em; white-space: nowrap;">
-      <b>2026 Fall-2027</b>
+
+    <!-- 右边：课程 + 链接 -->
+    <td style="padding: 6px 0 10px 0; border: none; vertical-align: top; text-align: right;">
+      <a href="https://www.coursicle.com/auburn/courses/COMP/1230/"
+         style="text-decoration: none;">
+        COMP 1230 — Introduction to Computing with MATLAB
+      </a>
     </td>
   </tr>
- </table>
+</table>
+ 
      
 # 🛎 Employment
 <table style="width:100%; border-collapse: collapse; border: none; font-size: 0.95em;">
