@@ -23,7 +23,6 @@
       <strong style="color:#111; font-size:1.05em;">
         Graduate Teaching Assistant
       </strong><br>
-
       <span style="color:#666; font-size:0.92em; line-height:1.7;">
         Fall 2026
       </span>
@@ -44,7 +43,6 @@
         Auburn University
       </span>
     </td>
-
   </tr>
 </table>
 
