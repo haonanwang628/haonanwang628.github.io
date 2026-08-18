@@ -1,10 +1,6 @@
 
 # 🛎 Employment
 
-
- 
-  
-
 <table style="width:100%; border-collapse: collapse; border: none; font-size: 0.95em;">
 
 <tr style="border-bottom: 1px solid #f0f0f0;">
