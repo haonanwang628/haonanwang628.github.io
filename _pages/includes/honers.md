@@ -1,5 +1,4 @@
 # Teaching and Service
-[COMP 1230] - [Introduction to Computing with MATLAB](https://www.coursicle.com/auburn/courses/COMP/1230/)[2026-2027] 
 
 <table style="width:100%; border-collapse: collapse; border: none; font-size: 0.95em;">
 
@@ -9,7 +8,7 @@
       <a href="https://www.coursicle.com/auburn/courses/COMP/1230/" style="text-decoration: none;">[COMP 1230] - [Introduction to Computing with MATLAB] </a>
     </td>
     <td style="padding: 10px 0; border: none; text-align: right; vertical-align: top; color: #666; font-size: 0.9em; white-space: nowrap;">
-      <b>[2026-2027]</b>
+      <b>2026-2027</b>
     </td>
   </tr>
 
