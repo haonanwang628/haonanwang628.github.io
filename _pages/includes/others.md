@@ -15,7 +15,7 @@
     <td style="padding: 6px 0 10px 0; border: none; vertical-align: top; text-align: right;">
       <a href="https://www.coursicle.com/auburn/courses/COMP/1230/"
          style="text-decoration: none;">
-        COMP 1230 — Introduction to Computing with MATLAB
+        [COMP 1230] — Introduction to Computing with MATLAB
       </a>
     </td>
   
