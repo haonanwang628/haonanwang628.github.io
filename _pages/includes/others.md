@@ -11,7 +11,6 @@
         Fall 2026
       </span>
     </td>
-
     <!-- 中间：课程 -->
     <td style="padding: 6px 15px 10px 15px; border: none; vertical-align: top; width: 35%;">
       <a href="https://www.coursicle.com/auburn/courses/COMP/1230/"
@@ -19,7 +18,6 @@
         [COMP 1230] — Introduction to Computing with MATLAB
       </a>
     </td>
-
     <!-- 右边：院系 + 学校 -->
     <td style="padding: 6px 0 10px 15px; border: none; vertical-align: top; width: 35%; text-align: right;">
       <span style="color: #444;">
