@@ -11,7 +11,6 @@
         Fall 2026
       </span>
     </td>
-
     <!-- 右边：课程 + 链接 -->
     <td style="padding: 6px 0 10px 0; border: none; vertical-align: top; text-align: right;">
       <a href="https://www.coursicle.com/auburn/courses/COMP/1230/"
