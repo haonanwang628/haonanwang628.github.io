@@ -10,7 +10,7 @@
       <b>2026 Fall-2027</b>
     </td>
   </tr>
- <table>
+ </table>
      
 # 🛎 Employment
 <table style="width:100%; border-collapse: collapse; border: none; font-size: 0.95em;">
