@@ -1,5 +1,5 @@
 # Teaching and Service
-
+[COMP 1230] - [Introduction to Computing with MATLAB](https://www.coursicle.com/auburn/courses/COMP/1230/)[2026-2027] 
 # 🎖 Honors and Awards
 - ***Oct 2022* China National Scholarship (Top 1%)**\
   *Ministry of Education of the People’s Republic of China*\
