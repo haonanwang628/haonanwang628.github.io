@@ -19,6 +19,7 @@
         COMP 1230 — Introduction to Computing with MATLAB
       </a>
     </td>
+  
   </tr>
 </table>
  
