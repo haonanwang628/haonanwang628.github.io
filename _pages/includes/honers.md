@@ -1,4 +1,4 @@
-# Teaching and Service
+# 👨‍⚖️ Teaching
 
 <table style="width:100%; border-collapse: collapse; border: none; font-size: 0.95em;">
 
