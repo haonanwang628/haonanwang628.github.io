@@ -1,7 +1,7 @@
 # 👨‍⚖️ Teaching
+
 <table style="width:100%; border-collapse: collapse; border: none; font-size: 0.95em; margin-top: -10px;">
   <tr style="border-bottom: 1px solid #f0f0f0;">
-
     <!-- 左边：职位 + 年份 -->
     <td style="padding: 6px 0 10px 0; border: none; vertical-align: top; width: 45%;">
       <strong style="color: #111; font-size: 1.05em;">
