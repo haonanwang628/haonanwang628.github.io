@@ -6,10 +6,10 @@
 <tr style="border-bottom: 1px solid #f0f0f0;">
     <td style="padding: 10px 0; border: none; vertical-align: top;">
       <strong style="color: #111; font-size: 1.05em;">Graduate Teaching Assistant</strong><br>
-      <a href="https://github.com/isle-dev" style="text-decoration: none;">[2026-2027] </a>
+      <a href="https://www.coursicle.com/auburn/courses/COMP/1230/" style="text-decoration: none;">[COMP 1230] - [Introduction to Computing with MATLAB] </a>
     </td>
     <td style="padding: 10px 0; border: none; text-align: right; vertical-align: top; color: #666; font-size: 0.9em; white-space: nowrap;">
-      <b>[COMP 1230] - [Introduction to Computing with MATLAB](https://www.coursicle.com/auburn/courses/COMP/1230/)</b>
+      <b>[2026-2027]</b>
     </td>
   </tr>
 
