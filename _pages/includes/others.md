@@ -1,5 +1,4 @@
 # 👨‍⚖️ Teaching
-
 <table style="width:100%; border-collapse: collapse; border: none; font-size: 0.95em;">
 
 <tr style="border-bottom: 1px solid #f0f0f0;">
@@ -11,11 +10,9 @@
       <b>2026 Fall-2027</b>
     </td>
   </tr>
-
  <table>
      
 # 🛎 Employment
-
 <table style="width:100%; border-collapse: collapse; border: none; font-size: 0.95em;">
 
 <tr style="border-bottom: 1px solid #f0f0f0;">
@@ -84,7 +81,6 @@
 </table>
 
 # 📖 Educations
-
 - *2026.08 - present*, **Ph.D. Student**, Computer Science and Software Engineering, Auburn University, Auburn, Alabama, USA.
 
 - *2023.08 - 2025.01*, **M.S.E. in Computer Science**, Johns Hopkins University, Baltimore, Maryland, USA.
@@ -98,6 +94,5 @@
 
  
 # 🤝 Collaborators
-
 I deeply appreciate and am grateful to my collaborators and institutions for their continuous support and opportunities to grow in both academic and professional domains.
 
