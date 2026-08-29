@@ -4,9 +4,7 @@
 
 - <span style="color:#7D3C98; font-weight: bold;"> In my Master:</span>\
   I received ***my Master's degree in Computer Science Engineering*** at [Johns Hopkins University (JHU)](https://www.jhu.edu/) in the 2025 Spring.
-   During my master's studies, I am also a **graduate research assistant volunteer** at Johns Hopkins University, working with[Prof. Ziang Xiao](https://www.ziangxiao.com/) and [Prof. Jie Gao](https://gaojie058.github.io/), and I have also actively engaged in NLP discussions with [Prof. Jason Eisner(Faculty advisor)](https://www.cs.jhu.edu/~jason/) at the [ Center for Language and Speech Processing (CLSP)](https://www.clsp.jhu.edu/).
-
-Meanwhile, I have also collaborated with [Xingdi Yuan](https://xingdi-eric-yuan.github.io/), Principal Researcher and [Prof. Ruoyao Wang](https://ruoyao-wang.github.io/) at [Microsoft Research, Montréal](https://www.microsoft.com/en-us/research/lab/microsoft-research-montreal/).
+   During my master's studies, I am also a **graduate research assistant volunteer** at Johns Hopkins University, working with[Prof. Ziang Xiao](https://www.ziangxiao.com/) and [Prof. Jie Gao](https://gaojie058.github.io/), and I have also actively engaged in NLP discussions with [Prof. Jason Eisner(Faculty advisor)](https://www.cs.jhu.edu/~jason/) at the [ Center for Language and Speech Processing (CLSP)](https://www.clsp.jhu.edu/). Meanwhile, I have also collaborated with [Xingdi Yuan](https://xingdi-eric-yuan.github.io/), Principal Researcher and [Prof. Ruoyao Wang](https://ruoyao-wang.github.io/) at [Microsoft Research, Montréal](https://www.microsoft.com/en-us/research/lab/microsoft-research-montreal/).
 
 - <span style=" color:#6A5ACD; font-weight: bold;"> In my Undergraduate: </span>\
   I received  ***my B.S. degree in Information and Computer Science, and Mathematics*** from [Liaoning Technology University](https://en.lntu.edu.cn/) in the 2023 Spring.
