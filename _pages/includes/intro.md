@@ -20,7 +20,7 @@
 My research broadly focuses on **LLM Agent Reasoning and Evaluation**, with the goal of building language-model agents that can reason, collaborate, and evaluate their decisions more reliably.
 
 My current research centers on two directions:
-- **Legal AI**: developing and evaluating LLM-based systems for long-document legal reasoning, evidence grounding, argument understanding, and verifiable decision-making.
+- **Legal AI**: developing and evaluating LLM-based systems for long-document legal reasoning, understanding, and verifiable decision-making benchmarks.
 
 - **Multi-Agent Reasoning**: studying reasoning dynamics in multi-agent systems, including collaboration, debate, feedback, self-correction, and the influence of model scale on agent interactions.
 
