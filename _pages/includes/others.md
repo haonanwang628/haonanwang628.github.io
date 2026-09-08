@@ -54,7 +54,7 @@
     ">
       <a href="https://www.coursicle.com/auburn/courses/COMP/1230/"
          style="text-decoration:none; line-height:1.45;">
-        [COMP 1230] — Introduction to Computing with MATLAB
+        [COMP 1230] — Machine Learning
       </a>
     </td>
     <!-- 中间：职位 + 年份 -->
@@ -81,10 +81,10 @@
       line-height:1.45;
     ">
       <span style="color:#444;">
-        Department of Computer Science and Software Engineering
+       College of Science
       </span><br>
       <span style="color:#666;">
-        Auburn University
+        Liaoning Technology University
       </span>
     </td>
   </tr>
