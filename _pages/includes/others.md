@@ -52,7 +52,7 @@
       vertical-align:top;
       width:38%;
     ">
-      <a href=""
+      <a href="https://www.xuetangx.com/course/lntu07011001278/31377807"
          style="text-decoration:none; line-height:1.45;">
         Numerical Analysis
       </a>
@@ -65,10 +65,10 @@
       width:25%;
     ">
       <strong style="color:#111; font-size:1.05em;">
-        Graduate Teaching Assistant
+        Undergraduate Teaching Assistant(☆National First-Class Undergraduate Courses)
       </strong><br>
       <span style="color:#666; font-size:0.92em; line-height:1.7;">
-        Fall 2021
+        Fall 2020, Fall 2021
       </span>
     </td>
     <!-- 右边：院系 + 学校 -->
