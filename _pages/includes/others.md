@@ -107,7 +107,7 @@
   
   <tr style="border-bottom: 1px solid #f0f0f0;">
     <td style="padding: 10px 0; border: none; vertical-align: top;">
-      <strong style="color: #111; font-size: 1.05em;">Research Assistant(M.S.E)</strong><br>
+      <strong style="color: #111; font-size: 1.05em;">Research Assistant</strong><br>
       <a href="https://github.com/isle-dev" style="text-decoration: none;">ISLa lab, Johns Hopkins University</a>
     </td>
     <td style="padding: 10px 0; border: none; text-align: right; vertical-align: top; color: #666; font-size: 0.9em; white-space: nowrap;">
@@ -116,7 +116,7 @@
   </tr>
   <tr style="border-bottom: 1px solid #f0f0f0;">
   <td style="padding: 10px 0; border: none; vertical-align: top;">
-    <strong style="color: #111; font-size: 1.05em;">Research Collaborator(M.S.E)</strong><br>
+    <strong style="color: #111; font-size: 1.05em;">Research Collaborator</strong><br>
     <a href="https://microsoft.github.io/debug-gym/"
        style="text-decoration: none;">
       Microsoft Research Montréal
@@ -132,7 +132,7 @@
 
   <tr style="border-bottom: 1px solid #f0f0f0;">
     <td style="padding: 10px 0; border: none; vertical-align: top;">
-      <strong style="color: #111; font-size: 1.05em;">Research Intern(M.S.E)</strong><br>
+      <strong style="color: #111; font-size: 1.05em;">Research Intern</strong><br>
       <a href="https://ceshi.eacon.com/en/" style="text-decoration: none;">EACON, Beijing Easy Control Intelligent Driving Technology Co., LTD</a>
     </td>
     <td style="padding: 10px 0; border: none; text-align: right; vertical-align: top; color: #666; font-size: 0.9em; white-space: nowrap;">
@@ -143,7 +143,7 @@
 
   <tr style="border-bottom: 1px solid #f0f0f0;">
     <td style="padding: 10px 0; border: none; vertical-align: top;">
-      <strong style="color: #111; font-size: 1.05em;">Image Data Annotation Research Assistant(M.S.E)</strong><br>
+      <strong style="color: #111; font-size: 1.05em;">Image Data Science Research Assistant</strong><br>
       <a href="https://ccvl.jhu.edu/" style="text-decoration: none;">Computational Cognition, Vision, and Learning Lab, Johns Hopkins University</a>
     </td>
     <td style="padding: 10px 0; border: none; text-align: right; vertical-align: top; color: #666; font-size: 0.9em; white-space: nowrap;">
@@ -154,7 +154,7 @@
 
   <tr style="border-bottom: 1px solid #f0f0f0;">
     <td style="padding: 10px 0; border: none; vertical-align: top;">
-      <strong style="color: #111; font-size: 1.05em;">Research Assistant(B.S.)</strong><br>
+      <strong style="color: #111; font-size: 1.05em;">Research Assistant</strong><br>
       <a href="https://en.lntu.edu.cn/" style="text-decoration: none;">Institute of Mathematics and Systems Science, Liaoning Technology University</a>
     </td>
     <td style="padding: 10px 0; border: none; text-align: right; vertical-align: top; color: #666; font-size: 0.9em; white-space: nowrap;">
