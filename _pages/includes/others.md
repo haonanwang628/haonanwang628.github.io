@@ -52,9 +52,9 @@
       vertical-align:top;
       width:38%;
     ">
-      <a href="https://www.coursicle.com/auburn/courses/COMP/1230/"
+      <a href=""
          style="text-decoration:none; line-height:1.45;">
-        [COMP 1230] — Machine Learning
+        Numerical Analysis
       </a>
     </td>
     <!-- 中间：职位 + 年份 -->
@@ -68,7 +68,7 @@
         Graduate Teaching Assistant
       </strong><br>
       <span style="color:#666; font-size:0.92em; line-height:1.7;">
-        Fall 2026
+        Fall 2021
       </span>
     </td>
     <!-- 右边：院系 + 学校 -->
