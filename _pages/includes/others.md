@@ -117,7 +117,7 @@
   <tr style="border-bottom: 1px solid #f0f0f0;">
   <td style="padding: 10px 0; border: none; vertical-align: top;">
     <strong style="color: #111; font-size: 1.05em;">Research Collaborator</strong><br>
-    <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-montreal/"
+    <a href="https://microsoft.github.io/debug-gym/"
        style="text-decoration: none;">
       Microsoft Research Montréal
     </a>
@@ -125,7 +125,7 @@
 
   <td style="padding: 10px 0; border: none; text-align: right; vertical-align: top;
              color: #666; font-size: 0.9em; white-space: nowrap;">
-    <b>2025.XX – present</b>
+    <b>2025.4 – 2025.9</b>
   </td>
 </tr>
 
