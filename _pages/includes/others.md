@@ -108,13 +108,26 @@
   <tr style="border-bottom: 1px solid #f0f0f0;">
     <td style="padding: 10px 0; border: none; vertical-align: top;">
       <strong style="color: #111; font-size: 1.05em;">Research Assistant</strong><br>
-      <a href="https://github.com/isle-dev" style="text-decoration: none;">ISLa lab, Johns Hopkins University</a>\
-      <a href="https://github.com/isle-dev" style="text-decoration: none;"> Microsoft Research Montréal</a>
+      <a href="https://github.com/isle-dev" style="text-decoration: none;">ISLa lab, Johns Hopkins University</a>
     </td>
     <td style="padding: 10px 0; border: none; text-align: right; vertical-align: top; color: #666; font-size: 0.9em; white-space: nowrap;">
       <b>2024.06 – 2026.02</b>
     </td>
   </tr>
+  <tr style="border-bottom: 1px solid #f0f0f0;">
+  <td style="padding: 10px 0; border: none; vertical-align: top;">
+    <strong style="color: #111; font-size: 1.05em;">Research Collaborator</strong><br>
+    <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-montreal/"
+       style="text-decoration: none;">
+      Microsoft Research Montréal
+    </a>
+  </td>
+
+  <td style="padding: 10px 0; border: none; text-align: right; vertical-align: top;
+             color: #666; font-size: 0.9em; white-space: nowrap;">
+    <b>2025.XX – present</b>
+  </td>
+</tr>
 
 
   <tr style="border-bottom: 1px solid #f0f0f0;">
