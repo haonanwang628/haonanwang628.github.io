@@ -12,9 +12,6 @@
 - <span style=" color:#228B22; font-weight: bold;"> Another activity: </span>\
   I am also a **Co-founder** of ***SpringTeng AI***, a startup and community based in the China National University Science Park. This community focuses on developing AI data analysis systems, Software Patents Apps for industry technologies, and collaborating with companies such as EACON Driverless and the Chinese Ming Group.
 
-<p style="text-align: center; font-family: 'Playfair Display', Georgia, serif; font-size: 1.1em; letter-spacing: 2px; color: #4b5563; font-style: italic;">
-  This webpage was last updated on <span style="border-bottom: 1px solid #cbd5e1; padding-bottom: 2px;">Aug 29, 2026</span>.
-</p>
 
 # 🤔 Research interest
 My research broadly focuses on **LLM Agent Reasoning and Evaluation**, with the goal of building language-model agents that can reason, collaborate, and evaluate their decisions more reliably.
