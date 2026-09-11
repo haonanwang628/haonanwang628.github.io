@@ -99,7 +99,7 @@
        target="_blank">
       🌟Google Scholar
     </a>
-    · [<strong>{{ site.data.scholar.citations }}</strong>] citations
+    · [<strong>{{ site.data.scholar.citations }}</strong>] citations 🎉
   </div>
 
 </div>
