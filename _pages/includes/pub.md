@@ -97,7 +97,7 @@
   <div class="scholar-citations">
     <a href="https://scholar.google.com/citations?user=DBxarZYAAAAJ&hl=en"
        target="_blank">
-      🎉Google Scholar
+      🌟Google Scholar
     </a>
     · [<strong>{{ site.data.scholar.citations }}</strong>] citations
   </div>
