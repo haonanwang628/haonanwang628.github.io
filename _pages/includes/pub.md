@@ -14,28 +14,28 @@
     color: #1a365d;
   }
   
-  /* 1. 文章标题设为纯文本黑色 */
+  
   .pub-title {
     color: #111827;
     font-size: 15px;
   }
 
-  /* 2. 底部元信息栏 */
+  
   .pub-meta {
     margin-left: 16px;
     margin-top: 4px;
     font-size: 14px;
-    color: #6b7280; /* 斜杠 / 颜色 */
+    color: #6b7280; 
   }
   
-  /* 会议/期刊名称：黑色 + 加粗 */
+  
   .venue-title {
     font-weight: 800;
-    color: #1d4ed8; /* 经典的皇家深蓝/宝蓝 */
+    color: #1d4ed8;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-    letter-spacing: 0.2px; /* 微调字符间距，更有出版物质感 */
+    letter-spacing: 0.2px; 
   
-  /* 资源链接（Paper/Code/Slides等）：蓝色 */
+  
   .pub-meta a {
     color: #2563eb;
     text-decoration: none;
@@ -56,14 +56,14 @@
   · <strong>{{ site.data.scholar.citations }}</strong> citations
 </div>
 
-<!-- 1. 顶部切换菜单 -->
+<!-- 1.  -->
 <div style="margin-bottom: 20px; font-size: 16px;">
   <button type="button" class="pub-filter-btn" onclick="showSection('date')" id="btn-date" style="font-weight: bold;">by date:all</button> / 
   <button type="button" class="pub-filter-btn" onclick="showSection('topic')" id="btn-topic">by topic</button> / 
   <button type="button" class="pub-filter-btn" onclick="showSection('featured')" id="btn-featured">featured</button>
 </div>
 
-<!-- 2. 按 Date 分组视图 -->
+<!-- 2.  Date  -->
 <div id="section-date" class="pub-section">
   {% assign years = site.data.publications | map: "year" | uniq | sort | reverse %}
   {% for y in years %}
@@ -122,7 +122,7 @@
   {% endfor %}
 </div>
 
-<!-- 3. 按 Topic 分组视图 -->
+<!-- 3. Topic  -->
 <div id="section-topic" class="pub-section" style="display: none;">
   {% assign topics = "Legal AI,Large Language Model Technologies,Machine Learning" | split: "," %}
   {% for t in topics %}
@@ -154,7 +154,7 @@
   {% endfor %}
 </div>
 
-<!-- 4. Featured 精选视图 -->
+<!-- 4. Featured -->
 <div id="section-featured" class="pub-section" style="display: none;">
   <h2 style="margin-top: 25px; border-bottom: 1px solid #eee; padding-bottom: 5px;">Featured Publications</h2>
   {% assign featured_papers = site.data.publications | where: "featured", true %}
@@ -181,7 +181,7 @@
   {% endfor %}
 </div>
 
-<!-- 5. 切换脚本 -->
+<!-- 5.  -->
 <script>
 function showSection(type) {
   const sections = document.querySelectorAll('.pub-section');
