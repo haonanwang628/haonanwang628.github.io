@@ -34,6 +34,7 @@
     color: #1d4ed8;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
     letter-spacing: 0.2px; 
+  }
   
   
   .pub-meta a {
@@ -75,7 +76,7 @@
 
 <div class="pub-toolbar">
 
-  <div class="pub-filters">
+  <div>
     <button type="button"
             class="pub-filter-btn"
             onclick="showSection('date')"
@@ -103,12 +104,6 @@
 
 </div>
 
-<!-- 1.  -->
-<div style="margin-bottom: 20px; font-size: 16px;">
-  <button type="button" class="pub-filter-btn" onclick="showSection('date')" id="btn-date" style="font-weight: bold;">by date:all</button> / 
-  <button type="button" class="pub-filter-btn" onclick="showSection('topic')" id="btn-topic">by topic</button> / 
-  <button type="button" class="pub-filter-btn" onclick="showSection('featured')" id="btn-featured">featured</button>
-</div>
 
 <!-- 2.  Date  -->
 <div id="section-date" class="pub-section">
