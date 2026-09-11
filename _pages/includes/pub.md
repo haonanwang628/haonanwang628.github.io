@@ -40,10 +40,21 @@
     color: #2563eb;
     text-decoration: none;
   }
-  .pub-meta a:hover {
+  .pub-meta a: hover {
     text-decoration: underline;
   }
+   .scholar-citations strong {
+    color: #374151;
+  }
 </style>
+
+<div class="scholar-citations">
+  <a href="https://scholar.google.com/citations?user=DBxarZYAAAAJ&hl=en"
+     target="_blank">
+    Google Scholar
+  </a>
+  · <strong>{{ site.data.scholar.citations }}</strong> citations
+</div>
 
 <!-- 1. 顶部切换菜单 -->
 <div style="margin-bottom: 20px; font-size: 16px;">
