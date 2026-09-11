@@ -43,17 +43,64 @@
   .pub-meta a: hover {
     text-decoration: underline;
   }
-   .scholar-citations strong {
-    color: #374151;
-  }
+  .pub-toolbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+  font-size: 16px;
+}
+
+.scholar-citations {
+  font-size: 14px;
+  color: #6b7280;
+  white-space: nowrap;
+  text-align: right;
+}
+
+.scholar-citations a {
+  color: #2563eb;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.scholar-citations a:hover {
+  text-decoration: underline;
+}
+
+.scholar-citations strong {
+  color: #374151;
+}
 </style>
 
-<div class="scholar-citations">
-  <a href="https://scholar.google.com/citations?user=DBxarZYAAAAJ&hl=en"
-     target="_blank">
-    Google Scholar
-  </a>
-  · <strong>{{ site.data.scholar.citations }}</strong> citations
+<div class="pub-toolbar">
+
+  <div class="pub-filters">
+    <button type="button"
+            class="pub-filter-btn"
+            onclick="showSection('date')"
+            id="btn-date"
+            style="font-weight: bold;">by date:all</button> / 
+
+    <button type="button"
+            class="pub-filter-btn"
+            onclick="showSection('topic')"
+            id="btn-topic">by topic</button> / 
+
+    <button type="button"
+            class="pub-filter-btn"
+            onclick="showSection('featured')"
+            id="btn-featured">featured</button>
+  </div>
+
+  <div class="scholar-citations">
+    <a href="https://scholar.google.com/citations?user=DBxarZYAAAAJ&hl=en"
+       target="_blank">
+      Google Scholar
+    </a>
+    · <strong>{{ site.data.scholar.citations }}</strong> citations
+  </div>
+
 </div>
 
 <!-- 1.  -->
