@@ -1,14 +1,3 @@
-
-
-
-- title: "From Noise to Nuance: Enriching Subjective Data Interpretation through Qualitative Analysis"
-  authors: 'Ruyuan Wan, <span style="color:darkblue"><b>Haonan Wang</b></span>, Ting-Hao Kenneth Huang, Jie Gao.'
-  venue: "The 4th HCI + NLP Workshop at EMNLP 2025"
-  year: 2025
-  topic: "Large Language Model Technologies"
-  featured: true
-  paper_url: "https://aclanthology.org/2025.hcinlp-1.20/"
-
 - title: "ByteSized32Refactored: Towards an Extensible Interactive Text Games Corpus for LLM World Modeling and Evaluation"
   authors: '<span style=" color:darkblue"><b>Haonan Wang</b></span>, Junfeng Sun, Xindi Yuan, Ruoyao Wang, Ziang Xiao.'
   venue: "The 5th WordPlay Workshop at EMNLP 2025"
@@ -19,6 +8,16 @@
   code_url: "https://github.com/isle-dev/BYTESIZED32-Refactored/"
   slides_url: "https://docs.google.com/presentation/d/1fkBqKv6eUosixZW7ZpW51AjUzKbA_JZajmzdo4BR7Zc/edit?slide=id.g3881c550231_0_33#slide=id.g3881c550231_0_33"
   video_url: "https://haonanwang628.github.io/assets/paper/bytesized32Refactored.mp4"
+
+
+- title: "From Noise to Nuance: Enriching Subjective Data Interpretation through Qualitative Analysis"
+  authors: 'Ruyuan Wan, <span style="color:darkblue"><b>Haonan Wang</b></span>, Ting-Hao Kenneth Huang, Jie Gao.'
+  venue: "The 4th HCI + NLP Workshop at EMNLP 2025"
+  year: 2025
+  topic: "Large Language Model Technologies"
+  featured: true
+  paper_url: "https://aclanthology.org/2025.hcinlp-1.20/"
+
 
 - title: "PerspectiveCoder-LM: An LLM-based Multi-agent System for Large-scale Corpus Inductive Text Coding Analysis"
   authors: '<span style="color:darkblue"><b>Haonan Wang</b></span>, Ziang Xiao, Jie Gao.'
