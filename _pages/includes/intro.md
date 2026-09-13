@@ -14,10 +14,10 @@
 
 
 # 🤔 Research interest
-My research broadly focuses on **LLM Agent Reasoning and Evaluation**, with the goal of building language-model agents that can reason, collaborate, and evaluate their decisions more reliably.
+My research broadly focuses on **LLM Agent Reasoning and Evaluation** to build language-model agents that can reason, collaborate, and evaluate their decisions more reliably.
 
 My current research centers on two directions:
-- **Legal AI**: developing and evaluating LLM-based systems for long-document legal reasoning, understanding, and verifiable decision-making benchmarks.
+- **legal AI reasoning**: developing and evaluating LLM-based systems for long-document legal reasoning, understanding, and verifiable decision-making benchmarks.
 
-- **Agent Reasoning and Behavior**: studying reasoning dynamics in multi-agent systems, including collaboration, debate, feedback, self-correction, and the influence of model scale on agent interactions.
+- **Reasoning and Behavior as Agent Harness**: studying reasoning dynamics in multi-agent systems, including collaboration, debate, feedback, self-correction, and the influence of model scale on agent interactions.
 
