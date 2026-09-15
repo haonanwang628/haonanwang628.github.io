@@ -16,6 +16,8 @@ redirect_from:
 
 {% include_relative includes/pub.md %}
 
+{% include_relative includes/talk.md %}
+
 {% include_relative includes/service.md%}
 
 {% include_relative includes/teaching.md %}
