@@ -30,3 +30,5 @@ redirect_from:
 
 {% include_relative includes/software.md %}
 
+{% include_relative includes/collaborate.md %}
+
