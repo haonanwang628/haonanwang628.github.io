@@ -1,6 +1,11 @@
 # 👨‍⚖️ Teaching
+
 <table style="width:100%; border-collapse:collapse; border:none; font-size:0.95em; margin-top:-8px; table-layout:fixed;">
+
+  <!-- ==================== 第一节课 ==================== -->
+  <!-- COMP 1230 — Introduction to Computing with MATLAB -->
   <tr style="border-bottom:1px solid #f0f0f0;">
+    
     <!-- 左边：课程 -->
     <td style="
       padding:8px 10px 12px 0;
@@ -13,6 +18,7 @@
         [COMP 1230] — Introduction to Computing with MATLAB
       </a>
     </td>
+
     <!-- 中间：职位 + 年份 -->
     <td style="
       padding:8px 10px 12px 10px;
@@ -27,6 +33,7 @@
         Fall 2026
       </span>
     </td>
+
     <!-- 右边：院系 + 学校 -->
     <td style="
       padding:8px 0 12px 10px;
@@ -43,9 +50,14 @@
         Auburn University
       </span>
     </td>
+
   </tr>
 
-   <tr style="border-bottom:1px solid #f0f0f0;">
+
+  <!-- ==================== 第二节课 ==================== -->
+  <!-- Numerical Analysis -->
+  <tr style="border-bottom:1px solid #f0f0f0;">
+
     <!-- 左边：课程 -->
     <td style="
       padding:8px 10px 12px 0;
@@ -53,12 +65,12 @@
       vertical-align:top;
       width:38%;
     ">
-    
       <a href="https://www.xuetangx.com/course/lntu07011001278/31377807"
          style="text-decoration:none; line-height:1.45;">
-        Numerical Analysis(National First-Class Undergraduate Courses)
+        Numerical Analysis (National First-Class Undergraduate Course)
       </a>
     </td>
+
     <!-- 中间：职位 + 年份 -->
     <td style="
       padding:8px 10px 12px 10px;
@@ -73,6 +85,7 @@
         Fall 2020, Fall 2021
       </span>
     </td>
+
     <!-- 右边：院系 + 学校 -->
     <td style="
       padding:8px 0 12px 10px;
@@ -83,28 +96,31 @@
       line-height:1.45;
     ">
       <span style="color:#444;">
-       College of Science
+        College of Science
       </span><br>
       <span style="color:#666;">
-        Liaoning Technology University
+        Liaoning Technical University
       </span>
     </td>
+
   </tr>
-  
+
+
+  <!-- ==================== 第三节课 ==================== -->
+  <!-- Data Mining -->
   <tr style="border-bottom:1px solid #f0f0f0;">
+
     <!-- 左边：课程 -->
     <td style="
       padding:8px 10px 12px 0;
       border:none;
       vertical-align:top;
       width:38%;
+      line-height:1.45;
     ">
-    
-      <a href=""
-         style="text-decoration:none; line-height:1.45;">
-        Data Mining
-      </a>
+      Data Mining
     </td>
+
     <!-- 中间：职位 + 年份 -->
     <td style="
       padding:8px 10px 12px 10px;
@@ -119,6 +135,7 @@
         Fall 2022
       </span>
     </td>
+
     <!-- 右边：院系 + 学校 -->
     <td style="
       padding:8px 0 12px 10px;
@@ -129,12 +146,13 @@
       line-height:1.45;
     ">
       <span style="color:#444;">
-       College of Science
+        College of Science
       </span><br>
       <span style="color:#666;">
-        Liaoning Technology University
+        Liaoning Technical University
       </span>
     </td>
-  </tr>
-</table>
 
+  </tr>
+
+</table>
