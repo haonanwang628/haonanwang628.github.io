@@ -18,8 +18,13 @@ redirect_from:
 
 {% include_relative includes/service.md%}
 
-{% include_relative includes/others.md %}
+{% include_relative includes/teaching.md %}
+
+{% include_relative includes/employment.md %}
+
+{% include_relative includes/education.md %}
 
 {% include_relative includes/honers.md %}
 
 {% include_relative includes/software.md %}
+
