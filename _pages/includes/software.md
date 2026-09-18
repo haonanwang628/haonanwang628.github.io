@@ -14,7 +14,7 @@ System**. PRC Software Copyright Patent, Patent No. 2022SR1052526.\
 [P.6] <span style="color:darkblue">**Haonan Wang**</span>, Ruiyang, Wang, et al. (2022). **Unmanned shortest path planning system**. PRC Software
 Copyright Patent, Patent No.2022SR0935020.\
 [P.7] <span style="color:darkblue">**Haonan Wang**</span>, Junfeng Sun, et al. (2022). **Data operation analysis and collection system based on machine
-learning**. PRC Software Copyright Patent, Patent No. 2022SR1052428.\
+learning**. PRC Software Copyright Patent, Patent No. 2022SR1052428.
 
 ## Competition Awards(Mathematical Modeling and Computer Science Design):
 • 1st Place, 12th Mathor Cup College Mathematical Modeling Challenge 2022\
