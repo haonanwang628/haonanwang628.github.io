@@ -1,51 +1,169 @@
-# 🖥 Software and Competition Awards
-## Software Patents :
-*---🙏Thanks to the software application development collaboration with all Professors and Graduate Assistants from the **SpringTeng AI** and Liaoning Technical University, Liaoning University, and Qinghua University, being funded through our collaboration with **Chinese central State-owned Shenhua Ming Group Ltd and Zijin Ming Group Ltd enterprises**.*\
-[P.1] <span style="color:darkblue">**Haonan Wang**</span>, Mingjia, Zhao, et al. (2022). **Artificial intelligence robot programming interactive control
-system**. PRC Software Copyright Patent, Patent No. 2022SR1053901.\
-[P.2] <span style="color:darkblue">**Haonan Wang**</span>, Junfeng, Sun, et al. (2022). **Image recognition processing operation platform**. PRC Software
-Copyright Patent, Patent No. 2022SR1052419.\
-[P.3] <span style="color:darkblue">**Haonan Wang**</span>, Chang, Liu, et al. (2022). **Artificial Intelligence Community Security Equipment Monitoring
-System**. PRC Software Copyright Patent, Patent No. 2022SR1052492.\
-[P.4] <span style="color:darkblue">**Haonan Wang**</span>, Meng, Liu, et al. (2022). **A network behavior analysis system based on machine
-learning**. PRC Software Copyright Patent, Patent No. 2022SR1049807.\
-[P.5] <span style="color:darkblue">**Haonan Wang**</span>, Chi, Li, et al. (2022). **Autonomous Driving Intelligent Dispatching Center Management
-System**. PRC Software Copyright Patent, Patent No. 2022SR1052526.\
-[P.6] <span style="color:darkblue">**Haonan Wang**</span>, Ruiyang, Wang, et al. (2022). **Unmanned shortest path planning system**. PRC Software
-Copyright Patent, Patent No.2022SR0935020.\
-[P.7] <span style="color:darkblue">**Haonan Wang**</span>, Junfeng Sun, et al. (2022). **Data operation analysis and collection system based on machine
-learning**. PRC Software Copyright Patent, Patent No. 2022SR1052428.
+# 🖥️ Software & Intellectual Property
 
-## Competition Awards(Mathematical Modeling and Computer Science Design):
-• 1st Place, 12th Mathor Cup College Mathematical Modeling Challenge 2022\
-National-level award in China\
-• 1st Place, Liaoning Mathematical Modeling Contest 2022\
-Provincial-level award in China\
-• 1st Place, 7th Shuwei Mathematical Modeling Challenge for College Students 2022\
-National-level award in China\
-• 1st Place, 12th Mathor Cup College Mathematical Modeling Challenge 2022\
-National-level award in China\
-• 3rd Place, Liaoning Province "Shuo Ri Cup" College Student Computer Design 2022\
-Provincial-level award in China\
-• 3rd Place, Northeast Three Provinces Mathematical Modeling Competition 2022\
-Provincial-level award in China\
-• 2nd Place, American Mathematical Contest in Modeling 2022\
-International award\
-• 3rd Place, 14th National Undergraduate Computer Design Competition 2021\
-National-level award in China\
-• 3rd Place, 11th Mathor Cup University Mathematical Modeling Challenge 2021\
-National-level award in China\
-• 2nd Place, National College Students "Hua Shu Cup" Mathematical Modeling 2021\
-National-level award in China\
-• 1st Place, Liaoning Province "Shuo Ri Cup" College Student Computer Design 2021\
-Provincial-level award in China,\
-• 1st Place, Liaoning AgricuLNTUral Economic Modeling Competition 2021\
-Provincial-level award in China\
-• 1st Place, Outstanding Scholarship of the Faculty of Science, LNTU 2021\
-School-level award in China\
-• 1st Place, Career Planning Competition of the Faculty of Science, LNTU 2021\
-School-level award in China\
-• Academic Achievement Award of the School of Science, LNTU 2021\
-School-level award in China\
-• 2nd Place, Liaoning Mathematical Modeling Contest 2021\
-Provincial-level award in China
+<p style="font-size:0.93em; color:#666; margin-top:-5px; margin-bottom:18px;">
+Software copyrights resulting from collaborative university–industry research projects with academic and industrial partners in China.
+</p>
+
+<div style="line-height:1.55;">
+
+<strong>[P.1] Artificial Intelligence Robot Programming Interactive Control System</strong><br>
+<span style="color:darkblue;"><strong>Haonan Wang</strong></span>, Mingjia Zhao, et al. · PRC Software Copyright · 2022 · Registration No. 2022SR1053901
+<br><br>
+
+<strong>[P.2] Image Recognition Processing Operation Platform</strong><br>
+<span style="color:darkblue;"><strong>Haonan Wang</strong></span>, Junfeng Sun, et al. · PRC Software Copyright · 2022 · Registration No. 2022SR1052419
+<br><br>
+
+<strong>[P.3] Artificial Intelligence Community Security Equipment Monitoring System</strong><br>
+<span style="color:darkblue;"><strong>Haonan Wang</strong></span>, Chang Liu, et al. · PRC Software Copyright · 2022 · Registration No. 2022SR1052492
+<br><br>
+
+<strong>[P.4] A Network Behavior Analysis System Based on Machine Learning</strong><br>
+<span style="color:darkblue;"><strong>Haonan Wang</strong></span>, Meng Liu, et al. · PRC Software Copyright · 2022 · Registration No. 2022SR1049807
+<br><br>
+
+<strong>[P.5] Autonomous Driving Intelligent Dispatching Center Management System</strong><br>
+<span style="color:darkblue;"><strong>Haonan Wang</strong></span>, Chi Li, et al. · PRC Software Copyright · 2022 · Registration No. 2022SR1052526
+<br><br>
+
+<strong>[P.6] Unmanned Shortest Path Planning System</strong><br>
+<span style="color:darkblue;"><strong>Haonan Wang</strong></span>, Ruiyang Wang, et al. · PRC Software Copyright · 2022 · Registration No. 2022SR0935020
+<br><br>
+
+<strong>[P.7] Data Operation Analysis and Collection System Based on Machine Learning</strong><br>
+<span style="color:darkblue;"><strong>Haonan Wang</strong></span>, Junfeng Sun, et al. · PRC Software Copyright · 2022 · Registration No. 2022SR1052428
+
+</div>
+
+
+# 🏆 Selected Competition & Academic Awards
+
+<table style="width:100%; border-collapse:collapse; border:none; font-size:0.95em; margin-top:5px;">
+
+<tr style="border-bottom:1px solid #eaeaea;">
+  <th style="text-align:left; padding:8px 12px 8px 0; border:none;">Award</th>
+  <th style="text-align:left; padding:8px 12px; border:none; width:130px;">Level</th>
+  <th style="text-align:right; padding:8px 0 8px 12px; border:none; width:70px;">Year</th>
+</tr>
+
+<tr style="border-bottom:1px solid #f0f0f0;">
+  <td style="padding:8px 12px 8px 0; border:none;">
+    <strong>1st Place</strong>, 12th Mathor Cup College Mathematical Modeling Challenge
+  </td>
+  <td style="padding:8px 12px; border:none;">National</td>
+  <td style="padding:8px 0 8px 12px; border:none; text-align:right;">2022</td>
+</tr>
+
+<tr style="border-bottom:1px solid #f0f0f0;">
+  <td style="padding:8px 12px 8px 0; border:none;">
+    <strong>1st Place</strong>, Liaoning Mathematical Modeling Contest
+  </td>
+  <td style="padding:8px 12px; border:none;">Provincial</td>
+  <td style="padding:8px 0 8px 12px; border:none; text-align:right;">2022</td>
+</tr>
+
+<tr style="border-bottom:1px solid #f0f0f0;">
+  <td style="padding:8px 12px 8px 0; border:none;">
+    <strong>1st Place</strong>, 7th Shuwei Mathematical Modeling Challenge for College Students
+  </td>
+  <td style="padding:8px 12px; border:none;">National</td>
+  <td style="padding:8px 0 8px 12px; border:none; text-align:right;">2022</td>
+</tr>
+
+<tr style="border-bottom:1px solid #f0f0f0;">
+  <td style="padding:8px 12px 8px 0; border:none;">
+    <strong>3rd Place</strong>, Liaoning Province “Shuo Ri Cup” College Student Computer Design Competition
+  </td>
+  <td style="padding:8px 12px; border:none;">Provincial</td>
+  <td style="padding:8px 0 8px 12px; border:none; text-align:right;">2022</td>
+</tr>
+
+<tr style="border-bottom:1px solid #f0f0f0;">
+  <td style="padding:8px 12px 8px 0; border:none;">
+    <strong>3rd Place</strong>, Northeast Three Provinces Mathematical Modeling Competition
+  </td>
+  <td style="padding:8px 12px; border:none;">Provincial</td>
+  <td style="padding:8px 0 8px 12px; border:none; text-align:right;">2022</td>
+</tr>
+
+<tr style="border-bottom:1px solid #f0f0f0;">
+  <td style="padding:8px 12px 8px 0; border:none;">
+    <strong>2nd Place</strong>, American Mathematical Contest in Modeling
+  </td>
+  <td style="padding:8px 12px; border:none;">International</td>
+  <td style="padding:8px 0 8px 12px; border:none; text-align:right;">2022</td>
+</tr>
+
+<tr style="border-bottom:1px solid #f0f0f0;">
+  <td style="padding:8px 12px 8px 0; border:none;">
+    <strong>3rd Place</strong>, 14th National Undergraduate Computer Design Competition
+  </td>
+  <td style="padding:8px 12px; border:none;">National</td>
+  <td style="padding:8px 0 8px 12px; border:none; text-align:right;">2021</td>
+</tr>
+
+<tr style="border-bottom:1px solid #f0f0f0;">
+  <td style="padding:8px 12px 8px 0; border:none;">
+    <strong>3rd Place</strong>, 11th Mathor Cup University Mathematical Modeling Challenge
+  </td>
+  <td style="padding:8px 12px; border:none;">National</td>
+  <td style="padding:8px 0 8px 12px; border:none; text-align:right;">2021</td>
+</tr>
+
+<tr style="border-bottom:1px solid #f0f0f0;">
+  <td style="padding:8px 12px 8px 0; border:none;">
+    <strong>2nd Place</strong>, National College Students “Hua Shu Cup” Mathematical Modeling Competition
+  </td>
+  <td style="padding:8px 12px; border:none;">National</td>
+  <td style="padding:8px 0 8px 12px; border:none; text-align:right;">2021</td>
+</tr>
+
+<tr style="border-bottom:1px solid #f0f0f0;">
+  <td style="padding:8px 12px 8px 0; border:none;">
+    <strong>1st Place</strong>, Liaoning Province “Shuo Ri Cup” College Student Computer Design Competition
+  </td>
+  <td style="padding:8px 12px; border:none;">Provincial</td>
+  <td style="padding:8px 0 8px 12px; border:none; text-align:right;">2021</td>
+</tr>
+
+<tr style="border-bottom:1px solid #f0f0f0;">
+  <td style="padding:8px 12px 8px 0; border:none;">
+    <strong>1st Place</strong>, Liaoning Agricultural Economic Modeling Competition
+  </td>
+  <td style="padding:8px 12px; border:none;">Provincial</td>
+  <td style="padding:8px 0 8px 12px; border:none; text-align:right;">2021</td>
+</tr>
+
+<tr style="border-bottom:1px solid #f0f0f0;">
+  <td style="padding:8px 12px 8px 0; border:none;">
+    <strong>1st Place</strong>, Outstanding Scholarship, Faculty of Science, LNTU
+  </td>
+  <td style="padding:8px 12px; border:none;">University</td>
+  <td style="padding:8px 0 8px 12px; border:none; text-align:right;">2021</td>
+</tr>
+
+<tr style="border-bottom:1px solid #f0f0f0;">
+  <td style="padding:8px 12px 8px 0; border:none;">
+    <strong>1st Place</strong>, Career Planning Competition, Faculty of Science, LNTU
+  </td>
+  <td style="padding:8px 12px; border:none;">University</td>
+  <td style="padding:8px 0 8px 12px; border:none; text-align:right;">2021</td>
+</tr>
+
+<tr style="border-bottom:1px solid #f0f0f0;">
+  <td style="padding:8px 12px 8px 0; border:none;">
+    <strong>Academic Achievement Award</strong>, Faculty of Science, LNTU
+  </td>
+  <td style="padding:8px 12px; border:none;">University</td>
+  <td style="padding:8px 0 8px 12px; border:none; text-align:right;">2021</td>
+</tr>
+
+<tr>
+  <td style="padding:8px 12px 8px 0; border:none;">
+    <strong>2nd Place</strong>, Liaoning Mathematical Modeling Contest
+  </td>
+  <td style="padding:8px 12px; border:none;">Provincial</td>
+  <td style="padding:8px 0 8px 12px; border:none; text-align:right;">2021</td>
+</tr>
+
+</table>
