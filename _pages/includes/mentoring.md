@@ -5,7 +5,7 @@
 <tr style="border:none !important;">
 <td style="padding:8px 20px 8px 0; border:none !important; vertical-align:top;">
 <strong>Junfeng Sun</strong> (Master's Student, Liaoning Technical University)<br>
-<span style="font-size:0.92em; color:#666;">Multi-Agent Mutual-Awareness Debate for Improving Small Language Model Reasoning</span>
+<span style="font-size:0.92em; color:#666;">RL</span>
 </td>
 <td style="padding:8px 0; border:none !important; vertical-align:top; text-align:right; white-space:nowrap; width:180px;">
 Fall 2026 – Present
@@ -16,7 +16,7 @@ Fall 2026 – Present
 <tr style="border:none !important;">
 <td style="padding:8px 20px 8px 0; border:none !important; vertical-align:top;">
 <strong>Mingjia Zhao</strong> (Master's Student, Liaoning Technical University)<br>
-<span style="font-size:0.92em; color:#666;">Structured Process Reward Modeling for Legal Reasoning with Large Language Models</span>
+<span style="font-size:0.92em; color:#666;">In process</span>
 </td>
 <td style="padding:8px 0; border:none !important; vertical-align:top; text-align:right; white-space:nowrap; width:180px;">
 Fall 2026 – Present
