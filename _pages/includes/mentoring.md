@@ -11,7 +11,7 @@ Project: HorizonGuard: Reachability-Filtered Any-Step Dynamic Model-based Goal f
 </span>
 </td>
 <td style="padding:8px 0; border:none !important; vertical-align:top; text-align:right; white-space:nowrap; width:180px;">
-Fall 2026 – Present
+Fall 2024 
 </td>
 </tr>
 
@@ -24,7 +24,7 @@ Project: Incremental Expansion Method for Modular Reinforcement Learning Based o
 </span>
 </td>
 <td style="padding:8px 0; border:none !important; vertical-align:top; text-align:right; white-space:nowrap; width:180px;">
-Fall 2026 – Present
+Fall 2025 
 </td>
 </tr>
 
@@ -37,7 +37,7 @@ Project: In Progress
 </span>
 </td>
 <td style="padding:8px 0; border:none !important; vertical-align:top; text-align:right; white-space:nowrap; width:180px;">
-Fall 2026 – Present
+Fall 2025
 </td>
 </tr>
 
@@ -50,7 +50,7 @@ Project: In Progress
 </span>
 </td>
 <td style="padding:8px 0; border:none !important; vertical-align:top; text-align:right; white-space:nowrap; width:180px;">
-Fall 2026 – Present
+Fall 2025 
 </td>
 </tr>
 
