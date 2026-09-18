@@ -36,7 +36,7 @@ Software copyrights resulting from collaborative university–industry research 
 </div>
 
 
-# 🏆 Selected Competition & Academic Awards
+# Selected Competition Awards
 
 <table style="width:100%; border-collapse:collapse; border:none; font-size:0.95em; margin-top:5px;">
 
@@ -45,6 +45,8 @@ Software copyrights resulting from collaborative university–industry research 
   <th style="text-align:left; padding:8px 12px; border:none; width:130px;">Level</th>
   <th style="text-align:right; padding:8px 0 8px 12px; border:none; width:70px;">Year</th>
 </tr>
+
+<!-- 1st Place -->
 
 <tr style="border-bottom:1px solid #f0f0f0;">
   <td style="padding:8px 12px 8px 0; border:none;">
@@ -68,54 +70,6 @@ Software copyrights resulting from collaborative university–industry research 
   </td>
   <td style="padding:8px 12px; border:none;">National</td>
   <td style="padding:8px 0 8px 12px; border:none; text-align:right;">2022</td>
-</tr>
-
-<tr style="border-bottom:1px solid #f0f0f0;">
-  <td style="padding:8px 12px 8px 0; border:none;">
-    <strong>3rd Place</strong>, Liaoning Province “Shuo Ri Cup” College Student Computer Design Competition
-  </td>
-  <td style="padding:8px 12px; border:none;">Provincial</td>
-  <td style="padding:8px 0 8px 12px; border:none; text-align:right;">2022</td>
-</tr>
-
-<tr style="border-bottom:1px solid #f0f0f0;">
-  <td style="padding:8px 12px 8px 0; border:none;">
-    <strong>3rd Place</strong>, Northeast Three Provinces Mathematical Modeling Competition
-  </td>
-  <td style="padding:8px 12px; border:none;">Provincial</td>
-  <td style="padding:8px 0 8px 12px; border:none; text-align:right;">2022</td>
-</tr>
-
-<tr style="border-bottom:1px solid #f0f0f0;">
-  <td style="padding:8px 12px 8px 0; border:none;">
-    <strong>2nd Place</strong>, American Mathematical Contest in Modeling
-  </td>
-  <td style="padding:8px 12px; border:none;">International</td>
-  <td style="padding:8px 0 8px 12px; border:none; text-align:right;">2022</td>
-</tr>
-
-<tr style="border-bottom:1px solid #f0f0f0;">
-  <td style="padding:8px 12px 8px 0; border:none;">
-    <strong>3rd Place</strong>, 14th National Undergraduate Computer Design Competition
-  </td>
-  <td style="padding:8px 12px; border:none;">National</td>
-  <td style="padding:8px 0 8px 12px; border:none; text-align:right;">2021</td>
-</tr>
-
-<tr style="border-bottom:1px solid #f0f0f0;">
-  <td style="padding:8px 12px 8px 0; border:none;">
-    <strong>3rd Place</strong>, 11th Mathor Cup University Mathematical Modeling Challenge
-  </td>
-  <td style="padding:8px 12px; border:none;">National</td>
-  <td style="padding:8px 0 8px 12px; border:none; text-align:right;">2021</td>
-</tr>
-
-<tr style="border-bottom:1px solid #f0f0f0;">
-  <td style="padding:8px 12px 8px 0; border:none;">
-    <strong>2nd Place</strong>, National College Students “Hua Shu Cup” Mathematical Modeling Competition
-  </td>
-  <td style="padding:8px 12px; border:none;">National</td>
-  <td style="padding:8px 0 8px 12px; border:none; text-align:right;">2021</td>
 </tr>
 
 <tr style="border-bottom:1px solid #f0f0f0;">
@@ -150,19 +104,76 @@ Software copyrights resulting from collaborative university–industry research 
   <td style="padding:8px 0 8px 12px; border:none; text-align:right;">2021</td>
 </tr>
 
+
+<!-- 2nd Place -->
+
 <tr style="border-bottom:1px solid #f0f0f0;">
   <td style="padding:8px 12px 8px 0; border:none;">
-    <strong>Academic Achievement Award</strong>, Faculty of Science, LNTU
+    <strong>2nd Place</strong>, American Mathematical Contest in Modeling
   </td>
-  <td style="padding:8px 12px; border:none;">University</td>
+  <td style="padding:8px 12px; border:none;">International</td>
+  <td style="padding:8px 0 8px 12px; border:none; text-align:right;">2022</td>
+</tr>
+
+<tr style="border-bottom:1px solid #f0f0f0;">
+  <td style="padding:8px 12px 8px 0; border:none;">
+    <strong>2nd Place</strong>, National College Students “Hua Shu Cup” Mathematical Modeling Competition
+  </td>
+  <td style="padding:8px 12px; border:none;">National</td>
   <td style="padding:8px 0 8px 12px; border:none; text-align:right;">2021</td>
 </tr>
 
-<tr>
+<tr style="border-bottom:1px solid #f0f0f0;">
   <td style="padding:8px 12px 8px 0; border:none;">
     <strong>2nd Place</strong>, Liaoning Mathematical Modeling Contest
   </td>
   <td style="padding:8px 12px; border:none;">Provincial</td>
+  <td style="padding:8px 0 8px 12px; border:none; text-align:right;">2021</td>
+</tr>
+
+
+<!-- 3rd Place -->
+
+<tr style="border-bottom:1px solid #f0f0f0;">
+  <td style="padding:8px 12px 8px 0; border:none;">
+    <strong>3rd Place</strong>, Liaoning Province “Shuo Ri Cup” College Student Computer Design Competition
+  </td>
+  <td style="padding:8px 12px; border:none;">Provincial</td>
+  <td style="padding:8px 0 8px 12px; border:none; text-align:right;">2022</td>
+</tr>
+
+<tr style="border-bottom:1px solid #f0f0f0;">
+  <td style="padding:8px 12px 8px 0; border:none;">
+    <strong>3rd Place</strong>, Northeast Three Provinces Mathematical Modeling Competition
+  </td>
+  <td style="padding:8px 12px; border:none;">Provincial</td>
+  <td style="padding:8px 0 8px 12px; border:none; text-align:right;">2022</td>
+</tr>
+
+<tr style="border-bottom:1px solid #f0f0f0;">
+  <td style="padding:8px 12px 8px 0; border:none;">
+    <strong>3rd Place</strong>, 14th National Undergraduate Computer Design Competition
+  </td>
+  <td style="padding:8px 12px; border:none;">National</td>
+  <td style="padding:8px 0 8px 12px; border:none; text-align:right;">2021</td>
+</tr>
+
+<tr style="border-bottom:1px solid #f0f0f0;">
+  <td style="padding:8px 12px 8px 0; border:none;">
+    <strong>3rd Place</strong>, 11th Mathor Cup University Mathematical Modeling Challenge
+  </td>
+  <td style="padding:8px 12px; border:none;">National</td>
+  <td style="padding:8px 0 8px 12px; border:none; text-align:right;">2021</td>
+</tr>
+
+
+<!-- Other Academic Awards -->
+
+<tr>
+  <td style="padding:8px 12px 8px 0; border:none;">
+    <strong>Academic Achievement Award</strong>, Faculty of Science, LNTU
+  </td>
+  <td style="padding:8px 12px; border:none;">University</td>
   <td style="padding:8px 0 8px 12px; border:none; text-align:right;">2021</td>
 </tr>
 
