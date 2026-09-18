@@ -16,7 +16,7 @@ Fall 2026 – Present
 <tr style="border:none !important;">
 <td style="padding:8px 20px 8px 0; border:none !important; vertical-align:top;">
 <strong>Mingjia Zhao</strong> (Master's Student, Institute of Mathematics and Systems Science, Liaoning Technical University)<br>
-<span style="font-size:0.92em; color:#666;">In process</span>
+<span style="font-size:0.92em; color:#666;">Incremental Expansion Method for Modular Reinforcement Learning Based on Language Embedding</span>
 </td>
 <td style="padding:8px 0; border:none !important; vertical-align:top; text-align:right; white-space:nowrap; width:180px;">
 Fall 2026 – Present
