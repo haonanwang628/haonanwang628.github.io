@@ -58,7 +58,7 @@ Software copyrights resulting from collaborative university–industry research 
 
 <tr style="border-bottom:1px solid #f0f0f0;">
   <td style="padding:8px 12px 8px 0; border:none;">
-    <strong>1st Place</strong>, Liaoning Mathematical Modeling Contest
+    <strong>1st Place</strong>, 2th Liaoning Mathematical Modeling Contest
   </td>
   <td style="padding:8px 12px; border:none;">Provincial</td>
   <td style="padding:8px 0 8px 12px; border:none; text-align:right;">2022</td>
@@ -93,14 +93,6 @@ Software copyrights resulting from collaborative university–industry research 
 
 <tr style="border-bottom:1px solid #f0f0f0;">
   <td style="padding:8px 12px 8px 0; border:none;">
-    <strong>2nd Place</strong>, American Mathematical Contest in Modeling
-  </td>
-  <td style="padding:8px 12px; border:none;">International</td>
-  <td style="padding:8px 0 8px 12px; border:none; text-align:right;">2022</td>
-</tr>
-
-<tr style="border-bottom:1px solid #f0f0f0;">
-  <td style="padding:8px 12px 8px 0; border:none;">
     <strong>2nd Place</strong>, National College Students “Hua Shu Cup” Mathematical Modeling Competition
   </td>
   <td style="padding:8px 12px; border:none;">National</td>
@@ -109,7 +101,7 @@ Software copyrights resulting from collaborative university–industry research 
 
 <tr style="border-bottom:1px solid #f0f0f0;">
   <td style="padding:8px 12px 8px 0; border:none;">
-    <strong>2nd Place</strong>, Liaoning Mathematical Modeling Contest
+    <strong>2nd Place</strong>, 1th Liaoning Mathematical Modeling Contest
   </td>
   <td style="padding:8px 12px; border:none;">Provincial</td>
   <td style="padding:8px 0 8px 12px; border:none; text-align:right;">2021</td>
@@ -128,7 +120,7 @@ Software copyrights resulting from collaborative university–industry research 
 
 <tr style="border-bottom:1px solid #f0f0f0;">
   <td style="padding:8px 12px 8px 0; border:none;">
-    <strong>3rd Place</strong>, Northeast Three Provinces Mathematical Modeling Competition
+    <strong>3rd Place</strong>, 4th Northeast Three Provinces Mathematical Modeling Competition
   </td>
   <td style="padding:8px 12px; border:none;">Provincial</td>
   <td style="padding:8px 0 8px 12px; border:none; text-align:right;">2022</td>
