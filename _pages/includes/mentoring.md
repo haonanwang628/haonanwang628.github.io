@@ -33,7 +33,7 @@ Fall 2025
 <td style="padding:8px 20px 8px 0; border:none !important; vertical-align:top;">
 <strong>Linhai Zhang</strong> (Master's Student, Institute of Mathematics and Systems Science, Liaoning Technical University)<br>
 <span style="font-size:0.92em; color:#666; font-style:italic; font-weight:bold;">
-Project: In Progress
+Project: HPPO-ALNS: Hierarchical Control of Search Segments for Vehicle Routing with Time Windows
 </span>
 </td>
 <td style="padding:8px 0; border:none !important; vertical-align:top; text-align:right; white-space:nowrap; width:180px;">
