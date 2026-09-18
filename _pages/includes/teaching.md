@@ -1,4 +1,4 @@
-# 👨‍⚖️ Teaching
+# 👨‍⚖️ Teaching Experience
 
 <table style="width:100%; border-collapse:collapse; border:none; font-size:0.95em; margin-top:-8px; table-layout:fixed;">
 
