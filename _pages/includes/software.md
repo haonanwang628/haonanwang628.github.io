@@ -88,22 +88,6 @@ Software copyrights resulting from collaborative university–industry research 
   <td style="padding:8px 0 8px 12px; border:none; text-align:right;">2021</td>
 </tr>
 
-<tr style="border-bottom:1px solid #f0f0f0;">
-  <td style="padding:8px 12px 8px 0; border:none;">
-    <strong>1st Place</strong>, Outstanding Scholarship, Faculty of Science, LNTU
-  </td>
-  <td style="padding:8px 12px; border:none;">University</td>
-  <td style="padding:8px 0 8px 12px; border:none; text-align:right;">2021</td>
-</tr>
-
-<tr style="border-bottom:1px solid #f0f0f0;">
-  <td style="padding:8px 12px 8px 0; border:none;">
-    <strong>1st Place</strong>, Career Planning Competition, Faculty of Science, LNTU
-  </td>
-  <td style="padding:8px 12px; border:none;">University</td>
-  <td style="padding:8px 0 8px 12px; border:none; text-align:right;">2021</td>
-</tr>
-
 
 <!-- 2nd Place -->
 
@@ -167,14 +151,5 @@ Software copyrights resulting from collaborative university–industry research 
 </tr>
 
 
-<!-- Other Academic Awards -->
-
-<tr>
-  <td style="padding:8px 12px 8px 0; border:none;">
-    <strong>Academic Achievement Award</strong>, Faculty of Science, LNTU
-  </td>
-  <td style="padding:8px 12px; border:none;">University</td>
-  <td style="padding:8px 0 8px 12px; border:none; text-align:right;">2021</td>
-</tr>
 
 </table>
