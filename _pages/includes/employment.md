@@ -3,7 +3,7 @@
 
 <tr style="border-bottom: 1px solid #f0f0f0;">
     <td style="padding: 10px 0; border: none; vertical-align: top;">
-      <strong style="color: #111; font-size: 1.05em;">Research Assistant(Phd)</strong><br>
+      <strong style="color: #111; font-size: 1.05em;">Research Assistant(Phd Student)</strong><br>
       <a href="https://eng.auburn.edu/" style="text-decoration: none;">Collaborative Software Engineeringg lab, Auburn University</a>
     </td>
     <td style="padding: 10px 0; border: none; text-align: right; vertical-align: top; color: #666; font-size: 0.9em; white-space: nowrap;">
@@ -13,7 +13,7 @@
   
   <tr style="border-bottom: 1px solid #f0f0f0;">
     <td style="padding: 10px 0; border: none; vertical-align: top;">
-      <strong style="color: #111; font-size: 1.05em;">Research Assistant</strong><br>
+      <strong style="color: #111; font-size: 1.05em;">Research Assistant(Master Student)</strong><br>
       <a href="https://github.com/isle-dev" style="text-decoration: none;">ISLa lab, Johns Hopkins University</a>
     </td>
     <td style="padding: 10px 0; border: none; text-align: right; vertical-align: top; color: #666; font-size: 0.9em; white-space: nowrap;">
@@ -60,7 +60,7 @@
 
   <tr style="border-bottom: 1px solid #f0f0f0;">
     <td style="padding: 10px 0; border: none; vertical-align: top;">
-      <strong style="color: #111; font-size: 1.05em;">Research Assistant</strong><br>
+      <strong style="color: #111; font-size: 1.05em;">Research Assistant(Undergraduate Student)</strong><br>
       <a href="https://en.lntu.edu.cn/" style="text-decoration: none;">Institute of Mathematics and Systems Science, Liaoning Technology University</a>
     </td>
     <td style="padding: 10px 0; border: none; text-align: right; vertical-align: top; color: #666; font-size: 0.9em; white-space: nowrap;">
