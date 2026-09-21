@@ -20,5 +20,5 @@ My research broadly focuses on **LLM Agent Reasoning and Evaluation** to build l
 My current research centers on two directions:
 - **legal AI reasoning**: developing and evaluating LLM-based systems for long-document legal reasoning, understanding, and verifiable decision-making benchmarks.
 
-- **Reasoning and Behavior as Agent Harness**: studying reasoning dynamics in multi-agent systems, including collaboration, debate, feedback, self-correction, and the influence of model scale on agent interactions.
+- **Multi-Agent Collaboration Reasoning and Behavior as Agent Harness**: studying reasoning dynamics in multi-agent systems, including collaboration, debate, feedback, self-correction, and the influence of model scale on agent interactions.
 
