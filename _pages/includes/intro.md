@@ -14,11 +14,13 @@
    - I am also a **Co-founder** of **SpringTeng AI**, a startup community based in the China National University Science Park has secured initial support from Government High-Tech Industrial Investment, collaborating with [China Energy Zhunneng Group Investment](https://www.ceic.com/gjnyjtwwEn/index.shtml) on **AI data analysis systems and industrial software applications**.
    - I am also working with **Prof. Fanhui Zeng** in the [Chinese Association for Artificial Intelligence (CAAI) Technical Committee on Artificial Intelligence Foundations](https://www.caai.cn/site/term/111.html), with a research focus on the mathematical foundations of artificial intelligence.
   
-# 🤔 Research interest
-My research broadly focuses on **LLM Agent Reasoning and Evaluation** to build language-model agents that can reason, collaborate, and evaluate their decisions more reliably.
 
-My current research centers on two directions:
-- **legal AI reasoning**: developing and evaluating LLM-based systems for long-document legal reasoning, understanding, and verifiable decision-making benchmarks.
+- ## 🤔 Research interest
 
-- **Multi-Agent Collaboration Reasoning and Behavior as Agent Harness**: studying reasoning dynamics in multi-agent systems, including collaboration, debate, feedback, self-correction, and the influence of model scale on agent interactions.
+My research broadly focuses on **LLM Agent Reasoning and Multi-Agent Collaboration**, with particular interest in how interaction, coordination, and feedback shape collective reasoning and decision-making.
 
+My current research centers on two closely connected directions:
+
+- **Multi-Agent Collaboration and Agent Harnesses:** Studying how collaboration structures, interaction protocols, feedback, and agent heterogeneity shape reasoning performance, reliability, and failure modes in multi-agent systems.
+
+- **Legal AI and Long-Context Reasoning:** Studying long-document legal reasoning in LLM-based systems, with particular interest in evidence grounding, multi-perspective reasoning, and collaborative decision-making.
