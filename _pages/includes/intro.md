@@ -21,6 +21,6 @@ My research broadly focuses on **LLM Agent Reasoning and Multi-Agent Collaborati
 
 My current research centers on two closely connected directions:
 
-- **Multi-Agent Collaboration and Agent Harnesses:** Studying how collaboration structures, interaction protocols, feedback, and agent heterogeneity shape reasoning performance, reliability, and failure modes in multi-agent systems.
+- **Multi-Agent Communication & Collaboration Reasoning:** Studying how collaboration structures, interaction protocols, feedback, and agent heterogeneity shape reasoning performance, reliability, and failure modes in multi-agent systems.
 
 - **Legal AI and Long-Context Reasoning:** Studying long-document legal reasoning in LLM-based systems, with particular interest in evidence grounding, multi-perspective reasoning, and collaborative decision-making.
