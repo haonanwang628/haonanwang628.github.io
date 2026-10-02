@@ -10,17 +10,15 @@
   I received  ***my B.S. degree in Information and Computer Science and Mathematics*** from [Liaoning Technology University](https://en.lntu.edu.cn/) in the 2023 Spring.
   During my undergrad study, I spent time at the Institute of Mathematics and Systems Science and the Institute of Machine Learning and Data Mining, where I was advised by [Prof. Wei Liu](https://www.researchgate.net/profile/Wei-Liu-523) and [Prof.Yu Zhang](https://www.researchgate.net/profile/Yu-Zhang-264) works in Multivariate Statistical Analysis, Machine Learning, Reinforcement Learning, Informatics Theory, Numerical Analysis, and Math Modeling and Optimization Algorithms.
 - <span style=" color:#228B22; font-weight: bold;"> Professional Industry Activities : </span>
-   - I am an **Visiting Research Collaborator** with [EACON](https://www.eaconmining.com.au/), focusing on **AI agent reasoning for Driverless autonomous fleet coordination decision-making in intelligent mining operations**.
-   - I am also a **Co-founder** of **SpringTeng AI**, a startup community based in the China National University Science Park has secured initial support from Government High-Tech Industrial Investment, collaborating with [China Energy Zhunneng Group Investment](https://www.ceic.com/gjnyjtwwEn/index.shtml) on **AI data analysis systems and industrial software applications**.
+   - I am a **Visiting Research Collaborator** with [EACON](https://www.eaconmining.com.au/), focusing on **AI agent reasoning for Driverless autonomous fleet coordination decision-making in intelligent mining operations**.
+   - I am also a **Co-founder** of **SpringTeng AI**, a startup community based in the China National University Science Park that has secured initial support from Government High-Tech Industrial Investment, collaborating with [China Energy Zhunneng Group Investment](https://www.ceic.com/gjnyjtwwEn/index.shtml) on **AI data analysis systems and industrial software applications**.
    - I am also working with **Prof. Fanhui Zeng** in the [Chinese Association for Artificial Intelligence (CAAI) Technical Committee on Artificial Intelligence Foundations](https://www.caai.cn/site/term/111.html), with a research focus on the mathematical foundations of artificial intelligence.
   
 
 - ## 🤔 Research interest
 
-My research broadly focuses on **LLM Agent Reasoning and Multi-Agent Collaboration**, with particular interest in how interaction, coordination, and feedback shape collective reasoning and decision-making.
-
-My current research centers on two closely connected directions:
+My research broadly focuses on **LLM agent reasoning and Legal AI**, with my current research centered on two closely connected directions:
 
 - **Multi-Agent Communication & Collaboration Reasoning:** Studying how collaboration structures, interaction protocols, feedback, and agent heterogeneity shape reasoning performance, reliability, and failure modes in multi-agent systems.
 
-- **Legal AI and Long-Context Reasoning:** Studying long-document legal reasoning in LLM-based systems, with particular interest in evidence grounding, multi-perspective reasoning, and collaborative decision-making.
+- **Legal AI and Long-Context Reasoning:** Studying complex long-context documents for legal reasoning in LLM-based systems and Retrieval-Augmented Generation (RAG), with particular interest in evidence grounding, multi-perspective reasoning, and collaborative decision-making.
