@@ -1,2 +1,2 @@
 - Reviewers:
-  - **NeurIPS 2026 Conference** Position Paper Track 
+  - **NeurIPS 2026 Conference Position Paper Track** 
