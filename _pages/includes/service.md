@@ -2,19 +2,7 @@
 # 📋 Professional Conference Service
 ## Invited Reviewer
 
-<table style="width:100%; border-collapse: collapse; border: none; font-size: 0.95em;">
-
-<tr style="border-bottom: 1px solid #f0f0f0;">
-    <td style="padding: 10px 0; border: none; vertical-align: top;">
-      <strong style="color: #111; font-size: 1.05em;">Conference on Neural Information Processing Systems(NeurIPS) </strong><br>
-    </td>
-    <td style="padding: 10px 0; border: none; text-align: right; vertical-align: top; color: #666; font-size: 0.9em; white-space: nowrap;">
-      <b>2026</b>
-    </td>
-  </tr>
-</table>
-
 <div style="display: flex; justify-content: space-between; align-items: baseline;">
   <span><strong>Conference on Neural Information Processing Systems(NeurIPS)</strong></span>
-  <span>May 2026</span>
+  <span>2026</span>
 </div>
