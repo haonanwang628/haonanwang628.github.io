@@ -1,17 +1,15 @@
- 
-# 🛫 Professional  Service
+# 🛫 Professional Service
 
 ## Conference Reviewer
 
 <div style="display: flex; justify-content: space-between; align-items: baseline;">
-  <span><em><em><strong>Conference on Neural Information Processing Systems(NeurIPS)</strong><em></span>
+  <span><em><strong>Conference on Neural Information Processing Systems (NeurIPS)</strong></em></span>
   <span>2026</span>
 </div>
-
 
 ## Journal Reviewer
 
 <div style="display: flex; justify-content: space-between; align-items: baseline;">
-  <span><em><strong>Scientific Reports(Nature Portfolio)</strong><em></span>
+  <span><em><strong>Scientific Reports (Nature Portfolio)</strong></em></span>
   <span>2025</span>
 </div>
