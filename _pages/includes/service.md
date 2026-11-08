@@ -1,2 +1,3 @@
-- Reviewers:
-  - **NeurIPS 2026 Conference Position Paper Track** 
+ 
+# 📋 Professional Conference Service
+ - **Conference on Neural Information Processing Systems (NeurIPS)** Position Paper Track
