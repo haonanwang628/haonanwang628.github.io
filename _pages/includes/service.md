@@ -1,8 +1,15 @@
  
-# 📋 Professional Conference Service
-## Invited Reviewer
+# 📋 Professional  Service
+## Conference Reviewer
 
 <div style="display: flex; justify-content: space-between; align-items: baseline;">
-  <span><strong>Conference on Neural Information Processing Systems(NeurIPS)</strong></span>
+  <span><em>S<strong>Conference on Neural Information Processing Systems(NeurIPS)</strong><em>S</span>
   <span>2026</span>
+</div>
+
+## Journal Reviewer
+
+<div style="display: flex; justify-content: space-between; align-items: baseline;">
+  <span><em>S<strong>Scientific Reports</strong><em>S</span>
+  <span>2025</span>
 </div>
