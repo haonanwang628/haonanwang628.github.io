@@ -1,7 +1,6 @@
  
 # 📋 Professional Conference Service
 ## Invited Reviewer
- - **Conference on Neural Information Processing Systems (NeurIPS)** Position Paper Track 2026
 
 <table style="width:100%; border-collapse: collapse; border: none; font-size: 0.95em;">
 
