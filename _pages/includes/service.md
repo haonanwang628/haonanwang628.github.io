@@ -10,6 +10,6 @@
 ## Journal Reviewer
 
 <div style="display: flex; justify-content: space-between; align-items: baseline;">
-  <span><em>S<strong>Scientific Reports</strong><em>S</span>
+  <span><em><strong>Scientific Reports(Nature Portfolio)</strong><em></span>
   <span>2025</span>
 </div>
