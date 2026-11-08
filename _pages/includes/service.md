@@ -11,7 +11,7 @@
 </td>
 
 <td style="padding:8px 10px 12px 10px; border:none; vertical-align:top; width:25%;">
-<strong style="color:#111; font-size:1.05em;">Graduate Teaching Assistant</strong><br>
+<strong style="color:#111; font-size:1.05em;">Invited Reviewer</strong><br>
 <span style="color:#666; font-size:0.92em; line-height:1.7;">2026</span>
 </td>
 </tr>
