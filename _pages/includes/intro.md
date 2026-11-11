@@ -17,7 +17,7 @@
 
 - ## 🤔 Research interest
 
-My research broadly focuses on **LLM agent reasoning and Legal AI**, with my current research centered on two closely connected directions:
+My current research broadly focuses on **LLM agent reasoning and Legal AI**, with my current research centered on two closely connected directions:
 
 - **Multi-Agent Communication & Collaboration Reasoning:** Studying how collaboration structures, interaction protocols, feedback, and agent heterogeneity shape reasoning performance, reliability, and failure modes in multi-agent systems.
 
